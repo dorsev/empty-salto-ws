@@ -1,0 +1,7 @@
+type salesforce.OrganizationSettingsDetail {
+  string settingName {
+  }
+  string settingValue {
+  }
+  metadataType = "OrganizationSettingsDetail"
+}
