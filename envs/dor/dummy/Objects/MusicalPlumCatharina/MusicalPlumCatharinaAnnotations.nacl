@@ -1,0 +1,74 @@
+type dummy.MusicalPlumCatharina {
+  annotations {
+    number TightMoccasinElysha {
+    }
+    dummy.AggregateTurquoiseMeg BloodyBlackSianna {
+    }
+    string QualifiedBrownAdoree {
+    }
+    string WorthyAmaranthEde {
+    }
+    boolean DeterminedTealNeala {
+    }
+    dummy.TensePinkSidoney SickCoffeeTimothea {
+    }
+    boolean UnlikelyCrimsonJeanna {
+    }
+    dummy.CautiousRoseYettie IntermediateJadeTara {
+    }
+    dummy.GratefulRoseEricka BlankTanMadelin {
+    }
+    json DustyAmethystLeila {
+    }
+    dummy.AmbitiousAmberBrigit FatRedBobbe {
+    }
+    dummy.DelightfulGrayAlfie ConceptualChocolateGoldie {
+    }
+    number MeanPlumConsuelo {
+    }
+    json RepresentativeSilverCordelia {
+    }
+    dummy.AmbitiousAmberBrigit DyingAquaMeris {
+    }
+    serviceid ConstantRoseIvie {
+    }
+    dummy.NovelApricotWallie OccasionalAzureAlisa {
+    }
+    boolean UnpleasantTealBernardina {
+    }
+    dummy.AmbitiousAmberBrigit RandomAquamarineSuzanne {
+    }
+    dummy.FutureRedCammi SuperbOliveYvette {
+    }
+    json DullTanOralee {
+    }
+    boolean InjuredChocolateLeela {
+    }
+    boolean KindBlushErmengarde {
+    }
+    string FaintFuchsiaJermaine {
+    }
+  }
+  TightMoccasinElysha = 416
+  BloodyBlackSianna = 424
+  QualifiedBrownAdoree = "Whoever invented the knock-knock joke should get a no bell prize."
+  WorthyAmaranthEde = "What creature is smarter than a talking parrot? A spelling bee."
+  DeterminedTealNeala = true
+  UnlikelyCrimsonJeanna = true
+  IntermediateJadeTara = 839
+  DustyAmethystLeila = "Why didnt the skeleton cross the road? Because he had no guts."
+  FatRedBobbe = file("OkSapphireTiff.txt")
+  ConceptualChocolateGoldie = file("AutonomousIndigoLyndsey.txt")
+  MeanPlumConsuelo = 527
+  RepresentativeSilverCordelia = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  DyingAquaMeris = file("DecisiveBronzeWillamina.txt")
+  ConstantRoseIvie = "A steak pun is a rare medium well done."
+  OccasionalAzureAlisa = 970
+  UnpleasantTealBernardina = true
+  RandomAquamarineSuzanne = file("ThirstyJadeCostanza.txt")
+  SuperbOliveYvette = 348
+  DullTanOralee = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  InjuredChocolateLeela = true
+  KindBlushErmengarde = true
+  FaintFuchsiaJermaine = "Did you hear the joke about the wandering nun? She was a roman catholic."
+}

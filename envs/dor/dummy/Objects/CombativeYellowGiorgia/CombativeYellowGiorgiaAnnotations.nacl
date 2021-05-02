@@ -1,0 +1,64 @@
+type dummy.CombativeYellowGiorgia {
+  annotations {
+    serviceid UrbanCoffeeMagdalene {
+    }
+    json LegislativeTealAnestassia {
+    }
+    number AngryRedMariel {
+    }
+    serviceid DrivingIndigoFlorry {
+    }
+    dummy.HotYellowMeagan CuriousPinkDoralyn {
+    }
+    dummy.SupposedTealArdys RightApricotGussie {
+    }
+    dummy.WrittenAzureLizabeth IndustrialBrownKarylin {
+    }
+    dummy.GastricAmethystMichaela RealAmberLaurella {
+    }
+    string CausalMagentaJinny {
+    }
+    serviceid BiologicalPlumDamita {
+    }
+    dummy.EstimatedAmethystKaycee TallPlumAlyda {
+    }
+    dummy.JapaneseCoralRodina OrdinaryApricotMilzie {
+    }
+    dummy.WrittenAzureLizabeth ExcellentAzureJeanna {
+    }
+    serviceid CapableBlushPetra {
+    }
+    dummy.PreciousVioletAnnabelle SingleJadeJacki {
+    }
+    boolean FranticScarletAllix {
+    }
+    boolean LikelyApricotMerola {
+    }
+    dummy.GrossAquaLilli ProspectiveTurquoiseHeddie {
+    }
+    boolean MedicalBrownCatlee {
+    }
+    dummy.DEFAULT ItalianSapphireCinda {
+    }
+  }
+  UrbanCoffeeMagdalene = "What did one nut say as he chased another nut?  I'm a cashew!"
+  LegislativeTealAnestassia = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  AngryRedMariel = 400
+  DrivingIndigoFlorry = "Whoever invented the knock-knock joke should get a no bell prize."
+  CuriousPinkDoralyn = file("ModestJadeErma.txt")
+  IndustrialBrownKarylin = true
+  RealAmberLaurella = 264
+  CausalMagentaJinny = "How come the stadium got hot after the game? Because all of the fans left."
+  BiologicalPlumDamita = "Why did the tomato blush? Because it saw the salad dressing."
+  OrdinaryApricotMilzie = false
+  ExcellentAzureJeanna = true
+  CapableBlushPetra = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  SingleJadeJacki = file("CanadianPeachCorry.txt")
+  FranticScarletAllix = false
+  LikelyApricotMerola = true
+  ProspectiveTurquoiseHeddie = 825
+  MedicalBrownCatlee = false
+  ItalianSapphireCinda = {
+    legit = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  }
+}

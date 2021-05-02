@@ -1,0 +1,30 @@
+type dummy.ExceptionalAmethystAggy {
+  annotations {
+    dummy.PreciousVioletAnnabelle SeriousRoseFaith {
+    }
+    dummy.IntellectualAmethystNetty SecureWhiteDara {
+    }
+    string UsualBlushMaudie {
+    }
+    serviceid ChubbyPeachCelina {
+    }
+    boolean WhisperingCrimsonHulda {
+    }
+    dummy.IntellectualAmethystNetty FuzzyBeigeMarketa {
+    }
+  }
+  dummy.GreasyYellowAnallise PreciseOliveAlexandrina {
+    LittleGreenMaren = "Why did the kid cross the playground? To get to the other slide."
+    TiredIvoryDorri = 257
+    LikeApricotCharity = "What do you do on a remote island? Try and find the TV island it belongs to."
+    UnlikelyBeigeKorney = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    DemocraticJadeTallie = "Why didnt the skeleton cross the road? Because he had no guts."
+  }
+  SeriousRoseFaith = file("RichCopperYevette.txt")
+  SecureWhiteDara = file("QuickCoralCarmel.txt")
+  UsualBlushMaudie = "Dad Im hungry  Hi hungry Im dad"
+  ChubbyPeachCelina = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  WhisperingCrimsonHulda = false
+  FuzzyBeigeMarketa = file("ForeignHarlequinJuline.txt")
+  _hidden_value = true
+}

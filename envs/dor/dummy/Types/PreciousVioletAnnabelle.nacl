@@ -1,0 +1,24 @@
+type dummy.PreciousVioletAnnabelle is string {
+  annotations {
+    dummy.DEFAULT GrossPinkAnni {
+    }
+    dummy.AmazingTealOlympia HomelyBrownRochette {
+    }
+    number QuickHarlequinMaressa {
+    }
+    json RegulatoryBlackSashenka {
+    }
+    json PregnantIndigoCassondra {
+    }
+    serviceid VariousBlushMirabelle {
+    }
+  }
+  GrossPinkAnni = {
+    legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+  }
+  HomelyBrownRochette = file("EmpiricalRedDeonne.txt")
+  QuickHarlequinMaressa = 56
+  RegulatoryBlackSashenka = "What do you call two barracuda fish?  A Pairacuda!"
+  PregnantIndigoCassondra = "Slept like a log last night  woke up in the fireplace."
+  VariousBlushMirabelle = "What do you call two barracuda fish?  A Pairacuda!"
+}

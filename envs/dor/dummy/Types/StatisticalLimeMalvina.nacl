@@ -1,0 +1,23 @@
+type dummy.StatisticalLimeMalvina {
+  annotations {
+    dummy.InformalGreenMadalena ShaggyAquamarineConstantine {
+    }
+    string PrettyCoffeeSonni {
+    }
+    dummy.PreciousVioletAnnabelle EstimatedRedMarketa {
+    }
+    string ImmediateOliveMichell {
+    }
+    boolean FierceJadeAnia {
+    }
+    dummy.HardYellowLula MonetaryScarletGratia {
+    }
+  }
+  string MissingCopperEyde {
+  }
+  PrettyCoffeeSonni = "Why did the kid cross the playground? To get to the other slide."
+  EstimatedRedMarketa = file("AdvancedIndigoGillie.txt")
+  ImmediateOliveMichell = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  FierceJadeAnia = false
+  _hidden_value = true
+}

@@ -1,0 +1,26 @@
+type dummy.ObviousLavenderLayla {
+  annotations {
+    dummy.LesserOliveAndie ConsiderableLavenderAbbye {
+    }
+    dummy.OrganisationalVioletCharmion BlindJadeKarin {
+    }
+    number ExcitedGreenSonja {
+    }
+    string CheapWhiteDaloris {
+    }
+  }
+  dummy.OrganisationalVioletCharmion FondTealJosee {
+    MaleTurquoiseDebora = file("ResponsibleCrimsonVanessa.txt")
+  }
+  boolean ObligedTealBecki {
+  }
+  string WesternEmeraldDeeann {
+  }
+  boolean DustyAquamarineCharmine {
+  }
+  ConsiderableLavenderAbbye = file("AmbitiousCoffeeRebekah.txt")
+  BlindJadeKarin = true
+  ExcitedGreenSonja = 965
+  CheapWhiteDaloris = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _hidden_value = true
+}

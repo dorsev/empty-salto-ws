@@ -1,0 +1,63 @@
+type dummy.SillyOliveMeriel {
+  annotations {
+    dummy.AmazingTealOlympia SemanticIndigoFelicity {
+    }
+    dummy.RomanticAmberYalonda LivingEmeraldJill {
+    }
+    dummy.NovelApricotWallie ReligiousSilverFlorentia {
+    }
+    dummy.AmbitiousAmberBrigit LittleSilverDasi {
+    }
+    string SeniorCoralGae {
+    }
+    dummy.ParticularPurpleOfilia CrazyAquamarineMegen {
+    }
+    dummy.OrganisationalVioletCharmion GiganticOrangeSibyl {
+    }
+    number CostlyTealShalna {
+    }
+  }
+  string MisleadingPeachMarchelle {
+  }
+  boolean JustMoccasinSuzanne {
+  }
+  string SlowOrangeRowe {
+  }
+  string MarxistRedElisha {
+  }
+  dummy.AggregateTurquoiseMeg BlackIndigoEugine {
+    WealthyIndigoRubie = 765
+    IllegalAmaranthAmaleta = false
+    VeryPurpleNicoli = file("SpareAquamarineTammie.txt")
+    ComprehensiveSilverDanette = false
+    NakedCoffeeGinelle = file("FullPlumCatarina.txt")
+    CausalAzureNollie = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    RemoteAzureTeddy = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    GreasyPinkBilli = "How come the stadium got hot after the game? Because all of the fans left."
+    AliveBlueJemmy = file("TiredBlushElse.txt")
+    YummyAquamarineLinnet = false
+    HuskyScarletOthilia = file("GothicAmethystJulietta.txt")
+    FairPurpleBecky = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  }
+  dummy.PreciousVioletAnnabelle GrimEmeraldCordey {
+    GrossPinkAnni = {
+      legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    }
+    HomelyBrownRochette = file("ExceptionalBrownKiah.txt")
+    QuickHarlequinMaressa = 139
+    RegulatoryBlackSashenka = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    PregnantIndigoCassondra = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    VariousBlushMirabelle = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  }
+  serviceid SuddenScarletJessie {
+  }
+  SemanticIndigoFelicity = file("ChangingIndigoJacklyn.txt")
+  LivingEmeraldJill = file("PowerfulVioletJosephina.txt")
+  ReligiousSilverFlorentia = 138
+  LittleSilverDasi = file("DryOrangeVeronica.txt")
+  SeniorCoralGae = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  CrazyAquamarineMegen = true
+  GiganticOrangeSibyl = true
+  CostlyTealShalna = 789
+  _hidden_value = true
+}

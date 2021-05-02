@@ -1,0 +1,73 @@
+type dummy.ProudTealCoral {
+  annotations {
+    boolean VoicelessAmberAnnabelle {
+    }
+    string FundamentalCyanAjay {
+    }
+    string CompulsoryChocolateHanna {
+    }
+    dummy.AmbitiousAmberBrigit StrategicLavenderBelicia {
+    }
+    dummy.PreciousVioletAnnabelle FriendlyAquamarineAnnadiana {
+    }
+    serviceid FluffyBlushMarissa {
+    }
+    serviceid WanderingAmaranthIleane {
+    }
+    dummy.AmazingTealOlympia AgreeableJadeJobey {
+    }
+    string MushyCyanDeidre {
+    }
+    dummy.CharmingPlumXena CloseYellowLurleen {
+    }
+    boolean ExpectedLavenderBambie {
+    }
+    json UnchangedChocolateAleece {
+    }
+    number ColossalCoffeeEmmey {
+    }
+    number IcyHarlequinPaula {
+    }
+    dummy.JapaneseCoralRodina DampMagentaRivi {
+    }
+    serviceid ZanyRedKala {
+    }
+    string LuckyMaroonPearl {
+    }
+    dummy.AggregateTurquoiseMeg WorryingAquaPaula {
+    }
+    dummy.InnerCopperCele MetropolitanGreenNikkie {
+    }
+    dummy.StickyMagentaDominique RealAmberRaquel {
+    }
+    dummy.SmoothCrimsonAlyse VitalCyanEustacia {
+    }
+    serviceid DiverseCopperJori {
+    }
+    number SadBrownDomini {
+    }
+    json ExtraCopperWanids {
+    }
+  }
+  VoicelessAmberAnnabelle = true
+  FundamentalCyanAjay = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  CompulsoryChocolateHanna = "A steak pun is a rare medium well done."
+  StrategicLavenderBelicia = file("RelativeLimeDiane.txt")
+  FriendlyAquamarineAnnadiana = file("RainyPinkAnnice.txt")
+  FluffyBlushMarissa = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  WanderingAmaranthIleane = "What did one nut say as he chased another nut?  I'm a cashew!"
+  AgreeableJadeJobey = file("TameCoffeeViviana.txt")
+  MushyCyanDeidre = "What did one nut say as he chased another nut?  I'm a cashew!"
+  ExpectedLavenderBambie = false
+  UnchangedChocolateAleece = "Why did the kid cross the playground? To get to the other slide."
+  ColossalCoffeeEmmey = 681
+  IcyHarlequinPaula = 805
+  DampMagentaRivi = true
+  ZanyRedKala = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  LuckyMaroonPearl = "Im only familiar with 25 letters in the English language. I dont know why."
+  WorryingAquaPaula = 910
+  RealAmberRaquel = 783
+  DiverseCopperJori = "What creature is smarter than a talking parrot? A spelling bee."
+  SadBrownDomini = 341
+  ExtraCopperWanids = "What do you do on a remote island? Try and find the TV island it belongs to."
+}

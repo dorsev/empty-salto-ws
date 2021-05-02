@@ -1,0 +1,71 @@
+type dummy.MentalPinkNedi {
+  annotations {
+    json SilentBronzeEllie {
+    }
+    dummy.OrganisationalVioletCharmion TestyBrownMelitta {
+    }
+    dummy.StandardHarlequinMalena OlympicTealSaidee {
+    }
+    dummy.DEFAULT UniversalCoralKaitlynn {
+    }
+    json StiffMoccasinBirgitta {
+    }
+  }
+  boolean StraightSalmonAurelia {
+  }
+  dummy.PreciousVioletAnnabelle BareMaroonPrue {
+    GrossPinkAnni = {
+      legit = "What creature is smarter than a talking parrot? A spelling bee."
+    }
+    HomelyBrownRochette = file("DeafeningIvoryAbigail.txt")
+    QuickHarlequinMaressa = 757
+    RegulatoryBlackSashenka = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    PregnantIndigoCassondra = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    VariousBlushMirabelle = "Slept like a log last night  woke up in the fireplace."
+  }
+  dummy.RomanticAmberYalonda StraightforwardTomatoStacee {
+    BiologicalEmeraldAaren = true
+    GoldenWhiteKarin = true
+    NeutralPinkDolores = false
+    FuzzyAquaJenilee = 86
+  }
+  dummy.ControlledJadeHadria JewishGreenDarsie {
+    FaithfulMoccasinRania = 935
+    DefiniteTanWilma = "Whoever invented the knock-knock joke should get a no bell prize."
+    PerfectRoseNikolia = "My first time using an elevator was an uplifting experience. The second time let me down."
+    KindBlackJudith = false
+    ElderlyMaroonRahel = "Did you know that protons have mass? I didn't even know they were catholic."
+  }
+  serviceid NaturalSilverShayne {
+  }
+  serviceid DarkCrimsonDeana {
+  }
+  boolean DisciplinaryBlackOfilia {
+  }
+  boolean GreekPurpleMignonne {
+  }
+  dummy.RomanticAmberYalonda HandsomeHarlequinCodi {
+    BiologicalEmeraldAaren = true
+    GoldenWhiteKarin = false
+    NeutralPinkDolores = false
+    FuzzyAquaJenilee = 736
+  }
+  serviceid NoisyAmberCarolyn {
+  }
+  number CleverAquamarineYevette {
+  }
+  "List<dummy.HollowIvoryAlie>" FrontTomatoJessamyn {
+    RichAquaSheila = {
+      legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    }
+    InstantTanAshely = true
+    HungryTealAurelia = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  }
+  SilentBronzeEllie = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  TestyBrownMelitta = true
+  UniversalCoralKaitlynn = {
+    legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  }
+  StiffMoccasinBirgitta = "Why do birds fly south for the winter? Because it's too far to walk."
+  _hidden_value = true
+}

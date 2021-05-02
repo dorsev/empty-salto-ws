@@ -1,0 +1,77 @@
+type dummy.DamagedRoseHelyn {
+  annotations {
+    dummy.AggregateTurquoiseMeg ItalianBrownConcettina {
+    }
+    dummy.AmazingTealOlympia BrilliantCyanCornelia {
+    }
+    boolean UncertainIndigoWilhelmina {
+    }
+    dummy.JapaneseCoralRodina EstablishedMaroonMeghann {
+    }
+    number HighSilverHeidi {
+    }
+    string HomelessMoccasinMareah {
+    }
+    json DualCrimsonIzabel {
+    }
+    dummy.PuzzledPurpleBlinni DullPurpleLynett {
+    }
+    json VeryRoseMelina {
+    }
+    boolean BewilderedAquaDeeanne {
+    }
+    number JointIvoryDrucie {
+    }
+    boolean IntelligentBlushEada {
+    }
+    string LongSapphireAlane {
+    }
+    number StingySapphireJacintha {
+    }
+    string JapaneseFuchsiaGlennie {
+    }
+    json ColossalChocolateCaritta {
+    }
+    dummy.SupposedTealArdys HistoricalBronzeEtty {
+    }
+    json IrishTealVikky {
+    }
+    dummy.NovelApricotWallie WrongPlumMady {
+    }
+    json FrontSilverBeth {
+    }
+    number OtherPinkMoselle {
+    }
+    dummy.PreciousVioletAnnabelle InterestingEmeraldCatharina {
+    }
+    dummy.IntegratedMoccasinClarissa CognitiveTealMatty {
+    }
+    dummy.FutureRedCammi UnexpectedRoseLucia {
+    }
+    number EasyCyanSheena {
+    }
+  }
+  ItalianBrownConcettina = 614
+  BrilliantCyanCornelia = file("SubjectiveBrownThekla.txt")
+  UncertainIndigoWilhelmina = false
+  EstablishedMaroonMeghann = true
+  HighSilverHeidi = 832
+  HomelessMoccasinMareah = "What do you call two barracuda fish?  A Pairacuda!"
+  DualCrimsonIzabel = "Did you know that protons have mass? I didn't even know they were catholic."
+  VeryRoseMelina = "I'll tell you what often gets over looked... garden fences."
+  BewilderedAquaDeeanne = false
+  JointIvoryDrucie = 57
+  IntelligentBlushEada = true
+  LongSapphireAlane = "What creature is smarter than a talking parrot? A spelling bee."
+  StingySapphireJacintha = 304
+  JapaneseFuchsiaGlennie = "Did you know that protons have mass? I didn't even know they were catholic."
+  ColossalChocolateCaritta = "Im only familiar with 25 letters in the English language. I dont know why."
+  IrishTealVikky = "Whoever invented the knock-knock joke should get a no bell prize."
+  WrongPlumMady = 987
+  FrontSilverBeth = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  OtherPinkMoselle = 443
+  InterestingEmeraldCatharina = file("UnchangedMaroonMeris.txt")
+  CognitiveTealMatty = 364
+  UnexpectedRoseLucia = 834
+  EasyCyanSheena = 662
+}

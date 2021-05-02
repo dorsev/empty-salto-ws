@@ -1,0 +1,56 @@
+type dummy.DisciplinaryCoralEleanora {
+  annotations {
+    dummy.IsraeliLavenderDaron UniquePurpleGerhardine {
+    }
+    dummy.RomanticAmberYalonda PlainBlueJustinn {
+    }
+    number EnergeticCrimsonMarnia {
+    }
+    dummy.ParticularPurpleOfilia BrightMaroonMurielle {
+    }
+    dummy.PuzzledPurpleBlinni MysteriousAmberElie {
+    }
+    json InnocentSapphireLane {
+    }
+    number ArmedHarlequinLatia {
+    }
+    string EnviousGreenKizzee {
+    }
+    string DoubtfulAmethystHelena {
+    }
+    json CharacteristicTanLynelle {
+    }
+    string DeterminedYellowKaren {
+    }
+    serviceid DevelopedPlumPriscella {
+    }
+    dummy.PreciousVioletAnnabelle FlakyEmeraldBernardine {
+    }
+    dummy.WidePinkCorine LeadingTanBinnie {
+    }
+    dummy.NovelApricotWallie StrangeJadeGodiva {
+    }
+    serviceid ReadyBlushBianca {
+    }
+    dummy.RomanticAmberYalonda WelcomeLavenderArabel {
+    }
+  }
+  PlainBlueJustinn = file("PremierIvoryWenonah.txt")
+  EnergeticCrimsonMarnia = 262
+  BrightMaroonMurielle = true
+  InnocentSapphireLane = "Why did the tomato blush? Because it saw the salad dressing."
+  ArmedHarlequinLatia = 864
+  EnviousGreenKizzee = "What do you call two barracuda fish?  A Pairacuda!"
+  DoubtfulAmethystHelena = "Whoever invented the knock-knock joke should get a no bell prize."
+  CharacteristicTanLynelle = "Why was it called the dark ages? Because of all the knights. "
+  DeterminedYellowKaren = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  DevelopedPlumPriscella = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  FlakyEmeraldBernardine = file("WorthwhileIndigoRoch.txt")
+  LeadingTanBinnie = {
+    NetLimeKassandra = true
+    MaximumBeigeGayel = true
+  }
+  StrangeJadeGodiva = 255
+  ReadyBlushBianca = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  WelcomeLavenderArabel = file("OuterGoldJanie.txt")
+}

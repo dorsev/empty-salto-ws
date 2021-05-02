@@ -1,0 +1,7 @@
+type dummy.ProtestantLimeRobbin is string {
+  annotations {
+    boolean BindingGoldBirgit {
+    }
+  }
+  BindingGoldBirgit = false
+}

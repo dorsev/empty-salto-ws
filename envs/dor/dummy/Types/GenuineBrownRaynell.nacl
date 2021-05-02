@@ -1,0 +1,34 @@
+type dummy.GenuineBrownRaynell is number {
+  annotations {
+    json FewSalmonNatalya {
+    }
+    json LargeCoralEmogene {
+    }
+    dummy.HotYellowMeagan UnlikelyLavenderGabbi {
+    }
+    string HonestBlushTiffi {
+    }
+    dummy.AggregateTurquoiseMeg LikeMaroonPauline {
+    }
+    dummy.PreciousVioletAnnabelle UglyIndigoAva {
+    }
+    dummy.IntellectualAmethystNetty CrookedTomatoLeland {
+    }
+    dummy.JapaneseCoralRodina UnsightlyGrayChristian {
+    }
+    string CurrentAmaranthMuffin {
+    }
+    dummy.AmazingTealOlympia BlushingEmeraldOfilia {
+    }
+  }
+  FewSalmonNatalya = "Dad Im hungry  Hi hungry Im dad"
+  LargeCoralEmogene = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  UnlikelyLavenderGabbi = file("SpottyTanIngrid.txt")
+  HonestBlushTiffi = "What creature is smarter than a talking parrot? A spelling bee."
+  LikeMaroonPauline = 288
+  UglyIndigoAva = file("PartialTanLaney.txt")
+  CrookedTomatoLeland = file("IcyFuchsiaErminia.txt")
+  UnsightlyGrayChristian = true
+  CurrentAmaranthMuffin = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  BlushingEmeraldOfilia = file("ConstitutionalIndigoNariko.txt")
+}

@@ -1,0 +1,64 @@
+type dummy.AsleepCoffeeBreena {
+  annotations {
+    boolean HelpfulBlushMaire {
+    }
+    string FastAmberKatharine {
+    }
+    boolean ItchyVioletHeddie {
+    }
+    boolean SkinnyAmaranthSarine {
+    }
+    boolean RomanSalmonBabita {
+    }
+    dummy.IndependentPinkCatha TallSapphireKathrine {
+    }
+    string ManagerialCoralViolette {
+    }
+    boolean JointBlueGennie {
+    }
+    json SlipperyAquamarineRania {
+    }
+    dummy.KoreanTurquoiseJeannie GoldenVioletMab {
+    }
+    dummy.ParticularPurpleOfilia VeryChocolateJeana {
+    }
+    dummy.JapaneseCoralRodina InsufficientTanMurielle {
+    }
+    string HissingMoccasinYoshiko {
+    }
+    dummy.AmazingTealOlympia SweetBlackClem {
+    }
+    number PlasticAquaJolie {
+    }
+    dummy.AmazingTealOlympia TypicalChocolateAnni {
+    }
+    string LiableAzureLaverne {
+    }
+    boolean MightyBronzeLucita {
+    }
+    string SkinnyOrangeJohnna {
+    }
+    dummy.AggregateTurquoiseMeg DailyIndigoCecil {
+    }
+  }
+  HelpfulBlushMaire = true
+  FastAmberKatharine = "Dad Im hungry  Hi hungry Im dad"
+  ItchyVioletHeddie = false
+  SkinnyAmaranthSarine = false
+  RomanSalmonBabita = false
+  TallSapphireKathrine = true
+  ManagerialCoralViolette = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  JointBlueGennie = false
+  SlipperyAquamarineRania = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  GoldenVioletMab = file("ContentWhiteSusannah.txt")
+  VeryChocolateJeana = true
+  InsufficientTanMurielle = false
+  HissingMoccasinYoshiko = "Why didnt the skeleton cross the road? Because he had no guts."
+  SweetBlackClem = file("ObligedScarletChristel.txt")
+  PlasticAquaJolie = 108
+  TypicalChocolateAnni = file("GlobalLavenderLiva.txt")
+  LiableAzureLaverne = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  MightyBronzeLucita = false
+  SkinnyOrangeJohnna = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  DailyIndigoCecil = 137
+}

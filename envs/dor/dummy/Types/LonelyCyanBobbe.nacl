@@ -1,0 +1,22 @@
+type dummy.LonelyCyanBobbe {
+  annotations {
+    number MeanGoldBeryl {
+    }
+    boolean HomelessJadeAlameda {
+    }
+    number EvilIndigoShena {
+    }
+    dummy.ParticularPurpleOfilia ExtraordinaryCoffeeDarby {
+    }
+    dummy.AmazingTealOlympia WillingBlushCrissy {
+    }
+  }
+  json VastTomatoCatlee {
+  }
+  MeanGoldBeryl = 583
+  HomelessJadeAlameda = true
+  EvilIndigoShena = 440
+  ExtraordinaryCoffeeDarby = false
+  WillingBlushCrissy = file("InnocentAmaranthMariejeanne.txt")
+  _hidden_value = true
+}

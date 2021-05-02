@@ -1,0 +1,25 @@
+type dummy.FriendlyFuchsiaHarri {
+  annotations {
+    dummy.NiceBrownHoney ClassicalSalmonMollie {
+    }
+    dummy.NuclearAquamarineMaurise WidespreadLimeCarol {
+    }
+    dummy.GastricPinkAngy BrokenTomatoBobbe {
+    }
+    dummy.LesserOliveAndie BlueIndigoRiannon {
+    }
+    json BrilliantSilverCarlina {
+    }
+    string SoleSapphireKeslie {
+    }
+  }
+  json InnovativeRoseJessy {
+  }
+  number AmusedApricotKittie {
+  }
+  ClassicalSalmonMollie = true
+  BlueIndigoRiannon = file("YummyChocolateRheta.txt")
+  BrilliantSilverCarlina = "What creature is smarter than a talking parrot? A spelling bee."
+  SoleSapphireKeslie = "Why didnt the skeleton cross the road? Because he had no guts."
+  _hidden_value = true
+}

@@ -1,0 +1,45 @@
+type dummy.DistinctWhitePrudence {
+  annotations {
+    boolean SovietScarletSherry {
+    }
+    json FamousPinkNelie {
+    }
+    dummy.KoreanTurquoiseJeannie EmbarrassedBronzeLenore {
+    }
+    dummy.PreciousVioletAnnabelle EmptyRedJami {
+    }
+    serviceid HorribleBlueTrixi {
+    }
+  }
+  dummy.HotYellowMeagan DualCopperKaila {
+    ControlledLavenderClarita = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    CriminalWhiteViolet = false
+    ShrillMagentaMadlin = 864
+    ParliamentaryChocolateGlory = 930
+    NoisyWhiteTildi = "Im only familiar with 25 letters in the English language. I dont know why."
+    CombativeTurquoiseBrandise = "Why is Peter Pan always flying? Because he Neverlands."
+    RoughBrownJenn = false
+    OperationalGoldCissy = "What do you do on a remote island? Try and find the TV island it belongs to."
+    CapitalistOrangeDella = true
+    ComprehensivePurpleKerrin = 963
+    InnocentLavenderAleda = "A steak pun is a rare medium well done."
+    UnlikelyTomatoDavine = 441
+    PreferredCyanTamra = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    WanderingTurquoiseKevina = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    ActualAmaranthJosefa = true
+    VaryingPurpleRuthie = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    SuspiciousTanBernadine = 573
+    ArmedScarletCathrin = 199
+    SparklingAmaranthLeone = "Why did the tomato blush? Because it saw the salad dressing."
+    SpiritualJadeSibylle = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    ValuablePeachBunni = "Im only familiar with 25 letters in the English language. I dont know why."
+    FrightenedAzureOralie = "Why do birds fly south for the winter? Because it's too far to walk."
+    StrangeSapphireDarbie = "Why do birds fly south for the winter? Because it's too far to walk."
+  }
+  SovietScarletSherry = false
+  FamousPinkNelie = "Did you know that protons have mass? I didn't even know they were catholic."
+  EmbarrassedBronzeLenore = file("CombinedRedLindie.txt")
+  EmptyRedJami = file("FunnyEmeraldOdette.txt")
+  HorribleBlueTrixi = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _hidden_value = true
+}

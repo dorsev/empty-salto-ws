@@ -1,0 +1,27 @@
+type dummy.IntelligentTanFayette {
+  annotations {
+    boolean MeanMagentaLacie {
+    }
+    json RequiredBrownRayna {
+    }
+    boolean PrimitiveApricotMarcelline {
+    }
+    dummy.HotYellowMeagan LexicalAzureShellie {
+    }
+    dummy.IndependentPinkCatha JollyGreenElla {
+    }
+    dummy.PerfectOrangeEmmalyn CatholicRosePrissie {
+    }
+    dummy.AggregateTurquoiseMeg CognitiveTomatoSydelle {
+    }
+  }
+  json TragicRedElyn {
+  }
+  MeanMagentaLacie = true
+  RequiredBrownRayna = "Dad Im hungry  Hi hungry Im dad"
+  PrimitiveApricotMarcelline = true
+  LexicalAzureShellie = file("HomelessAmaranthAlanna.txt")
+  JollyGreenElla = true
+  CognitiveTomatoSydelle = 931
+  _hidden_value = true
+}

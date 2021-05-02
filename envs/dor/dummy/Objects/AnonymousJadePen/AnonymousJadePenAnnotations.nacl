@@ -1,0 +1,69 @@
+type dummy.AnonymousJadePen {
+  annotations {
+    dummy.OrganisationalVioletCharmion EmptyOliveDanya {
+    }
+    boolean InnerOliveDalia {
+    }
+    dummy.AggregateTurquoiseMeg DearPeachShelli {
+    }
+    dummy.KoreanTurquoiseJeannie QualifiedJadeHerminia {
+    }
+    dummy.WrittenFuchsiaBeverly ToughAzureSeana {
+    }
+    json IntegratedGreenRaphaela {
+    }
+    dummy.AmbitiousAmberBrigit GreekBrownKoo {
+    }
+    dummy.AmazingTealOlympia LikelyChocolateAngelle {
+    }
+    dummy.NoisyMagentaJobey SpanishAmethystEddy {
+    }
+    serviceid FluffyBlushMarjory {
+    }
+    dummy.GrimCopperRanna SpontaneousAquaAurora {
+    }
+    dummy.ClosedCoralShayna SillyAmaranthLucy {
+    }
+    boolean WorriedPinkCecile {
+    }
+    dummy.AmazingTealOlympia WorldwideScarletPortia {
+    }
+    number PrimaryWhiteGusty {
+    }
+    dummy.PreciousVioletAnnabelle MissingOrangeDenice {
+    }
+    json ProbableWhiteViva {
+    }
+    json WhisperingBronzeMelony {
+    }
+    string BasicBlueAlika {
+    }
+    string InherentGrayLaurette {
+    }
+    dummy.NovelApricotWallie ShaggyBlushDominica {
+    }
+    dummy.AmbitiousAmberBrigit ObedientPlumMab {
+    }
+  }
+  EmptyOliveDanya = false
+  InnerOliveDalia = false
+  DearPeachShelli = 261
+  QualifiedJadeHerminia = file("ObligedYellowAmara.txt")
+  ToughAzureSeana = 347
+  IntegratedGreenRaphaela = "Im only familiar with 25 letters in the English language. I dont know why."
+  GreekBrownKoo = file("ProposedMagentaTerri.txt")
+  LikelyChocolateAngelle = file("HuskyAmberHermione.txt")
+  SpanishAmethystEddy = 218
+  FluffyBlushMarjory = "Why didnt the skeleton cross the road? Because he had no guts."
+  SillyAmaranthLucy = 425
+  WorriedPinkCecile = true
+  WorldwideScarletPortia = file("SpontaneousLimeBecki.txt")
+  PrimaryWhiteGusty = 808
+  MissingOrangeDenice = file("BoredAmethystKonstance.txt")
+  ProbableWhiteViva = "I'll tell you what often gets over looked... garden fences."
+  WhisperingBronzeMelony = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  BasicBlueAlika = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  InherentGrayLaurette = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ShaggyBlushDominica = 679
+  ObedientPlumMab = file("FrightenedApricotBettye.txt")
+}

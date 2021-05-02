@@ -1,0 +1,91 @@
+type dummy.KoreanTurquoiseJeannie is string {
+  annotations {
+    serviceid JustVioletSosanna {
+    }
+    boolean InstantTomatoBinny {
+    }
+    string DullIndigoKaralynn {
+    }
+    dummy.WrittenAzureLizabeth PreciseApricotTory {
+    }
+    string AfraidAquaFawn {
+    }
+    string TartTurquoiseFarra {
+    }
+    string EuropeanWhiteLynnet {
+    }
+    number EasternTealCharlena {
+    }
+    dummy.ShallowPlumJenda ObjectiveCrimsonKathrine {
+    }
+    serviceid UnlikelySapphireWendi {
+    }
+    number ConvenientChocolateKandace {
+    }
+    dummy.NiceBrownHoney VariousAmberPhillida {
+    }
+    string FullFuchsiaPattie {
+    }
+    number EligibleRoseAthena {
+    }
+    dummy.ClosedCoralShayna SuitableMagentaBernadette {
+    }
+    dummy.NoisyMagentaJobey NiceSapphireTeddy {
+    }
+    boolean VoicelessIvoryClementia {
+    }
+    boolean EqualFuchsiaKati {
+    }
+    number RelievedBlackJennine {
+    }
+    number LimitedCrimsonDrusy {
+    }
+    serviceid ProtestantAzureStafani {
+    }
+    serviceid WeakCyanMorgan {
+    }
+    number SympatheticSapphireVikki {
+    }
+    boolean EmbarrassedSalmonMarisa {
+    }
+    dummy.IndependentPinkCatha YellowIndigoJehanna {
+    }
+    json BrainyBrownFernandina {
+    }
+    json ConceptualAmethystGwenneth {
+    }
+    json OppositeRoseKristal {
+    }
+    string AestheticGrayLesly {
+    }
+  }
+  JustVioletSosanna = "What do you do on a remote island? Try and find the TV island it belongs to."
+  InstantTomatoBinny = false
+  DullIndigoKaralynn = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  PreciseApricotTory = true
+  AfraidAquaFawn = "Why did the kid cross the playground? To get to the other slide."
+  TartTurquoiseFarra = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  EuropeanWhiteLynnet = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  EasternTealCharlena = 910
+  ObjectiveCrimsonKathrine = false
+  UnlikelySapphireWendi = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  ConvenientChocolateKandace = 377
+  VariousAmberPhillida = true
+  FullFuchsiaPattie = "How come the stadium got hot after the game? Because all of the fans left."
+  EligibleRoseAthena = 513
+  SuitableMagentaBernadette = 52
+  NiceSapphireTeddy = 906
+  VoicelessIvoryClementia = false
+  EqualFuchsiaKati = false
+  RelievedBlackJennine = 176
+  LimitedCrimsonDrusy = 869
+  ProtestantAzureStafani = "Why do birds fly south for the winter? Because it's too far to walk."
+  WeakCyanMorgan = "Why did the tomato blush? Because it saw the salad dressing."
+  SympatheticSapphireVikki = 803
+  EmbarrassedSalmonMarisa = false
+  YellowIndigoJehanna = true
+  BrainyBrownFernandina = "Why is Peter Pan always flying? Because he Neverlands."
+  ConceptualAmethystGwenneth = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  OppositeRoseKristal = "Why did the kid cross the playground? To get to the other slide."
+  AestheticGrayLesly = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+}

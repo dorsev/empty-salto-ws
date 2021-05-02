@@ -1,0 +1,42 @@
+type dummy.GrossAquaLilli is number {
+  annotations {
+    string PremierAmberRandy {
+    }
+    serviceid RespectableAquaGilbertina {
+    }
+    string PreciseBeigeGwenny {
+    }
+    serviceid DevelopedCopperIlsa {
+    }
+    string ProperBlushLise {
+    }
+    serviceid UncomfortableOliveNoelyn {
+    }
+    dummy.DEFAULT TastyPeachJan {
+    }
+    string ProspectiveBlushBrietta {
+    }
+    serviceid UrbanTealGeorgeta {
+    }
+    string ChemicalOliveGlyn {
+    }
+    number MobileSilverRachelle {
+    }
+    boolean JointBlushChryste {
+    }
+  }
+  PremierAmberRandy = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  RespectableAquaGilbertina = "Why is Peter Pan always flying? Because he Neverlands."
+  PreciseBeigeGwenny = "Slept like a log last night  woke up in the fireplace."
+  DevelopedCopperIlsa = "What creature is smarter than a talking parrot? A spelling bee."
+  ProperBlushLise = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  UncomfortableOliveNoelyn = "Im only familiar with 25 letters in the English language. I dont know why."
+  TastyPeachJan = {
+    legit = "Dad Im hungry  Hi hungry Im dad"
+  }
+  ProspectiveBlushBrietta = "How come the stadium got hot after the game? Because all of the fans left."
+  UrbanTealGeorgeta = "To be Frank, I'd have to change my name."
+  ChemicalOliveGlyn = "What did one nut say as he chased another nut?  I'm a cashew!"
+  MobileSilverRachelle = 446
+  JointBlushChryste = true
+}

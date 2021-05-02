@@ -1,0 +1,48 @@
+type dummy.DesirableOrangeElla {
+  annotations {
+    dummy.AmbitiousAmberBrigit GorgeousApricotKathryne {
+    }
+    dummy.KoreanTurquoiseJeannie MonthlyGoldBrandice {
+    }
+    json UltimateEmeraldRobenia {
+    }
+    serviceid ReasonableYellowHeath {
+    }
+    string AdjacentGoldCele {
+    }
+    json ColdTurquoiseJulietta {
+    }
+  }
+  dummy.HotYellowMeagan GladVioletMignon {
+    ControlledLavenderClarita = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    CriminalWhiteViolet = true
+    ShrillMagentaMadlin = 217
+    ParliamentaryChocolateGlory = 325
+    NoisyWhiteTildi = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    CombativeTurquoiseBrandise = "What creature is smarter than a talking parrot? A spelling bee."
+    RoughBrownJenn = false
+    OperationalGoldCissy = "What did one nut say as he chased another nut?  I'm a cashew!"
+    CapitalistOrangeDella = false
+    ComprehensivePurpleKerrin = 426
+    InnocentLavenderAleda = "Dad Im hungry  Hi hungry Im dad"
+    UnlikelyTomatoDavine = 732
+    PreferredCyanTamra = "Dad Im hungry  Hi hungry Im dad"
+    WanderingTurquoiseKevina = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    ActualAmaranthJosefa = true
+    VaryingPurpleRuthie = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    SuspiciousTanBernadine = 808
+    ArmedScarletCathrin = 897
+    SparklingAmaranthLeone = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    SpiritualJadeSibylle = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    ValuablePeachBunni = "Whoever invented the knock-knock joke should get a no bell prize."
+    FrightenedAzureOralie = "What did one nut say as he chased another nut?  I'm a cashew!"
+    StrangeSapphireDarbie = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  }
+  GorgeousApricotKathryne = file("StickyTanDarcie.txt")
+  MonthlyGoldBrandice = file("PreviousAquaRobby.txt")
+  UltimateEmeraldRobenia = "Why didnt the skeleton cross the road? Because he had no guts."
+  ReasonableYellowHeath = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  AdjacentGoldCele = "How come the stadium got hot after the game? Because all of the fans left."
+  ColdTurquoiseJulietta = "Why is Peter Pan always flying? Because he Neverlands."
+  _hidden_value = true
+}

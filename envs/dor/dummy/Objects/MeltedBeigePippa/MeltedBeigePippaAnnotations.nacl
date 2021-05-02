@@ -1,0 +1,65 @@
+type dummy.MeltedBeigePippa {
+  annotations {
+    dummy.AmazingTealOlympia BasicLimeSelina {
+    }
+    string PuzzledAmaranthFelicle {
+    }
+    dummy.PreciousVioletAnnabelle TallGoldDavine {
+    }
+    number MalePinkErtha {
+    }
+    dummy.FreeCopperSiusan DifferentAmaranthMarlyn {
+    }
+    dummy.NiceBrownHoney BeneficialSapphireAlida {
+    }
+    boolean DesirableGreenSal {
+    }
+    string MoaningCoffeeGuenevere {
+    }
+    dummy.AggregateTurquoiseMeg UglyWhiteGracie {
+    }
+    dummy.KoreanTurquoiseJeannie DyingVioletCordey {
+    }
+    dummy.DEFAULT EmptyRedRachelle {
+    }
+    serviceid ShallowCrimsonEmogene {
+    }
+    dummy.GreasyYellowAnallise IrrelevantVioletVinita {
+    }
+    dummy.AmazingTealOlympia StandardAquamarineToby {
+    }
+    dummy.JapaneseCoralRodina CommercialCoralBarbie {
+    }
+    string ConstitutionalApricotBarbaraanne {
+    }
+    dummy.NovelApricotWallie CalmMoccasinRhoda {
+    }
+    number DemocraticRedHelyn {
+    }
+    dummy.RomanticAmberYalonda NosyMoccasinBerni {
+    }
+    json IndustrialSilverGlen {
+    }
+  }
+  BasicLimeSelina = file("EnviousScarletMeredithe.txt")
+  PuzzledAmaranthFelicle = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  TallGoldDavine = file("GeneralTealLauryn.txt")
+  MalePinkErtha = 716
+  BeneficialSapphireAlida = true
+  DesirableGreenSal = true
+  MoaningCoffeeGuenevere = "Whoever invented the knock-knock joke should get a no bell prize."
+  UglyWhiteGracie = 137
+  DyingVioletCordey = file("TerribleAzureDorthea.txt")
+  EmptyRedRachelle = {
+    legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  }
+  ShallowCrimsonEmogene = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  IrrelevantVioletVinita = 669
+  StandardAquamarineToby = file("MagnificentAquaDavita.txt")
+  CommercialCoralBarbie = false
+  ConstitutionalApricotBarbaraanne = "Why is Peter Pan always flying? Because he Neverlands."
+  CalmMoccasinRhoda = 359
+  DemocraticRedHelyn = 772
+  NosyMoccasinBerni = file("SelectCrimsonAngelita.txt")
+  IndustrialSilverGlen = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+}

@@ -1,0 +1,63 @@
+type dummy.NewGrayLuisa {
+  annotations {
+    json HostileWhiteMeghann {
+    }
+    json HorizontalAmberCarmina {
+    }
+    json PrivateBlueRow {
+    }
+    json MinimalOliveElfrieda {
+    }
+    dummy.ShallowPlumJenda PowerfulSalmonClarisse {
+    }
+    string BitterVioletDanita {
+    }
+    string DyingScarletMoselle {
+    }
+    dummy.SpecifiedGreenPhilis UrbanMagentaDita {
+    }
+    dummy.AmazingTealOlympia VocationalBlackMariejeanne {
+    }
+    json ModerateLimeGui {
+    }
+    json ProfoundCrimsonCandice {
+    }
+    number ScientificAmethystLeonore {
+    }
+    boolean LightBlackJuliann {
+    }
+    serviceid HistoricalYellowDanika {
+    }
+    dummy.MalePurpleAdella WorkingScarletEtheline {
+    }
+    boolean HungryCoralNorma {
+    }
+    number PlainBlueArda {
+    }
+    dummy.LeadingIndigoSephira OrganicCoffeeRobbi {
+    }
+    dummy.IntellectualAmethystNetty EerieBeigeCloe {
+    }
+    dummy.OrganisationalVioletCharmion PartialTealMarylinda {
+    }
+  }
+  HostileWhiteMeghann = "A steak pun is a rare medium well done."
+  HorizontalAmberCarmina = "Why was it called the dark ages? Because of all the knights. "
+  PrivateBlueRow = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  MinimalOliveElfrieda = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  PowerfulSalmonClarisse = false
+  BitterVioletDanita = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  DyingScarletMoselle = "What do you call two barracuda fish?  A Pairacuda!"
+  VocationalBlackMariejeanne = file("CruelAmethystCherlyn.txt")
+  ModerateLimeGui = "Did you know that protons have mass? I didn't even know they were catholic."
+  ProfoundCrimsonCandice = "How come the stadium got hot after the game? Because all of the fans left."
+  ScientificAmethystLeonore = 483
+  LightBlackJuliann = true
+  HistoricalYellowDanika = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  WorkingScarletEtheline = 329
+  HungryCoralNorma = false
+  PlainBlueArda = 439
+  OrganicCoffeeRobbi = 484
+  EerieBeigeCloe = file("RapidTomatoAmeline.txt")
+  PartialTealMarylinda = true
+}

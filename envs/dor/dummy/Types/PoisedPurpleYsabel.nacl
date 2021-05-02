@@ -1,0 +1,21 @@
+type dummy.PoisedPurpleYsabel {
+  annotations {
+    serviceid BeneficialBronzeKarin {
+    }
+    json WetBronzeFreddy {
+    }
+    string FamiliarJadeMyrtle {
+    }
+    dummy.AmazingTealOlympia SunnySilverTamarah {
+    }
+  }
+  serviceid CautiousFuchsiaBlinnie {
+  }
+  json QuietPlumMufinella {
+  }
+  BeneficialBronzeKarin = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  WetBronzeFreddy = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  FamiliarJadeMyrtle = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  SunnySilverTamarah = file("ManyAmaranthLorne.txt")
+  _hidden_value = true
+}

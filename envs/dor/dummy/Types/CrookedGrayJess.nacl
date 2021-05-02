@@ -1,0 +1,28 @@
+type dummy.CrookedGrayJess {
+  annotations {
+    dummy.AmazingTealOlympia CapableMoccasinAeriela {
+    }
+    dummy.AmazingTealOlympia EfficientJadeTerry {
+    }
+    dummy.KoreanTurquoiseJeannie InnocentAzureEkaterina {
+    }
+    dummy.OrganisationalVioletCharmion CrucialIndigoIsahella {
+    }
+  }
+  dummy.NovelApricotWallie ResultingScarletLynsey {
+    NeutralJadeRoseann = "Why is Peter Pan always flying? Because he Neverlands."
+    SoftMagentaKris = "Why did the kid cross the playground? To get to the other slide."
+    DeterminedTomatoViolante = false
+    IntermediateEmeraldJanine = false
+    CorporateAquamarineMary = "Did you know that protons have mass? I didn't even know they were catholic."
+    InterimCoralEtti = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    SmoothMaroonOlenka = 250
+    PeacefulAmaranthRicca = file("HotBlackAbbi.txt")
+    LightGreenHestia = file("RipeEmeraldSophie.txt")
+  }
+  CapableMoccasinAeriela = file("CrazyBrownJennilee.txt")
+  EfficientJadeTerry = file("ArabBlushMelisse.txt")
+  InnocentAzureEkaterina = file("CreepyApricotFran.txt")
+  CrucialIndigoIsahella = true
+  _hidden_value = true
+}

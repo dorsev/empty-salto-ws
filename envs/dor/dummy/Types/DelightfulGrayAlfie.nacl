@@ -1,0 +1,75 @@
+type dummy.DelightfulGrayAlfie is string {
+  annotations {
+    serviceid BoringBeigeRomona {
+    }
+    serviceid UniversalLavenderDorthy {
+    }
+    boolean IncPurpleSarena {
+    }
+    number HarshBlueDannie {
+    }
+    serviceid OrganicCrimsonShae {
+    }
+    serviceid SelfishLavenderKatuscha {
+    }
+    serviceid MechanicalLimeLianna {
+    }
+    serviceid FrightenedBeigeLaurel {
+    }
+    string IraqiPeachEdythe {
+    }
+    boolean PleasantBeigePoppy {
+    }
+    json ImaginativeCyanVivienne {
+    }
+    number AbsentBlackCris {
+    }
+    serviceid ElectoralAquaWanids {
+    }
+    string SmoggyYellowAinsley {
+    }
+    boolean ProfitableSapphireZilvia {
+    }
+    serviceid VitalGreenLivvyy {
+    }
+    dummy.DEFAULT SwiftFuchsiaMaxy {
+    }
+    serviceid SymbolicScarletHerminia {
+    }
+    serviceid HelpfulLavenderErna {
+    }
+    number DualMaroonRosmunda {
+    }
+    string BiologicalJadeDacey {
+    }
+    string IntensiveAquaClarine {
+    }
+    number ConvincedMaroonRosina {
+    }
+  }
+  BoringBeigeRomona = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  UniversalLavenderDorthy = "What do you call two barracuda fish?  A Pairacuda!"
+  IncPurpleSarena = true
+  HarshBlueDannie = 264
+  OrganicCrimsonShae = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  SelfishLavenderKatuscha = "Im only familiar with 25 letters in the English language. I dont know why."
+  MechanicalLimeLianna = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  FrightenedBeigeLaurel = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  IraqiPeachEdythe = "To be Frank, I'd have to change my name."
+  PleasantBeigePoppy = false
+  ImaginativeCyanVivienne = "My first time using an elevator was an uplifting experience. The second time let me down."
+  AbsentBlackCris = 292
+  ElectoralAquaWanids = "Why did the kid cross the playground? To get to the other slide."
+  SmoggyYellowAinsley = "Dad Im hungry  Hi hungry Im dad"
+  ProfitableSapphireZilvia = false
+  VitalGreenLivvyy = "Whoever invented the knock-knock joke should get a no bell prize."
+  SwiftFuchsiaMaxy = {
+    legit = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  }
+  SymbolicScarletHerminia = "Im only familiar with 25 letters in the English language. I dont know why."
+  HelpfulLavenderErna = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  DualMaroonRosmunda = 632
+  BiologicalJadeDacey = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  IntensiveAquaClarine = "My first time using an elevator was an uplifting experience. The second time let me down."
+  ConvincedMaroonRosina = 983
+}

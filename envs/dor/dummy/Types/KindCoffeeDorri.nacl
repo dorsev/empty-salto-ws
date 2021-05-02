@@ -1,0 +1,42 @@
+type dummy.KindCoffeeDorri {
+  annotations {
+    serviceid LexicalCoralSharona {
+    }
+    dummy.DefiniteCopperVirgie AlternativeAquaEolanda {
+    }
+    dummy.PreciousVioletAnnabelle ConfidentCyanLana {
+    }
+    json AliveTanEdee {
+    }
+    boolean TiredOliveFrederique {
+    }
+    dummy.GreasyYellowAnallise AggregateSilverFania {
+    }
+  }
+  number MagicScarletBobbye {
+  }
+  json SleepyAzureTobey {
+  }
+  serviceid TerribleLimeDatha {
+  }
+  json FutureCoffeeWinna {
+  }
+  "List<string>" FullAquamarineJulieta {
+  }
+  string AdvisoryCyanGabie {
+  }
+  string ZanyCopperNeila {
+  }
+  number AverageCyanJerrilyn {
+  }
+  number HealthyPeachMerrill {
+  }
+  number ElectronicBronzeAnge {
+  }
+  LexicalCoralSharona = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  ConfidentCyanLana = file("StrictIvoryShirl.txt")
+  AliveTanEdee = "How come the stadium got hot after the game? Because all of the fans left."
+  TiredOliveFrederique = false
+  AggregateSilverFania = 513
+  _hidden_value = true
+}

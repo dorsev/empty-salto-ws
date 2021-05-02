@@ -1,0 +1,67 @@
+type dummy.YellowMoccasinDoloritas {
+  annotations {
+    dummy.AmbitiousAmberBrigit FirmOliveCecily {
+    }
+    dummy.AggregateTurquoiseMeg ConventionalBeigeCelene {
+    }
+    string ConsiderableCrimsonDanice {
+    }
+    string InterimSapphireBernelle {
+    }
+    dummy.StickyMagentaDominique PsychiatricCoralEddi {
+    }
+    boolean EverydayHarlequinBetsey {
+    }
+  }
+  number TiredCoffeeAndee {
+  }
+  dummy.IntellectualAmethystNetty InternalOrangeTony {
+    BeautifulCoffeeArleta = file("GrowingChocolateJody.txt")
+    EqualYellowHelenelizabeth = 178
+    AdvisoryLimeDana = "Dad Im hungry  Hi hungry Im dad"
+    CreepyPinkSherye = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    ModernRoseVina = "Why didnt the skeleton cross the road? Because he had no guts."
+    RomanticOrangeLeyla = false
+    GenuineGreenAbbie = 95
+    ConsiderableBeigeLonnie = true
+    GleamingMagentaKristyn = "Im only familiar with 25 letters in the English language. I dont know why."
+    LargeJadeKati = 123
+    PreciseTomatoJanaya = 56
+    BackRedBrena = 330
+    ModernBronzeJillian = 587
+    EntitledScarletPammie = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    PrimeTanJanessa = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    ConvincingBrownEnrika = file("PrintedTomatoVannie.txt")
+    FinalMoccasinIlse = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    BoredAquaPatricia = 305
+    NakedWhiteJehanna = file("SorryAquamarineAddi.txt")
+  }
+  dummy.IntellectualAmethystNetty WonderfulBlushElspeth {
+    BeautifulCoffeeArleta = file("WonderfulCoralHedvig.txt")
+    EqualYellowHelenelizabeth = 987
+    AdvisoryLimeDana = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    CreepyPinkSherye = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    ModernRoseVina = "Slept like a log last night  woke up in the fireplace."
+    RomanticOrangeLeyla = true
+    GenuineGreenAbbie = 485
+    ConsiderableBeigeLonnie = false
+    GleamingMagentaKristyn = "How come the stadium got hot after the game? Because all of the fans left."
+    LargeJadeKati = 746
+    PreciseTomatoJanaya = 402
+    BackRedBrena = 283
+    ModernBronzeJillian = 32
+    EntitledScarletPammie = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    PrimeTanJanessa = "Dad Im hungry  Hi hungry Im dad"
+    ConvincingBrownEnrika = file("PainfulTurquoiseDulci.txt")
+    FinalMoccasinIlse = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    BoredAquaPatricia = 354
+    NakedWhiteJehanna = file("SharedMaroonNikoletta.txt")
+  }
+  FirmOliveCecily = file("InnovativeTomatoBobbi.txt")
+  ConventionalBeigeCelene = 777
+  ConsiderableCrimsonDanice = "A steak pun is a rare medium well done."
+  InterimSapphireBernelle = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  PsychiatricCoralEddi = 492
+  EverydayHarlequinBetsey = false
+  _hidden_value = true
+}

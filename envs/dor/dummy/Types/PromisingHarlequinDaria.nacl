@@ -1,0 +1,36 @@
+type dummy.PromisingHarlequinDaria {
+  annotations {
+    dummy.ComparativeAmaranthRosetta NeutralYellowErminia {
+    }
+    dummy.AmazingTealOlympia IllCoralAdora {
+    }
+    string SpotlessCoralAgathe {
+    }
+    dummy.AggregateTurquoiseMeg MinorPurpleHilary {
+    }
+    dummy.SurvivingTanOlivia AdditionalApricotOdelia {
+    }
+    json ObjectiveApricotCoretta {
+    }
+  }
+  dummy.FierceSapphireJorie BloodyPeachEloise {
+    LonelyBlushOrtensia = "Whoever invented the knock-knock joke should get a no bell prize."
+    CalmBlackNancee = "A steak pun is a rare medium well done."
+    StickyCrimsonWynn = "Why is Peter Pan always flying? Because he Neverlands."
+    ArchitecturalApricotKerry = false
+  }
+  "List<string>" QuaintAzureDulcia {
+  }
+  serviceid HandsomeApricotMurielle {
+  }
+  string PhilosophicalChocolateCathee {
+  }
+  string RelaxedBlueEsther {
+  }
+  NeutralYellowErminia = 563
+  IllCoralAdora = file("LonelyGreenKaril.txt")
+  SpotlessCoralAgathe = "Why didnt the skeleton cross the road? Because he had no guts."
+  MinorPurpleHilary = 44
+  ObjectiveApricotCoretta = "Why is Peter Pan always flying? Because he Neverlands."
+  _hidden_value = true
+}

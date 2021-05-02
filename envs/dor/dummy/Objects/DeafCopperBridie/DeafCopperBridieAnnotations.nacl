@@ -1,0 +1,62 @@
+type dummy.DeafCopperBridie {
+  annotations {
+    boolean ShortVioletAshil {
+    }
+    dummy.AmazingTealOlympia EmpiricalEmeraldFelice {
+    }
+    dummy.RomanticAmberYalonda EarlyIndigoShina {
+    }
+    string RelievedOliveTory {
+    }
+    number IncBlueJuli {
+    }
+    dummy.ParentalBronzeLisette EvolutionaryPeachPhilis {
+    }
+    json HonestFuchsiaAdelle {
+    }
+    json PoorAmethystAlys {
+    }
+    string InlandBrownAllene {
+    }
+    number PlasticSapphireWilma {
+    }
+    dummy.ParticularPurpleOfilia FundamentalTanDavine {
+    }
+    number LogicalSilverLoretta {
+    }
+    json FondScarletDaisey {
+    }
+    number DryAmberNatalina {
+    }
+    json ColonialAmaranthCherilynn {
+    }
+    json FrenchTealEllie {
+    }
+    serviceid TallBlushRevkah {
+    }
+    json SmallVioletCrista {
+    }
+    dummy.LesserOliveAndie VariableBeigeDesdemona {
+    }
+    dummy.ObviousLavenderLayla UniformTurquoiseMaggie {
+    }
+  }
+  ShortVioletAshil = true
+  EmpiricalEmeraldFelice = file("CriminalPeachMillie.txt")
+  EarlyIndigoShina = file("SubstantialBluePortia.txt")
+  RelievedOliveTory = "Slept like a log last night  woke up in the fireplace."
+  IncBlueJuli = 375
+  HonestFuchsiaAdelle = "What do you call two barracuda fish?  A Pairacuda!"
+  PoorAmethystAlys = "What did one nut say as he chased another nut?  I'm a cashew!"
+  InlandBrownAllene = "Im only familiar with 25 letters in the English language. I dont know why."
+  PlasticSapphireWilma = 323
+  FundamentalTanDavine = true
+  LogicalSilverLoretta = 339
+  FondScarletDaisey = "Im only familiar with 25 letters in the English language. I dont know why."
+  DryAmberNatalina = 502
+  ColonialAmaranthCherilynn = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  FrenchTealEllie = "What do you do on a remote island? Try and find the TV island it belongs to."
+  TallBlushRevkah = "A steak pun is a rare medium well done."
+  SmallVioletCrista = "What do you call two barracuda fish?  A Pairacuda!"
+  VariableBeigeDesdemona = file("MolecularCopperMoyra.txt")
+}

@@ -1,0 +1,39 @@
+type dummy.InnerCopperCele {
+  annotations {
+    dummy.NiceBrownHoney UselessSapphireGene {
+    }
+    dummy.GrossAquaLilli PotentialJadeStephani {
+    }
+    serviceid RegularAmberMarjy {
+    }
+    serviceid SquareOliveRayshell {
+    }
+    string DiplomaticLimeLindsay {
+    }
+  }
+  number StupidGrayFredelia {
+  }
+  number ColossalPlumBetteann {
+  }
+  number SolidAmethystZulema {
+  }
+  boolean MentalCoralVan {
+  }
+  dummy.OrganisationalVioletCharmion OutstandingPinkFlore {
+    MaleTurquoiseDebora = file("LightFuchsiaHeather.txt")
+  }
+  json ArabIvoryAnabella {
+  }
+  "List<json>" ExoticBeigeSibeal {
+  }
+  number LateSapphireGusti {
+  }
+  string StaticMaroonRozina {
+  }
+  UselessSapphireGene = false
+  PotentialJadeStephani = 214
+  RegularAmberMarjy = "Slept like a log last night  woke up in the fireplace."
+  SquareOliveRayshell = "What did one nut say as he chased another nut?  I'm a cashew!"
+  DiplomaticLimeLindsay = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _hidden_value = true
+}

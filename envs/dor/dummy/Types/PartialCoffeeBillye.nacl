@@ -1,0 +1,51 @@
+type dummy.PartialCoffeeBillye {
+  annotations {
+    json DeadScarletTamra {
+    }
+    string MechanicalTurquoiseNike {
+    }
+    serviceid WideOliveCarmella {
+    }
+    dummy.ParticularPurpleOfilia MysteriousBlueSelma {
+    }
+  }
+  string HeadIvoryMegen {
+  }
+  dummy.OrganisationalVioletCharmion BritishChocolateCariotta {
+    MaleTurquoiseDebora = file("CognitiveTurquoiseFlory.txt")
+  }
+  dummy.IntegratedMoccasinClarissa ArmedTanBeatrisa {
+  }
+  dummy.AmazingTealOlympia ColonialApricotElisabet {
+    ViolentSilverAshlan = 332
+    SmallPlumLiana = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    BeautifulCyanOdele = "What do you do on a remote island? Try and find the TV island it belongs to."
+    EconomicCoralTillie = true
+    SuperWhiteOpalina = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    SplendidGreenLiuka = file("JoyousRedRakel.txt")
+    UncomfortableSapphireEmlynne = 700
+    GermanCrimsonRobbie = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    GiantBlushDyana = file("PoliticalLimeFloris.txt")
+    RedBrownUrsulina = "A steak pun is a rare medium well done."
+    AustralianHarlequinMaggy = "Dad Im hungry  Hi hungry Im dad"
+    ChillyEmeraldRafa = false
+    OperationalCyanBecka = 289
+    VitalBlackMalena = false
+  }
+  serviceid CivicCyanInga {
+  }
+  dummy.OrganisationalVioletCharmion SmoggyCopperKessiah {
+    MaleTurquoiseDebora = file("WanderingBeigeGlenn.txt")
+  }
+  dummy.RomanticAmberYalonda ScornfulTanTeresita {
+    BiologicalEmeraldAaren = true
+    GoldenWhiteKarin = false
+    NeutralPinkDolores = false
+    FuzzyAquaJenilee = 327
+  }
+  DeadScarletTamra = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  MechanicalTurquoiseNike = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  WideOliveCarmella = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  MysteriousBlueSelma = true
+  _hidden_value = true
+}

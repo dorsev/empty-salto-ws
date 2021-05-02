@@ -1,0 +1,26 @@
+type dummy.UnconsciousCoffeeStarlin {
+  annotations {
+    dummy.AmbitiousAmberBrigit GorgeousCoralGertie {
+    }
+    json ObnoxiousIndigoLeeanne {
+    }
+    string SelfishMaroonLexine {
+    }
+    dummy.LongTomatoMartha PoliteLavenderLeyla {
+    }
+    dummy.SignificantYellowWilletta AnnoyedOrangeAdela {
+    }
+    dummy.PreciousVioletAnnabelle NovelAquamarineBrittan {
+    }
+    number ShyIvoryMollie {
+    }
+  }
+  "List<json>" CertainIvoryLeandra {
+  }
+  GorgeousCoralGertie = file("AlternativeTealBritte.txt")
+  ObnoxiousIndigoLeeanne = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  SelfishMaroonLexine = "Slept like a log last night  woke up in the fireplace."
+  NovelAquamarineBrittan = file("VariableMaroonRosy.txt")
+  ShyIvoryMollie = 434
+  _hidden_value = true
+}

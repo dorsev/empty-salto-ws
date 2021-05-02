@@ -1,0 +1,65 @@
+type dummy.MathematicalTomatoAddi {
+  annotations {
+    dummy.AmbitiousAmberBrigit FewGrayJodie {
+    }
+    dummy.ParticularPurpleOfilia PricklySapphireKirstyn {
+    }
+    dummy.NoisyMagentaJobey BumpyGoldJoye {
+    }
+    dummy.JapaneseCoralRodina CombativeLavenderConnie {
+    }
+    dummy.OrganisationalVioletCharmion VictoriousMaroonBernetta {
+    }
+    dummy.AmazingTealOlympia EstablishedRoseXaviera {
+    }
+    json ThirstyCoralStarla {
+    }
+  }
+  json BeautifulBrownViviana {
+  }
+  dummy.AggregateTurquoiseMeg ProfessionalCrimsonNessie {
+    WealthyIndigoRubie = 24
+    IllegalAmaranthAmaleta = false
+    VeryPurpleNicoli = file("WhiteCrimsonGerladina.txt")
+    ComprehensiveSilverDanette = false
+    NakedCoffeeGinelle = file("CautiousLavenderGray.txt")
+    CausalAzureNollie = "What did one nut say as he chased another nut?  I'm a cashew!"
+    RemoteAzureTeddy = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    GreasyPinkBilli = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    AliveBlueJemmy = file("InnerLimeTabitha.txt")
+    YummyAquamarineLinnet = false
+    HuskyScarletOthilia = file("GiantRoseHana.txt")
+    FairPurpleBecky = "Why did the tomato blush? Because it saw the salad dressing."
+  }
+  string UnacceptableVioletEmelita {
+  }
+  dummy.AmbitiousAmberBrigit HeadBronzeNadeen {
+    OutrageousPurpleJanice = "A steak pun is a rare medium well done."
+    FeministTomatoMora = "Why is Peter Pan always flying? Because he Neverlands."
+    FundamentalSalmonCaressa = 881
+    OverwhelmingCrimsonAdaline = file("LinearAquaCorene.txt")
+    QuietBronzeBeckie = file("WorldwideGreenBell.txt")
+    TamePinkKandy = false
+    MarineCopperCheri = file("FoolishIvoryLeisha.txt")
+    IncredibleApricotGarland = 760
+    DeadCoralBarby = file("PastAmethystRosalind.txt")
+    DifficultIvorySonja = false
+    NarrowPinkMarni = "Slept like a log last night  woke up in the fireplace."
+    FunYellowTammi = "A steak pun is a rare medium well done."
+    AttractivePinkDarice = "Why didnt the skeleton cross the road? Because he had no guts."
+    EnchantingJadeHarriett = 255
+    JollyTanLynda = file("RichIndigoMatti.txt")
+  }
+  string ExtendedBlackTedda {
+  }
+  number ProbableRoseCornelle {
+  }
+  FewGrayJodie = file("EnthusiasticFuchsiaLena.txt")
+  PricklySapphireKirstyn = false
+  BumpyGoldJoye = 780
+  CombativeLavenderConnie = true
+  VictoriousMaroonBernetta = false
+  EstablishedRoseXaviera = file("BetterGreenGianna.txt")
+  ThirstyCoralStarla = "What creature is smarter than a talking parrot? A spelling bee."
+  _hidden_value = true
+}

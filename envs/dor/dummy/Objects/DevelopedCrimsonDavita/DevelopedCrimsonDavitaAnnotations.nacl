@@ -1,0 +1,71 @@
+type dummy.DevelopedCrimsonDavita {
+  annotations {
+    number AncientScarletBiddie {
+    }
+    boolean GeneralOrangeMehetabel {
+    }
+    boolean ContinuedLimeHelene {
+    }
+    serviceid InterestedHarlequinTerese {
+    }
+    boolean ThinTealMarci {
+    }
+    json StillCoralLacee {
+    }
+    dummy.AmazingTealOlympia AdjacentEmeraldArleyne {
+    }
+    dummy.IntegratedMoccasinClarissa RoundYellowFancy {
+    }
+    dummy.EvilJadeHenriette SmilingBlueKendre {
+    }
+    string RainyCrimsonLynnea {
+    }
+    dummy.ClosedCoralShayna MammothAmberDoralynn {
+    }
+    json NarrowCopperViv {
+    }
+    boolean ProvincialRedYettie {
+    }
+    json HorribleGoldTamiko {
+    }
+    dummy.SignificantYellowWilletta RainyVioletJolie {
+    }
+    string GrossBeigeKessiah {
+    }
+    number NaturalFuchsiaCahra {
+    }
+    dummy.ParticularPurpleOfilia ShaggyBlackGina {
+    }
+    boolean EthicalIvoryKatheryn {
+    }
+    number ResidentialAquamarineHarmonia {
+    }
+    dummy.AnnoyedBlushBinni BoredCopperInger {
+    }
+    serviceid VocationalChocolateCristie {
+    }
+    dummy.RomanticAmberYalonda AnxiousTealCathe {
+    }
+  }
+  AncientScarletBiddie = 161
+  GeneralOrangeMehetabel = false
+  ContinuedLimeHelene = true
+  InterestedHarlequinTerese = "Slept like a log last night  woke up in the fireplace."
+  ThinTealMarci = true
+  StillCoralLacee = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  AdjacentEmeraldArleyne = file("CausalBronzeAlli.txt")
+  RoundYellowFancy = 174
+  RainyCrimsonLynnea = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  MammothAmberDoralynn = 839
+  NarrowCopperViv = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  ProvincialRedYettie = false
+  HorribleGoldTamiko = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  GrossBeigeKessiah = "Slept like a log last night  woke up in the fireplace."
+  NaturalFuchsiaCahra = 35
+  ShaggyBlackGina = false
+  EthicalIvoryKatheryn = true
+  ResidentialAquamarineHarmonia = 48
+  BoredCopperInger = file("CrazyTealFlora.txt")
+  VocationalChocolateCristie = "My first time using an elevator was an uplifting experience. The second time let me down."
+  AnxiousTealCathe = file("PrimeAquamarineJodi.txt")
+}

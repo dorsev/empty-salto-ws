@@ -1,0 +1,67 @@
+type dummy.SophisticatedAzureCordula {
+  annotations {
+    string LateCopperElisabet {
+    }
+    dummy.AmazingTealOlympia RelievedFuchsiaAnjanette {
+    }
+    number ExactCoralCaryn {
+    }
+    dummy.AggregateTurquoiseMeg FoolishMagentaKimberly {
+    }
+    dummy.AmbitiousAmberBrigit SharpScarletPeggie {
+    }
+    dummy.ParticularPurpleOfilia AngryAmberFlorina {
+    }
+    number NoisyAquamarineLonna {
+    }
+    dummy.GrimCopperRanna TartAmethystChristalle {
+    }
+    boolean NecessaryBlushShalna {
+    }
+    json DualOliveNadiya {
+    }
+    dummy.NuclearAquamarineMaurise ResponsibleCoralLorrie {
+    }
+    dummy.JapaneseCoralRodina WhisperingAzureMarice {
+    }
+    json VoicelessRedArden {
+    }
+    number CooingCoffeeNetty {
+    }
+    json AwakeCoffeeCindie {
+    }
+    dummy.PreciousVioletAnnabelle TechnologicalAquaIvett {
+    }
+    dummy.EvidentBronzePaolina RelevantPeachBrittan {
+    }
+    dummy.GrossAquaLilli MightyHarlequinNari {
+    }
+    dummy.AmazingTealOlympia ExtensiveGreenEvy {
+    }
+    number SteadySilverKerrin {
+    }
+    string IncMagentaJoey {
+    }
+    serviceid DigitalIvoryLaurice {
+    }
+  }
+  LateCopperElisabet = "What do you call two barracuda fish?  A Pairacuda!"
+  RelievedFuchsiaAnjanette = file("FuriousSilverMelantha.txt")
+  ExactCoralCaryn = 516
+  FoolishMagentaKimberly = 15
+  SharpScarletPeggie = file("MarineGoldHeddi.txt")
+  AngryAmberFlorina = true
+  NoisyAquamarineLonna = 871
+  NecessaryBlushShalna = true
+  DualOliveNadiya = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  WhisperingAzureMarice = true
+  VoicelessRedArden = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  CooingCoffeeNetty = 752
+  AwakeCoffeeCindie = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  TechnologicalAquaIvett = file("SwissBronzeStephine.txt")
+  MightyHarlequinNari = 641
+  ExtensiveGreenEvy = file("WealthyBeigeIrena.txt")
+  SteadySilverKerrin = 461
+  IncMagentaJoey = "Did you know that protons have mass? I didn't even know they were catholic."
+  DigitalIvoryLaurice = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+}

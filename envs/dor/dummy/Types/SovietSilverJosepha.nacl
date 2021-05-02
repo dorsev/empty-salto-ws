@@ -1,0 +1,29 @@
+type dummy.SovietSilverJosepha {
+  annotations {
+    dummy.SleepyPinkFlorentia ProtestantIndigoOthella {
+    }
+    boolean AwfulMagentaDaveta {
+    }
+    string GenerousAmberAlexis {
+    }
+    dummy.KoreanTurquoiseJeannie NobleSalmonTildi {
+    }
+    json OddCoralAviva {
+    }
+    number AliveBronzeMagdalena {
+    }
+    serviceid TheoreticalBlackWillie {
+    }
+  }
+  serviceid CurlyBlueJorrie {
+  }
+  json LivingCopperLou {
+  }
+  AwfulMagentaDaveta = false
+  GenerousAmberAlexis = "Dad Im hungry  Hi hungry Im dad"
+  NobleSalmonTildi = file("SupremeIvoryConchita.txt")
+  OddCoralAviva = "A steak pun is a rare medium well done."
+  AliveBronzeMagdalena = 673
+  TheoreticalBlackWillie = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  _hidden_value = true
+}

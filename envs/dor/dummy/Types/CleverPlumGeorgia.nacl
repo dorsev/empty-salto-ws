@@ -1,0 +1,31 @@
+type dummy.CleverPlumGeorgia {
+  annotations {
+    string GreatOliveViv {
+    }
+    serviceid AccurateMoccasinWynne {
+    }
+    dummy.SignificantYellowWilletta MaximumGrayOlga {
+    }
+    dummy.NetPeachShalna SouthernCoralAlli {
+    }
+  }
+  dummy.AmazingTealOlympia FunnyApricotTrixi {
+    ViolentSilverAshlan = 886
+    SmallPlumLiana = "Why was it called the dark ages? Because of all the knights. "
+    BeautifulCyanOdele = "I'll tell you what often gets over looked... garden fences."
+    EconomicCoralTillie = true
+    SuperWhiteOpalina = "What do you call two barracuda fish?  A Pairacuda!"
+    SplendidGreenLiuka = file("BeautifulPlumMeara.txt")
+    UncomfortableSapphireEmlynne = 671
+    GermanCrimsonRobbie = "My first time using an elevator was an uplifting experience. The second time let me down."
+    GiantBlushDyana = file("CrazyTealAsia.txt")
+    RedBrownUrsulina = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    AustralianHarlequinMaggy = "Why did the tomato blush? Because it saw the salad dressing."
+    ChillyEmeraldRafa = false
+    OperationalCyanBecka = 236
+    VitalBlackMalena = true
+  }
+  GreatOliveViv = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  AccurateMoccasinWynne = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  _hidden_value = true
+}

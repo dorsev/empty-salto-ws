@@ -1,0 +1,22 @@
+type dummy.AnnoyedBlushBinni is string {
+  annotations {
+    boolean StormyPinkDomeniga {
+    }
+    boolean MarriedEmeraldAmelina {
+    }
+    boolean OrthodoxEmeraldFelicity {
+    }
+    serviceid PerfectMagentaAdoree {
+    }
+    boolean NetIndigoNataline {
+    }
+    serviceid HardVioletCarlota {
+    }
+  }
+  StormyPinkDomeniga = true
+  MarriedEmeraldAmelina = false
+  OrthodoxEmeraldFelicity = true
+  PerfectMagentaAdoree = "Dad Im hungry  Hi hungry Im dad"
+  NetIndigoNataline = false
+  HardVioletCarlota = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+}

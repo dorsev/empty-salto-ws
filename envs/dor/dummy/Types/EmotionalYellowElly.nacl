@@ -1,0 +1,22 @@
+type dummy.EmotionalYellowElly {
+  annotations {
+    serviceid BrokenOrangeOlenka {
+    }
+    json EnvironmentalIndigoDalila {
+    }
+    dummy.AmbitiousAmberBrigit FatCopperCrystal {
+    }
+    dummy.HotYellowMeagan MysteriousCoralCharlotta {
+    }
+    dummy.ParticularPurpleOfilia InvolvedYellowJacquetta {
+    }
+  }
+  number InnocentPeachClementia {
+  }
+  BrokenOrangeOlenka = "What do you call two barracuda fish?  A Pairacuda!"
+  EnvironmentalIndigoDalila = "Im only familiar with 25 letters in the English language. I dont know why."
+  FatCopperCrystal = file("DistinguishedJadeBerna.txt")
+  MysteriousCoralCharlotta = file("InjuredChocolateHedy.txt")
+  InvolvedYellowJacquetta = false
+  _hidden_value = true
+}

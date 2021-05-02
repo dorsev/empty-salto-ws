@@ -1,0 +1,28 @@
+type dummy.EnviousTanLezlie {
+  annotations {
+    dummy.AmbitiousAmberBrigit DeadFuchsiaClemmie {
+    }
+    number RecentAzureQuentin {
+    }
+    dummy.AmazingTealOlympia RoundPinkMorgan {
+    }
+    json RealAquamarineElsbeth {
+    }
+    dummy.AmazingTealOlympia PatientGreenBeatrisa {
+    }
+    json MightyPlumFrederique {
+    }
+    json KindMaroonVikki {
+    }
+  }
+  json FaintEmeraldJeannie {
+  }
+  DeadFuchsiaClemmie = file("RottenBeigeKayley.txt")
+  RecentAzureQuentin = 679
+  RoundPinkMorgan = file("LongCoffeeJennie.txt")
+  RealAquamarineElsbeth = "Slept like a log last night  woke up in the fireplace."
+  PatientGreenBeatrisa = file("SlipperyCrimsonImogen.txt")
+  MightyPlumFrederique = "Did you know that protons have mass? I didn't even know they were catholic."
+  KindMaroonVikki = "Why was it called the dark ages? Because of all the knights. "
+  _hidden_value = true
+}

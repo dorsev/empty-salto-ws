@@ -1,0 +1,22 @@
+type dummy.RoughAquamarineCaitlin {
+  annotations {
+    json LightApricotNatassia {
+    }
+    dummy.AmazingTealOlympia InstitutionalScarletCaresse {
+    }
+    dummy.PreciousVioletAnnabelle AddedLimeInes {
+    }
+    string WealthyWhiteSarah {
+    }
+    number TenderGreenNoel {
+    }
+  }
+  string FewYellowAaren {
+  }
+  LightApricotNatassia = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  InstitutionalScarletCaresse = file("SuperWhiteRosaline.txt")
+  AddedLimeInes = file("OutstandingTealAustin.txt")
+  WealthyWhiteSarah = "What do you call two barracuda fish?  A Pairacuda!"
+  TenderGreenNoel = 974
+  _hidden_value = true
+}

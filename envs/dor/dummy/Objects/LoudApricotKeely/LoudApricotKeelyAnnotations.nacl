@@ -1,0 +1,55 @@
+type dummy.LoudApricotKeely {
+  annotations {
+    dummy.NovelApricotWallie PrimaryLavenderLola {
+    }
+    serviceid SweetSapphireSacha {
+    }
+    string SensitiveBrownMariejeanne {
+    }
+    string DullGreenKatharine {
+    }
+    dummy.ParticularPurpleOfilia UnfairMaroonArlyne {
+    }
+    dummy.NiceBrownHoney CanadianApricotLoria {
+    }
+    dummy.AmazingTealOlympia MeaningfulBluePepita {
+    }
+    string AdditionalChocolateKirby {
+    }
+    dummy.PreciousVioletAnnabelle UndergroundAmberVan {
+    }
+    boolean JollySapphireMarline {
+    }
+    json FastTealAlanna {
+    }
+    dummy.IntellectualAmethystNetty WideBlushAudry {
+    }
+    dummy.StickyMagentaDominique InquisitiveOrangeTerra {
+    }
+    dummy.ParticularPurpleOfilia FatPurpleHettie {
+    }
+    boolean ObnoxiousBluePersis {
+    }
+    number UnwillingBlackZoe {
+    }
+    serviceid BlindAquaJuana {
+    }
+  }
+  PrimaryLavenderLola = 905
+  SweetSapphireSacha = "What do you do on a remote island? Try and find the TV island it belongs to."
+  SensitiveBrownMariejeanne = "How come the stadium got hot after the game? Because all of the fans left."
+  DullGreenKatharine = "A steak pun is a rare medium well done."
+  UnfairMaroonArlyne = false
+  CanadianApricotLoria = true
+  MeaningfulBluePepita = file("FaithfulMagentaCarma.txt")
+  AdditionalChocolateKirby = "What do you call two barracuda fish?  A Pairacuda!"
+  UndergroundAmberVan = file("CautiousGrayKirstyn.txt")
+  JollySapphireMarline = false
+  FastTealAlanna = "How come the stadium got hot after the game? Because all of the fans left."
+  WideBlushAudry = file("ProductiveCoffeeKaren.txt")
+  InquisitiveOrangeTerra = 503
+  FatPurpleHettie = true
+  ObnoxiousBluePersis = true
+  UnwillingBlackZoe = 31
+  BlindAquaJuana = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+}

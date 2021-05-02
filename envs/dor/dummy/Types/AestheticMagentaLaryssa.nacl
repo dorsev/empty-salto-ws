@@ -1,0 +1,26 @@
+type dummy.AestheticMagentaLaryssa {
+  annotations {
+    serviceid UselessAmethystEloise {
+    }
+    boolean SophisticatedCyanDacie {
+    }
+    number ShinyCyanDeirdre {
+    }
+    json PowerfulGrayRobinet {
+    }
+    serviceid EffectiveOrangeErika {
+    }
+  }
+  dummy.RomanticAmberYalonda AshamedChocolateNorina {
+    BiologicalEmeraldAaren = false
+    GoldenWhiteKarin = true
+    NeutralPinkDolores = true
+    FuzzyAquaJenilee = 446
+  }
+  UselessAmethystEloise = "Why didnt the skeleton cross the road? Because he had no guts."
+  SophisticatedCyanDacie = false
+  ShinyCyanDeirdre = 983
+  PowerfulGrayRobinet = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  EffectiveOrangeErika = "What do you do on a remote island? Try and find the TV island it belongs to."
+  _hidden_value = true
+}

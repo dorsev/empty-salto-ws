@@ -1,0 +1,31 @@
+type dummy.PetiteCrimsonDiana {
+  annotations {
+    number AveragePinkLoria {
+    }
+    serviceid MeanSalmonMarie {
+    }
+    dummy.PreciousVioletAnnabelle DrivingIndigoMerci {
+    }
+    dummy.NiceBrownHoney AggressiveCyanBibby {
+    }
+    string MidBronzeEula {
+    }
+    string MiserableOliveFelecia {
+    }
+    json InevitableWhiteOpaline {
+    }
+    boolean NewGrayQueenie {
+    }
+  }
+  string CleanCoralIdalina {
+  }
+  AveragePinkLoria = 564
+  MeanSalmonMarie = "What did one nut say as he chased another nut?  I'm a cashew!"
+  DrivingIndigoMerci = file("UnsightlyFuchsiaNeilla.txt")
+  AggressiveCyanBibby = false
+  MidBronzeEula = "Im only familiar with 25 letters in the English language. I dont know why."
+  MiserableOliveFelecia = "What creature is smarter than a talking parrot? A spelling bee."
+  InevitableWhiteOpaline = "Why do birds fly south for the winter? Because it's too far to walk."
+  NewGrayQueenie = false
+  _hidden_value = true
+}

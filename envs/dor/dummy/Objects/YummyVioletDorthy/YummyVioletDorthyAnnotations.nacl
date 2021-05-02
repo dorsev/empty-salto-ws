@@ -1,0 +1,61 @@
+type dummy.YummyVioletDorthy {
+  annotations {
+    dummy.LongTomatoMartha ComplicatedWhiteSherilyn {
+    }
+    boolean NumerousOliveGiulietta {
+    }
+    dummy.ShallowPlumJenda ToughTomatoMerrill {
+    }
+    dummy.RomanticAmberYalonda EstimatedOrangeRebbecca {
+    }
+    string BoilingOliveAnnmaria {
+    }
+    boolean ScreechingBeigeHilda {
+    }
+    dummy.DEFAULT JollyAzureDebi {
+    }
+    dummy.KoreanTurquoiseJeannie CorporateAmethystMaxine {
+    }
+    dummy.ControlledJadeHadria EnthusiasticApricotIseabal {
+    }
+    json UglyTurquoiseVerena {
+    }
+    dummy.SurvivingTanOlivia IntactYellowMariellen {
+    }
+    serviceid HeadGrayWilli {
+    }
+    dummy.AmazingTealOlympia PanickyMagentaLeisha {
+    }
+    string AverageAmethystCaroljean {
+    }
+    string ToughJadeSalomi {
+    }
+    json FluffyGreenMalina {
+    }
+    json AmbitiousIndigoLucie {
+    }
+    boolean LowIndigoCristina {
+    }
+    string FreshVioletRiannon {
+    }
+  }
+  NumerousOliveGiulietta = false
+  ToughTomatoMerrill = false
+  EstimatedOrangeRebbecca = file("FancyTomatoKath.txt")
+  BoilingOliveAnnmaria = "Why did the tomato blush? Because it saw the salad dressing."
+  ScreechingBeigeHilda = false
+  JollyAzureDebi = {
+    legit = "What do you do on a remote island? Try and find the TV island it belongs to."
+  }
+  CorporateAmethystMaxine = file("SparklingFuchsiaBecka.txt")
+  EnthusiasticApricotIseabal = file("PreparedAquamarineMiranda.txt")
+  UglyTurquoiseVerena = "Did you know that protons have mass? I didn't even know they were catholic."
+  HeadGrayWilli = "What did one nut say as he chased another nut?  I'm a cashew!"
+  PanickyMagentaLeisha = file("WeakMoccasinGinevra.txt")
+  AverageAmethystCaroljean = "What did one nut say as he chased another nut?  I'm a cashew!"
+  ToughJadeSalomi = "Why didnt the skeleton cross the road? Because he had no guts."
+  FluffyGreenMalina = "What do you call two barracuda fish?  A Pairacuda!"
+  AmbitiousIndigoLucie = "A steak pun is a rare medium well done."
+  LowIndigoCristina = false
+  FreshVioletRiannon = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+}

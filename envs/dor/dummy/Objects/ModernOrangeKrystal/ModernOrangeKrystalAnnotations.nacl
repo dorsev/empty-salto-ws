@@ -1,0 +1,53 @@
+type dummy.ModernOrangeKrystal {
+  annotations {
+    json GratefulSapphireSibylla {
+    }
+    dummy.PreciousVioletAnnabelle ThoroughAmaranthAnstice {
+    }
+    dummy.FreeOliveJanaya StructuralPinkSaba {
+    }
+    serviceid NearbyRedEilis {
+    }
+    serviceid IdealYellowMarline {
+    }
+    dummy.NovelApricotWallie UsualCopperDulsea {
+    }
+    serviceid DistantCyanBarbaraanne {
+    }
+    boolean TastelessBlackRozelle {
+    }
+    dummy.ComparativeAmaranthRosetta SpotlessBlackHana {
+    }
+    dummy.ParentalBronzeLisette AdditionalPeachLorie {
+    }
+    serviceid UnchangedBlushJessi {
+    }
+    boolean EligibleLavenderGerti {
+    }
+    dummy.RomanticAmberYalonda IndustrialIvoryEllissa {
+    }
+    boolean UncertainWhiteSonni {
+    }
+    json FaintScarletOra {
+    }
+    dummy.AmazingTealOlympia JustAmethystRivkah {
+    }
+    boolean EagerLavenderDebee {
+    }
+  }
+  GratefulSapphireSibylla = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  ThoroughAmaranthAnstice = file("LevelCoralNonnah.txt")
+  NearbyRedEilis = "What creature is smarter than a talking parrot? A spelling bee."
+  IdealYellowMarline = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  UsualCopperDulsea = 214
+  DistantCyanBarbaraanne = "To be Frank, I'd have to change my name."
+  TastelessBlackRozelle = true
+  SpotlessBlackHana = 287
+  UnchangedBlushJessi = "What did one nut say as he chased another nut?  I'm a cashew!"
+  EligibleLavenderGerti = false
+  IndustrialIvoryEllissa = file("BigMoccasinMiquela.txt")
+  UncertainWhiteSonni = true
+  FaintScarletOra = "A steak pun is a rare medium well done."
+  JustAmethystRivkah = file("ViolentEmeraldTallie.txt")
+  EagerLavenderDebee = true
+}

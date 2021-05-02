@@ -1,0 +1,52 @@
+type dummy.StillChocolateBlinnie {
+  annotations {
+    dummy.AmazingTealOlympia ModeratePinkMerilyn {
+    }
+    serviceid AverageTomatoPhylis {
+    }
+    dummy.RomanticAmberYalonda OkIndigoCaro {
+    }
+    serviceid LittleBlackAddia {
+    }
+    dummy.LesserOliveAndie HorribleOliveOra {
+    }
+    dummy.PreciousVioletAnnabelle ExcessiveBlushAndi {
+    }
+    boolean ComparableCoralVeriee {
+    }
+    serviceid MinimalJadeTheda {
+    }
+    dummy.PreciousVioletAnnabelle PrintedMoccasinJordana {
+    }
+    number WelcomeWhiteAmbur {
+    }
+    dummy.IntellectualAmethystNetty QuickLavenderSelie {
+    }
+    string ModerateRoseNadeen {
+    }
+    dummy.AmbitiousAmberBrigit BigTomatoKacie {
+    }
+    string FastOrangeCoraline {
+    }
+    dummy.AmbitiousAmberBrigit StormyScarletCathlene {
+    }
+    dummy.KoreanTurquoiseJeannie FineBrownKessia {
+    }
+  }
+  ModeratePinkMerilyn = file("FaithfulMagentaTallia.txt")
+  AverageTomatoPhylis = "My first time using an elevator was an uplifting experience. The second time let me down."
+  OkIndigoCaro = file("DecisiveBronzeJosselyn.txt")
+  LittleBlackAddia = "Im only familiar with 25 letters in the English language. I dont know why."
+  HorribleOliveOra = file("CloudyChocolateAstra.txt")
+  ExcessiveBlushAndi = file("GeneralAmberAshil.txt")
+  ComparableCoralVeriee = false
+  MinimalJadeTheda = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  PrintedMoccasinJordana = file("PreviousPlumBrett.txt")
+  WelcomeWhiteAmbur = 517
+  QuickLavenderSelie = file("DeterminedCoffeeMaisie.txt")
+  ModerateRoseNadeen = "Why is Peter Pan always flying? Because he Neverlands."
+  BigTomatoKacie = file("SpareTurquoiseNeysa.txt")
+  FastOrangeCoraline = "Why did the kid cross the playground? To get to the other slide."
+  StormyScarletCathlene = file("IntegralOrangeTheo.txt")
+  FineBrownKessia = file("StrikingBrownBird.txt")
+}

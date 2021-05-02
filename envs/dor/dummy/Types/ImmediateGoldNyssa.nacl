@@ -1,0 +1,38 @@
+type dummy.ImmediateGoldNyssa {
+  annotations {
+    dummy.OrganisationalVioletCharmion TestyLavenderCindy {
+    }
+    dummy.IntellectualAmethystNetty AbleIvoryCharmine {
+    }
+    string LowChocolateSilva {
+    }
+    json IllOliveAlessandra {
+    }
+    json InternationalApricotCandida {
+    }
+  }
+  "List<dummy.ParticularPurpleOfilia>" GreenOliveLayla {
+    OccasionalBlushMarj = true
+    ImportantTanMaurene = "Why did the kid cross the playground? To get to the other slide."
+    LeadingIvoryGlory = 974
+    NutritiousCoralDania = "Why didnt the skeleton cross the road? Because he had no guts."
+    EntireTealEolanda = false
+    QuickSilverBetty = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    GorgeousBrownGweneth = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    SlightBeigeLauree = file("BlankMoccasinWinnifred.txt")
+    ObligedAquamarineLise = 418
+    IraqiCoffeeKaree = file("ObviousBlackCoraline.txt")
+    DramaticTomatoEleonore = true
+    WorriedJadeKris = 488
+    RoundBlackFerdinande = 150
+    MusicalPeachKori = 578
+  }
+  string TestyIvoryRosaline {
+  }
+  TestyLavenderCindy = true
+  AbleIvoryCharmine = file("StatutorySilverSibilla.txt")
+  LowChocolateSilva = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  IllOliveAlessandra = "Why was it called the dark ages? Because of all the knights. "
+  InternationalApricotCandida = "To be Frank, I'd have to change my name."
+  _hidden_value = true
+}

@@ -1,0 +1,66 @@
+type dummy.LiquidMagentaGeorgianne {
+  annotations {
+    dummy.AmbitiousAmberBrigit VividAquaKalindi {
+    }
+    json FullFuchsiaRoby {
+    }
+    dummy.AmazingTealOlympia ComfortableMoccasinClaudina {
+    }
+    serviceid CapitalistBlackMarsiella {
+    }
+    dummy.ParticularPurpleOfilia TinyBlushJudi {
+    }
+    dummy.InvolvedAquaChloris EstimatedRedJolie {
+    }
+    dummy.AmazingTealOlympia JudicialChocolateJosepha {
+    }
+    number VocationalIndigoRevkah {
+    }
+    json SimilarPlumClem {
+    }
+    dummy.PreciousVioletAnnabelle CalmScarletDollie {
+    }
+    number HistoricOliveGoldia {
+    }
+    dummy.MushyMoccasinLorrayne SteepTomatoClarita {
+    }
+    dummy.CharmingPlumXena SignificantPinkLani {
+    }
+    dummy.PreciousVioletAnnabelle EmbarrassedPeachNissie {
+    }
+    dummy.OrganisationalVioletCharmion LongCyanJannel {
+    }
+    boolean ScottishAmethystRiva {
+    }
+    serviceid PowerfulAmethystKikelia {
+    }
+    boolean MarriedCopperMaegan {
+    }
+    dummy.SurvivingTanOlivia StiffBrownGuendolen {
+    }
+    dummy.AmbitiousAmberBrigit EasternApricotFredra {
+    }
+    json OldHarlequinGloria {
+    }
+    dummy.RomanticAmberYalonda OverwhelmingJadeLouisette {
+    }
+  }
+  VividAquaKalindi = file("GenerousBlueEvie.txt")
+  FullFuchsiaRoby = "Im only familiar with 25 letters in the English language. I dont know why."
+  ComfortableMoccasinClaudina = file("RegisteredJadeChristal.txt")
+  CapitalistBlackMarsiella = "What did one nut say as he chased another nut?  I'm a cashew!"
+  TinyBlushJudi = true
+  JudicialChocolateJosepha = file("MeltedPurpleMahalia.txt")
+  VocationalIndigoRevkah = 343
+  SimilarPlumClem = "Why was it called the dark ages? Because of all the knights. "
+  CalmScarletDollie = file("StingyBrownGeorgia.txt")
+  HistoricOliveGoldia = 489
+  EmbarrassedPeachNissie = file("EthicalScarletMadella.txt")
+  LongCyanJannel = false
+  ScottishAmethystRiva = true
+  PowerfulAmethystKikelia = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  MarriedCopperMaegan = false
+  EasternApricotFredra = file("BitterTanLacy.txt")
+  OldHarlequinGloria = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  OverwhelmingJadeLouisette = file("FiercePlumBabara.txt")
+}

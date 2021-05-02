@@ -1,0 +1,61 @@
+type dummy.DueGrayLexine {
+  annotations {
+    dummy.InherentCrimsonKamilah ToryGoldTiphany {
+    }
+    dummy.PreciousVioletAnnabelle QuickestCoralOfelia {
+    }
+    serviceid CuriousMaroonGaye {
+    }
+    dummy.KoreanTurquoiseJeannie FlyingOrangeAdelle {
+    }
+    dummy.AggregateTurquoiseMeg FormidableWhiteMargit {
+    }
+    dummy.KoreanTurquoiseJeannie EthicalGoldArlene {
+    }
+    dummy.AggregateTurquoiseMeg ActivePurpleLorena {
+    }
+    dummy.AmazingTealOlympia InherentApricotBridgette {
+    }
+    dummy.AmazingTealOlympia DrivingLimePepita {
+    }
+    string SillyHarlequinSeana {
+    }
+    boolean DeliciousTanCorliss {
+    }
+    dummy.LesserOliveAndie ElderlyMagentaAgna {
+    }
+    json ConfidentialOrangeGoldie {
+    }
+    boolean RationalAzureLilia {
+    }
+    dummy.KoreanTurquoiseJeannie EverydayOrangeSilvana {
+    }
+    dummy.HollowCopperKaitlynn AnxiousCrimsonChristyna {
+    }
+    string HarshWhiteClaude {
+    }
+    boolean AggregateBrownDarrelle {
+    }
+    dummy.IndependentPinkCatha UnconsciousGoldSada {
+    }
+  }
+  ToryGoldTiphany = false
+  QuickestCoralOfelia = file("MechanicalLimeLilia.txt")
+  CuriousMaroonGaye = "What did one nut say as he chased another nut?  I'm a cashew!"
+  FlyingOrangeAdelle = file("RetiredPlumBrandy.txt")
+  FormidableWhiteMargit = 656
+  EthicalGoldArlene = file("HostileGreenMadonna.txt")
+  ActivePurpleLorena = 222
+  InherentApricotBridgette = file("ItalianGreenEleonore.txt")
+  DrivingLimePepita = file("SevereMoccasinMatelda.txt")
+  SillyHarlequinSeana = "Why was it called the dark ages? Because of all the knights. "
+  DeliciousTanCorliss = false
+  ElderlyMagentaAgna = file("AbsoluteApricotEthelda.txt")
+  ConfidentialOrangeGoldie = "Why did the tomato blush? Because it saw the salad dressing."
+  RationalAzureLilia = true
+  EverydayOrangeSilvana = file("EmptyApricotBeckie.txt")
+  AnxiousCrimsonChristyna = 441
+  HarshWhiteClaude = "What do you call two barracuda fish?  A Pairacuda!"
+  AggregateBrownDarrelle = true
+  UnconsciousGoldSada = true
+}

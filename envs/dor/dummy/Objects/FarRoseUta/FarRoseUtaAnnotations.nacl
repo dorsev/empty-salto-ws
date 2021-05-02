@@ -1,0 +1,69 @@
+type dummy.FarRoseUta {
+  annotations {
+    dummy.PreciousVioletAnnabelle WeeVioletJenica {
+    }
+    dummy.PreciousVioletAnnabelle StatutoryEmeraldLicha {
+    }
+    dummy.AmazingTealOlympia SubsequentAzureGlori {
+    }
+    string FirmGreenRebbecca {
+    }
+    boolean RoughBlackTarra {
+    }
+    string AnonymousTurquoiseLolly {
+    }
+    dummy.OrganisationalVioletCharmion RoundBrownKata {
+    }
+    json NakedRoseRubetta {
+    }
+    number EmbarrassingSapphireLibbi {
+    }
+    number ObviousPinkGarland {
+    }
+    dummy.AmazingTealOlympia NoisyTealPepi {
+    }
+    dummy.AmazingTealOlympia FullCoffeeTraci {
+    }
+    dummy.IndependentPinkCatha MoaningCyanFelicity {
+    }
+    string EuropeanAmberValerye {
+    }
+    dummy.PuzzledPurpleBlinni OnlyBlushMolli {
+    }
+    dummy.ControlledJadeHadria ExcitingBlushPetrina {
+    }
+    serviceid GivenTomatoDel {
+    }
+    dummy.PreciousVioletAnnabelle BreezyAmethystLonna {
+    }
+    dummy.PreciousVioletAnnabelle DifficultGoldLoraine {
+    }
+    boolean UnsightlyAzureElna {
+    }
+    dummy.AmazingTealOlympia RaspyAquamarineLarine {
+    }
+    serviceid ChemicalTanGusty {
+    }
+  }
+  WeeVioletJenica = file("FantasticGraySelinda.txt")
+  StatutoryEmeraldLicha = file("VividGrayVerena.txt")
+  SubsequentAzureGlori = file("MagneticPlumAbbie.txt")
+  FirmGreenRebbecca = "What do you do on a remote island? Try and find the TV island it belongs to."
+  RoughBlackTarra = true
+  AnonymousTurquoiseLolly = "My first time using an elevator was an uplifting experience. The second time let me down."
+  RoundBrownKata = false
+  NakedRoseRubetta = "Why do birds fly south for the winter? Because it's too far to walk."
+  EmbarrassingSapphireLibbi = 851
+  ObviousPinkGarland = 981
+  NoisyTealPepi = file("SkilledAmberAdey.txt")
+  FullCoffeeTraci = file("VictorianRedGilligan.txt")
+  MoaningCyanFelicity = false
+  EuropeanAmberValerye = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ExcitingBlushPetrina = file("QuickAquamarineLacy.txt")
+  GivenTomatoDel = "Why did the kid cross the playground? To get to the other slide."
+  BreezyAmethystLonna = file("OutstandingRoseAriela.txt")
+  DifficultGoldLoraine = file("ScaredIvoryMarjory.txt")
+  UnsightlyAzureElna = false
+  RaspyAquamarineLarine = file("ThunderingVioletDeina.txt")
+  ChemicalTanGusty = "To be Frank, I'd have to change my name."
+}

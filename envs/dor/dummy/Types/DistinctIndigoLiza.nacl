@@ -1,0 +1,19 @@
+type dummy.DistinctIndigoLiza {
+  annotations {
+    boolean SoftGoldSofie {
+    }
+    string DistinctOliveSelma {
+    }
+    dummy.AmazingTealOlympia LimitedOliveLouisa {
+    }
+    json VastCoffeeMargarethe {
+    }
+  }
+  string BigLavenderMarney {
+  }
+  SoftGoldSofie = true
+  DistinctOliveSelma = "What did one nut say as he chased another nut?  I'm a cashew!"
+  LimitedOliveLouisa = file("RoastedSilverFreddi.txt")
+  VastCoffeeMargarethe = "Did you know that protons have mass? I didn't even know they were catholic."
+  _hidden_value = true
+}

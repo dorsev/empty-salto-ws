@@ -1,0 +1,46 @@
+type dummy.StickyMagentaDominique is number {
+  annotations {
+    serviceid EarlyTanTommy {
+    }
+    boolean ControlledChocolateJodi {
+    }
+    json DefiantCoralPaulina {
+    }
+    serviceid GoldenIvoryShea {
+    }
+    boolean MinimumIvoryFrankie {
+    }
+    json RussianRedDonielle {
+    }
+    json BrightRoseCyndie {
+    }
+    number InnerBronzeKatinka {
+    }
+    json TypicalSilverDoll {
+    }
+    serviceid FaintBeigeAnette {
+    }
+    json SadRedKaryl {
+    }
+    boolean MotionlessOliveAmalita {
+    }
+    number CreepyAquamarineCathee {
+    }
+    number HugeAmethystEustacia {
+    }
+  }
+  EarlyTanTommy = "Why do birds fly south for the winter? Because it's too far to walk."
+  ControlledChocolateJodi = true
+  DefiantCoralPaulina = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  GoldenIvoryShea = "I'll tell you what often gets over looked... garden fences."
+  MinimumIvoryFrankie = false
+  RussianRedDonielle = "To be Frank, I'd have to change my name."
+  BrightRoseCyndie = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  InnerBronzeKatinka = 548
+  TypicalSilverDoll = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  FaintBeigeAnette = "Why do birds fly south for the winter? Because it's too far to walk."
+  SadRedKaryl = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  MotionlessOliveAmalita = true
+  CreepyAquamarineCathee = 888
+  HugeAmethystEustacia = 779
+}

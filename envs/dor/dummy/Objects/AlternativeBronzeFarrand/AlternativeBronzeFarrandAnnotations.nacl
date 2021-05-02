@@ -1,0 +1,62 @@
+type dummy.AlternativeBronzeFarrand {
+  annotations {
+    serviceid WastefulCoffeeAnnemarie {
+    }
+    dummy.RoughAquamarineCaitlin LittleRedLacy {
+    }
+    serviceid GiganticTanSonia {
+    }
+    string FondYellowDyana {
+    }
+    json CompetitiveLimeKevyn {
+    }
+    dummy.WorldwideGreenLark WoodenAzureCherry {
+    }
+    number WetFuchsiaSusanna {
+    }
+    number DesirableGrayMarielle {
+    }
+    dummy.RomanticAmberYalonda FixedGrayTarah {
+    }
+    string ConcreteCoralDee {
+    }
+    number PlainBlackThelma {
+    }
+    json SheerLimeNonie {
+    }
+    serviceid SupremeEmeraldDyan {
+    }
+    dummy.PreciousVioletAnnabelle FrailOrangeEve {
+    }
+    serviceid RainyAzureGuinna {
+    }
+    serviceid GeneralMagentaHelaina {
+    }
+    dummy.ParticularPurpleOfilia LittleSilverChantalle {
+    }
+    dummy.AmazingTealOlympia TenseEmeraldCarilyn {
+    }
+    string ForeignPurpleWenda {
+    }
+    json TenderLimeConstance {
+    }
+  }
+  WastefulCoffeeAnnemarie = "Why did the tomato blush? Because it saw the salad dressing."
+  GiganticTanSonia = "A steak pun is a rare medium well done."
+  FondYellowDyana = "What do you call two barracuda fish?  A Pairacuda!"
+  CompetitiveLimeKevyn = "A steak pun is a rare medium well done."
+  WetFuchsiaSusanna = 362
+  DesirableGrayMarielle = 934
+  FixedGrayTarah = file("ExtensiveCrimsonMarie.txt")
+  ConcreteCoralDee = "I'll tell you what often gets over looked... garden fences."
+  PlainBlackThelma = 949
+  SheerLimeNonie = "What creature is smarter than a talking parrot? A spelling bee."
+  SupremeEmeraldDyan = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  FrailOrangeEve = file("ComfortableBrownDonica.txt")
+  RainyAzureGuinna = "Slept like a log last night  woke up in the fireplace."
+  GeneralMagentaHelaina = "What do you do on a remote island? Try and find the TV island it belongs to."
+  LittleSilverChantalle = false
+  TenseEmeraldCarilyn = file("ActualBrownPriscilla.txt")
+  ForeignPurpleWenda = "My first time using an elevator was an uplifting experience. The second time let me down."
+  TenderLimeConstance = "How come the stadium got hot after the game? Because all of the fans left."
+}

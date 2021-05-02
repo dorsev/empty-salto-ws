@@ -1,0 +1,68 @@
+type dummy.LongCoffeeJanet {
+  annotations {
+    dummy.FortunateMoccasinGiorgia DistinguishedSilverArline {
+    }
+    dummy.WrittenAzureLizabeth BusyBlueTrix {
+    }
+    boolean MarginalIvoryEstella {
+    }
+    dummy.HotYellowMeagan FlexibleWhiteZonnya {
+    }
+    dummy.PreciousVioletAnnabelle PayableBlueDeonne {
+    }
+    dummy.JapaneseCoralRodina EvilSalmonAlessandra {
+    }
+    dummy.HotYellowMeagan SecondaryBlueBarbabra {
+    }
+    boolean PoisedIvoryMyrlene {
+    }
+    dummy.DEFAULT DualMagentaAliza {
+    }
+    json LexicalAmberHelga {
+    }
+    boolean CurlyScarletShandy {
+    }
+    number ConsiderableCyanMerilyn {
+    }
+    boolean MotionlessIvoryBryn {
+    }
+    json LabourCoffeeCharita {
+    }
+    dummy.GrossAquaLilli TiredBlackOra {
+    }
+    dummy.IndependentPinkCatha VisitingChocolateDevora {
+    }
+    json InsufficientCrimsonRoseanna {
+    }
+    boolean TopIvoryTootsie {
+    }
+    serviceid ArtisticSalmonGwenneth {
+    }
+    dummy.AmazingTealOlympia SelectOliveAdi {
+    }
+    string RapidAzureBinni {
+    }
+  }
+  BusyBlueTrix = false
+  MarginalIvoryEstella = false
+  FlexibleWhiteZonnya = file("EnchantingJadeLeanor.txt")
+  PayableBlueDeonne = file("CheerfulAquamarineSibilla.txt")
+  EvilSalmonAlessandra = true
+  SecondaryBlueBarbabra = file("ElaborateBrownDoti.txt")
+  PoisedIvoryMyrlene = false
+  DualMagentaAliza = {
+    legit = "To be Frank, I'd have to change my name."
+  }
+  LexicalAmberHelga = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  CurlyScarletShandy = true
+  ConsiderableCyanMerilyn = 547
+  MotionlessIvoryBryn = false
+  LabourCoffeeCharita = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  TiredBlackOra = 647
+  VisitingChocolateDevora = false
+  InsufficientCrimsonRoseanna = "Why did the tomato blush? Because it saw the salad dressing."
+  TopIvoryTootsie = false
+  ArtisticSalmonGwenneth = "A steak pun is a rare medium well done."
+  SelectOliveAdi = file("GracefulEmeraldBrandie.txt")
+  RapidAzureBinni = "To be Frank, I'd have to change my name."
+}

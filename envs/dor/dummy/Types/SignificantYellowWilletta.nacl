@@ -1,0 +1,26 @@
+type dummy.SignificantYellowWilletta {
+  annotations {
+    dummy.AmazingTealOlympia StraightforwardPinkLidia {
+    }
+    string GradualAmberDebbie {
+    }
+    dummy.PuzzledPurpleBlinni ImmenseOrangeLisbeth {
+    }
+    string TenderBlueMignonne {
+    }
+    dummy.DEFAULT InevitableAmaranthRahal {
+    }
+    number DeepMagentaNicholle {
+    }
+  }
+  serviceid VastTanMarne {
+  }
+  StraightforwardPinkLidia = file("StuckCoralManon.txt")
+  GradualAmberDebbie = "My first time using an elevator was an uplifting experience. The second time let me down."
+  TenderBlueMignonne = "Dad Im hungry  Hi hungry Im dad"
+  InevitableAmaranthRahal = {
+    legit = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  }
+  DeepMagentaNicholle = 866
+  _hidden_value = true
+}

@@ -1,0 +1,71 @@
+type dummy.BrightJadeNedda {
+  annotations {
+    serviceid ClinicalIndigoKandace {
+    }
+    boolean DarkPlumKatee {
+    }
+    dummy.AmazingTealOlympia SmartAzureDorena {
+    }
+    dummy.AmazingTealOlympia TemporaryApricotCamala {
+    }
+    dummy.AmazingTealOlympia DoubtfulLimeWalliw {
+    }
+    number SouthernAquaRycca {
+    }
+    string LovelyIvoryFaustine {
+    }
+    boolean ItchyVioletCarmine {
+    }
+    dummy.LesserOliveAndie DiverseSilverLisette {
+    }
+    dummy.DEFAULT MysteriousSilverLorie {
+    }
+    dummy.GuiltyApricotReiko AfraidAmberBessy {
+    }
+    serviceid AwfulAquamarineMarcile {
+    }
+    serviceid DueVioletRora {
+    }
+    dummy.IntellectualAmethystNetty ComplexPurpleKelcey {
+    }
+    dummy.DesperateAquamarineLisabeth BlushingTanShelli {
+    }
+    dummy.ParticularPurpleOfilia AutomaticCoralJenine {
+    }
+    dummy.OrganisationalVioletCharmion CharacteristicAzureDixie {
+    }
+    dummy.IndependentPinkCatha PuzzledBeigeCynthy {
+    }
+    serviceid InvolvedFuchsiaTimi {
+    }
+    dummy.NovelApricotWallie WetScarletMelissa {
+    }
+    serviceid OrthodoxChocolateAmargo {
+    }
+    dummy.WrittenFuchsiaBeverly DrabMagentaCarmen {
+    }
+  }
+  ClinicalIndigoKandace = "Why is Peter Pan always flying? Because he Neverlands."
+  DarkPlumKatee = true
+  SmartAzureDorena = file("SevereBrownDeerdre.txt")
+  TemporaryApricotCamala = file("ApparentRoseJobye.txt")
+  DoubtfulLimeWalliw = file("DualBlackElinor.txt")
+  SouthernAquaRycca = 880
+  LovelyIvoryFaustine = "What do you call two barracuda fish?  A Pairacuda!"
+  ItchyVioletCarmine = true
+  DiverseSilverLisette = file("ApparentSilverSuzy.txt")
+  MysteriousSilverLorie = {
+    legit = "Why did the tomato blush? Because it saw the salad dressing."
+  }
+  AwfulAquamarineMarcile = "Why was it called the dark ages? Because of all the knights. "
+  DueVioletRora = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ComplexPurpleKelcey = file("IncreasingBeigeWillamina.txt")
+  BlushingTanShelli = 945
+  AutomaticCoralJenine = true
+  CharacteristicAzureDixie = false
+  PuzzledBeigeCynthy = false
+  InvolvedFuchsiaTimi = "Dad Im hungry  Hi hungry Im dad"
+  WetScarletMelissa = 126
+  OrthodoxChocolateAmargo = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  DrabMagentaCarmen = 977
+}

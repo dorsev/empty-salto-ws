@@ -1,0 +1,33 @@
+type dummy.FreeCopperSiusan {
+  annotations {
+    dummy.ParticularPurpleOfilia DeadGoldGabrielle {
+    }
+    string RegionalGoldCarolina {
+    }
+    dummy.AmbitiousAmberBrigit AmateurPeachMarji {
+    }
+    dummy.AmazingTealOlympia FrightenedCyanMorgana {
+    }
+  }
+  dummy.ParticularPurpleOfilia RadicalTealEmylee {
+    OccasionalBlushMarj = true
+    ImportantTanMaurene = "What do you do on a remote island? Try and find the TV island it belongs to."
+    LeadingIvoryGlory = 109
+    NutritiousCoralDania = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    EntireTealEolanda = true
+    QuickSilverBetty = "What do you do on a remote island? Try and find the TV island it belongs to."
+    GorgeousBrownGweneth = "I'll tell you what often gets over looked... garden fences."
+    SlightBeigeLauree = file("MilitaryScarletAnya.txt")
+    ObligedAquamarineLise = 420
+    IraqiCoffeeKaree = file("IrishFuchsiaWynny.txt")
+    DramaticTomatoEleonore = false
+    WorriedJadeKris = 878
+    RoundBlackFerdinande = 408
+    MusicalPeachKori = 861
+  }
+  DeadGoldGabrielle = true
+  RegionalGoldCarolina = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  AmateurPeachMarji = file("SmoggyCoffeeAilyn.txt")
+  FrightenedCyanMorgana = file("MarineEmeraldGabrila.txt")
+  _hidden_value = true
+}

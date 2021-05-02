@@ -1,0 +1,27 @@
+type dummy.ArbitraryYellowLian {
+  annotations {
+    boolean EnthusiasticBlackLatia {
+    }
+    dummy.ProtestantLimeRobbin IcyEmeraldLura {
+    }
+    dummy.PurringLavenderMarietta PoliticalCrimsonAaren {
+    }
+    number StupidMoccasinCordey {
+    }
+    dummy.HotYellowMeagan CoastalCrimsonBinny {
+    }
+    json ProtectiveBlackMureil {
+    }
+    boolean LiberalPurpleClaudine {
+    }
+  }
+  json DrivingScarletCarmelia {
+  }
+  EnthusiasticBlackLatia = false
+  IcyEmeraldLura = file("QualifiedAmethystAdriane.txt")
+  StupidMoccasinCordey = 814
+  CoastalCrimsonBinny = file("MarinePlumTerra.txt")
+  ProtectiveBlackMureil = "Did you know that protons have mass? I didn't even know they were catholic."
+  LiberalPurpleClaudine = false
+  _hidden_value = true
+}

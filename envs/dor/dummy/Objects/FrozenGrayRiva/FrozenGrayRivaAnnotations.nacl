@@ -1,0 +1,69 @@
+type dummy.FrozenGrayRiva {
+  annotations {
+    string KeenAquamarineLiv {
+    }
+    json ReluctantRoseNatividad {
+    }
+    dummy.FamiliarSilverRodie LivelyAmberBritney {
+    }
+    string MiniatureAmethystNovelia {
+    }
+    number GrandAmethystGoldie {
+    }
+    number ImaginativeAmaranthCordula {
+    }
+    dummy.SleepyPinkFlorentia FamousGrayHatti {
+    }
+    string BalancedApricotLara {
+    }
+    dummy.GreasyYellowAnallise SpicyPeachSharai {
+    }
+    number ResponsibleMaroonKizzie {
+    }
+    dummy.IntellectualAmethystNetty IntermediateTanTabbi {
+    }
+    boolean DeterminedGrayAlethea {
+    }
+    json MassiveAzureLotte {
+    }
+    string FortunateBronzeMaighdiln {
+    }
+    number InherentMoccasinLeontine {
+    }
+    dummy.GuiltyApricotReiko AnxiousBlueMariette {
+    }
+    json SweetGrayMelanie {
+    }
+    string MinimumOliveKali {
+    }
+    string InterimChocolateMarinna {
+    }
+    dummy.SupposedTealArdys TastyAzureNatty {
+    }
+    dummy.JapaneseCoralRodina FrailAmethystBrooks {
+    }
+    string TiredEmeraldPoppy {
+    }
+    number EnergeticGoldTiphanie {
+    }
+  }
+  KeenAquamarineLiv = "What do you call two barracuda fish?  A Pairacuda!"
+  ReluctantRoseNatividad = "Why was it called the dark ages? Because of all the knights. "
+  MiniatureAmethystNovelia = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  GrandAmethystGoldie = 433
+  ImaginativeAmaranthCordula = 86
+  BalancedApricotLara = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  SpicyPeachSharai = 587
+  ResponsibleMaroonKizzie = 872
+  IntermediateTanTabbi = file("DistinctiveJadeMalynda.txt")
+  DeterminedGrayAlethea = false
+  MassiveAzureLotte = "A steak pun is a rare medium well done."
+  FortunateBronzeMaighdiln = "Why didnt the skeleton cross the road? Because he had no guts."
+  InherentMoccasinLeontine = 100
+  SweetGrayMelanie = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  MinimumOliveKali = "Slept like a log last night  woke up in the fireplace."
+  InterimChocolateMarinna = "Dad Im hungry  Hi hungry Im dad"
+  FrailAmethystBrooks = true
+  TiredEmeraldPoppy = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  EnergeticGoldTiphanie = 953
+}

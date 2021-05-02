@@ -1,0 +1,26 @@
+type dummy.ScornfulGrayGena {
+  annotations {
+    dummy.RelievedYellowLena WrongBrownClerissa {
+    }
+    dummy.AmazingTealOlympia SweetGrayLaraine {
+    }
+    number VeryAquaFlore {
+    }
+    dummy.OverwhelmingAmberGrazia IraqiHarlequinOpal {
+    }
+    boolean DualOrangeTheadora {
+    }
+    json AwkwardGrayLeese {
+    }
+    number WarmLavenderBekki {
+    }
+  }
+  string FortunateAquaVilhelmina {
+  }
+  SweetGrayLaraine = file("InlandBronzeTonia.txt")
+  VeryAquaFlore = 410
+  DualOrangeTheadora = false
+  AwkwardGrayLeese = "What do you call two barracuda fish?  A Pairacuda!"
+  WarmLavenderBekki = 185
+  _hidden_value = true
+}

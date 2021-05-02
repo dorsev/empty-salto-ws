@@ -1,0 +1,42 @@
+type dummy.LeadingChocolateKaylee {
+  annotations {
+    boolean WickedMoccasinMildrid {
+    }
+    json ToughAmaranthDaffy {
+    }
+    serviceid PoliteJadeCortney {
+    }
+    string DelightedChocolateJessy {
+    }
+    dummy.AmazingTealOlympia LegitimateVioletDeloris {
+    }
+  }
+  dummy.LeadingIndigoSephira ItchyBlueRebe {
+    LightVioletSelma = "Im only familiar with 25 letters in the English language. I dont know why."
+    InnovativeGoldDrusilla = 990
+    FollowingLimeHenka = "What did one nut say as he chased another nut?  I'm a cashew!"
+    DoubtfulBlushAlisun = "I'll tell you what often gets over looked... garden fences."
+    VerticalTomatoCosetta = "Why did the kid cross the playground? To get to the other slide."
+    MysteriousBeigeDaisey = 521
+    InsufficientSapphireAmmamaria = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    DistinctiveBrownDulsea = "What creature is smarter than a talking parrot? A spelling bee."
+    LocalBlueAntonina = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    DelightedGreenMarcellina = "Whoever invented the knock-knock joke should get a no bell prize."
+    SoundAmaranthImelda = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    NursingHarlequinWenona = {
+      legit = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    }
+    RealScarletCalypso = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    IndustrialAmethystChloette = "Why is Peter Pan always flying? Because he Neverlands."
+    AloneTurquoiseCarrie = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    AloneIndigoBarbe = 977
+    OuterAmaranthLeticia = true
+    HorizontalApricotMeta = 895
+  }
+  WickedMoccasinMildrid = false
+  ToughAmaranthDaffy = "Did you know that protons have mass? I didn't even know they were catholic."
+  PoliteJadeCortney = "Why was it called the dark ages? Because of all the knights. "
+  DelightedChocolateJessy = "How come the stadium got hot after the game? Because all of the fans left."
+  LegitimateVioletDeloris = file("AngryGoldGoldie.txt")
+  _hidden_value = true
+}

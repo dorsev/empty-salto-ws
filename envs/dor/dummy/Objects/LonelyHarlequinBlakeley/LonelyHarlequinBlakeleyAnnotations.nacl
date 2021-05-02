@@ -1,0 +1,60 @@
+type dummy.LonelyHarlequinBlakeley {
+  annotations {
+    string SeniorSilverIona {
+    }
+    number ImpressedAzureMorgen {
+    }
+    string SupremeVioletChandra {
+    }
+    dummy.ControlledJadeHadria FlutteringWhiteStephenie {
+    }
+    dummy.RomanticAmberYalonda OutdoorAmberKylila {
+    }
+    dummy.PuzzledPurpleBlinni LightMaroonJessalin {
+    }
+    string FriendlyCrimsonGolda {
+    }
+    dummy.RomanticAmberYalonda YoungMagentaHanna {
+    }
+    dummy.PreciousVioletAnnabelle PleasedHarlequinMarybeth {
+    }
+    dummy.ArrogantSapphireDaphna ConcernedAmberLaryssa {
+    }
+    number HardTurquoiseMoyna {
+    }
+    serviceid UnusualCrimsonClaudetta {
+    }
+    json HelpfulPinkChristyna {
+    }
+    boolean IntenseOliveVerene {
+    }
+    dummy.HotYellowMeagan StingyAquaRochella {
+    }
+    string AlrightCrimsonCrissy {
+    }
+    dummy.PreciousVioletAnnabelle ImportantBronzeVerine {
+    }
+    serviceid HotIndigoJacqui {
+    }
+    boolean AbsoluteSapphireZia {
+    }
+  }
+  SeniorSilverIona = "Did you know that protons have mass? I didn't even know they were catholic."
+  ImpressedAzureMorgen = 395
+  SupremeVioletChandra = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  FlutteringWhiteStephenie = file("IntermediateAmberAnni.txt")
+  OutdoorAmberKylila = file("SubtleGreenEartha.txt")
+  FriendlyCrimsonGolda = "Slept like a log last night  woke up in the fireplace."
+  YoungMagentaHanna = file("DistinctSapphireLil.txt")
+  PleasedHarlequinMarybeth = file("ConsciousTealBelita.txt")
+  ConcernedAmberLaryssa = true
+  HardTurquoiseMoyna = 293
+  UnusualCrimsonClaudetta = "A steak pun is a rare medium well done."
+  HelpfulPinkChristyna = "Why did the kid cross the playground? To get to the other slide."
+  IntenseOliveVerene = true
+  StingyAquaRochella = file("AnonymousCrimsonSavina.txt")
+  AlrightCrimsonCrissy = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  ImportantBronzeVerine = file("MagneticScarletAnnice.txt")
+  HotIndigoJacqui = "A steak pun is a rare medium well done."
+  AbsoluteSapphireZia = true
+}

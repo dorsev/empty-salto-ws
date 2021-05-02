@@ -1,0 +1,26 @@
+type dummy.CatholicLavenderEmily {
+  annotations {
+    number FatScarletTorie {
+    }
+    string ScaryBrownZandra {
+    }
+    string CruelWhiteDarya {
+    }
+    dummy.JapaneseCoralRodina ConvenientGoldDulcea {
+    }
+    boolean DampBlushSusie {
+    }
+  }
+  number FunnyHarlequinHenriette {
+  }
+  boolean ExperiencedLavenderUlrica {
+  }
+  number StingyOliveMarguerite {
+  }
+  FatScarletTorie = 861
+  ScaryBrownZandra = "What do you call two barracuda fish?  A Pairacuda!"
+  CruelWhiteDarya = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ConvenientGoldDulcea = true
+  DampBlushSusie = false
+  _hidden_value = true
+}

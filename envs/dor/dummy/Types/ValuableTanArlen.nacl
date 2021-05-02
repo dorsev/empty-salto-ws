@@ -1,0 +1,27 @@
+type dummy.ValuableTanArlen {
+  annotations {
+    dummy.NiceBrownHoney SmartMoccasinFlossi {
+    }
+    dummy.PreciousVioletAnnabelle NaturalAquaMadella {
+    }
+    dummy.AmazingTealOlympia HardBlushMaible {
+    }
+    dummy.LevelBlueJourdan ColorfulPurpleTamqrah {
+    }
+    string CheapFuchsiaLaverne {
+    }
+    dummy.JapaneseCoralRodina ReducedIndigoSissy {
+    }
+    dummy.NovelApricotWallie RegulatoryGreenLotte {
+    }
+  }
+  string IllegalTomatoAlane {
+  }
+  SmartMoccasinFlossi = true
+  NaturalAquaMadella = file("TechnicalScarletAnnelise.txt")
+  HardBlushMaible = file("NumerousFuchsiaCatlin.txt")
+  CheapFuchsiaLaverne = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ReducedIndigoSissy = true
+  RegulatoryGreenLotte = 94
+  _hidden_value = true
+}

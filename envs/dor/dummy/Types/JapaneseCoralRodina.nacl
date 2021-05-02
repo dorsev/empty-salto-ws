@@ -1,0 +1,49 @@
+type dummy.JapaneseCoralRodina is boolean {
+  annotations {
+    dummy.AmazingTealOlympia FormalJadeJinny {
+    }
+    string TiredCoffeeCarolan {
+    }
+    dummy.ClosedCoralShayna EverydayWhiteIdell {
+    }
+    json InfluentialIndigoTamarah {
+    }
+    dummy.GreasyYellowAnallise SolidOliveLorrin {
+    }
+    dummy.PreciousVioletAnnabelle InnovativeCoralSeka {
+    }
+    json DivineAmaranthCandy {
+    }
+    dummy.KoreanTurquoiseJeannie OfficialMaroonAlina {
+    }
+    serviceid EnormousTanTeressa {
+    }
+    dummy.LesserOliveAndie ColdPurpleZaneta {
+    }
+    dummy.AmazingTealOlympia JollyCyanEvita {
+    }
+    number FullMaroonFerdinande {
+    }
+    dummy.ParticularPurpleOfilia SuccessfulBlushTrina {
+    }
+    serviceid DifferentEmeraldBlithe {
+    }
+    dummy.AggregateTurquoiseMeg CleverOliveGwenette {
+    }
+  }
+  FormalJadeJinny = file("QualifiedYellowCristy.txt")
+  TiredCoffeeCarolan = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  EverydayWhiteIdell = 302
+  InfluentialIndigoTamarah = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  SolidOliveLorrin = 587
+  InnovativeCoralSeka = file("UnusualChocolateCornela.txt")
+  DivineAmaranthCandy = "What do you do on a remote island? Try and find the TV island it belongs to."
+  OfficialMaroonAlina = file("CurvedCrimsonMolli.txt")
+  EnormousTanTeressa = "Why do birds fly south for the winter? Because it's too far to walk."
+  ColdPurpleZaneta = file("AbstractMaroonYnez.txt")
+  JollyCyanEvita = file("HighPurpleLucita.txt")
+  FullMaroonFerdinande = 527
+  SuccessfulBlushTrina = false
+  DifferentEmeraldBlithe = "Did you know that protons have mass? I didn't even know they were catholic."
+  CleverOliveGwenette = 748
+}

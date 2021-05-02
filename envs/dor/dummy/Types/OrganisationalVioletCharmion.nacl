@@ -1,0 +1,7 @@
+type dummy.OrganisationalVioletCharmion is boolean {
+  annotations {
+    dummy.HotYellowMeagan MaleTurquoiseDebora {
+    }
+  }
+  MaleTurquoiseDebora = file("HomelessSilverMallory.txt")
+}

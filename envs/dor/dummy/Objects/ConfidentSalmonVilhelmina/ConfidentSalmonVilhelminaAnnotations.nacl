@@ -1,0 +1,67 @@
+type dummy.ConfidentSalmonVilhelmina {
+  annotations {
+    string LinearGreenAngelia {
+    }
+    dummy.NovelApricotWallie UpsetGoldCecilla {
+    }
+    dummy.AmazingTealOlympia HotAmberSuzanne {
+    }
+    dummy.OrganisationalVioletCharmion HungryGoldStephie {
+    }
+    dummy.JapaneseCoralRodina ConventionalAquaMaxi {
+    }
+    boolean LinearIndigoKathryne {
+    }
+    dummy.IntellectualAmethystNetty PoliteCyanPrudi {
+    }
+    number ElegantPurpleAlvira {
+    }
+    dummy.LesserOliveAndie YoungGrayClaresta {
+    }
+    json PleasantBronzeCora {
+    }
+    json DeliciousBlushNorina {
+    }
+    serviceid UglyAmaranthJolie {
+    }
+    dummy.JapaneseCoralRodina WholeJadeTine {
+    }
+    dummy.GreasyYellowAnallise DecisiveTurquoiseLorelei {
+    }
+    dummy.ParticularPurpleOfilia TrickyBlushDorian {
+    }
+    dummy.IntellectualAmethystNetty FantasticVioletSisely {
+    }
+    dummy.PreciousVioletAnnabelle WeeBlueBambi {
+    }
+    json HomelyIvoryIvory {
+    }
+    json VocationalAmberCarin {
+    }
+    string GreyOliveSaba {
+    }
+    boolean SensitiveHarlequinFrancine {
+    }
+  }
+  LinearGreenAngelia = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  UpsetGoldCecilla = 749
+  HotAmberSuzanne = file("NotableChocolateTimmi.txt")
+  HungryGoldStephie = true
+  ConventionalAquaMaxi = true
+  LinearIndigoKathryne = false
+  PoliteCyanPrudi = file("PleasantJadeHope.txt")
+  ElegantPurpleAlvira = 492
+  YoungGrayClaresta = file("ImmenseCrimsonAlene.txt")
+  PleasantBronzeCora = "What creature is smarter than a talking parrot? A spelling bee."
+  DeliciousBlushNorina = "Why did the tomato blush? Because it saw the salad dressing."
+  UglyAmaranthJolie = "Why was it called the dark ages? Because of all the knights. "
+  WholeJadeTine = true
+  DecisiveTurquoiseLorelei = 289
+  TrickyBlushDorian = false
+  FantasticVioletSisely = file("AccessibleMoccasinOrelee.txt")
+  WeeBlueBambi = file("ShortSilverMisha.txt")
+  HomelyIvoryIvory = "Did you know that protons have mass? I didn't even know they were catholic."
+  VocationalAmberCarin = "Slept like a log last night  woke up in the fireplace."
+  GreyOliveSaba = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  SensitiveHarlequinFrancine = false
+}

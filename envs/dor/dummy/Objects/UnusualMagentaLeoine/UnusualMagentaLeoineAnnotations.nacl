@@ -1,0 +1,48 @@
+type dummy.UnusualMagentaLeoine {
+  annotations {
+    serviceid GreyGreenTomasina {
+    }
+    dummy.SupposedTealArdys PriorEmeraldShaylah {
+    }
+    serviceid ModernBlushNichol {
+    }
+    string CostlyTomatoKristine {
+    }
+    json FunnyAmethystCatha {
+    }
+    boolean AliveChocolateLanna {
+    }
+    dummy.MalePurpleAdella MadCopperAubry {
+    }
+    json GrumpyChocolateCherry {
+    }
+    dummy.AmazingTealOlympia LeftMoccasinJessica {
+    }
+    dummy.MalePurpleAdella UninterestedPurpleGuendolen {
+    }
+    dummy.AmazingTealOlympia FondPeachLori {
+    }
+    dummy.GrossAquaLilli FuriousTanEstel {
+    }
+    boolean TemporaryHarlequinLeonora {
+    }
+    dummy.PreciousVioletAnnabelle SoundAquamarineWinnifred {
+    }
+    dummy.JapaneseCoralRodina IdealPurpleRafaela {
+    }
+  }
+  GreyGreenTomasina = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ModernBlushNichol = "What do you call two barracuda fish?  A Pairacuda!"
+  CostlyTomatoKristine = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  FunnyAmethystCatha = "Why is Peter Pan always flying? Because he Neverlands."
+  AliveChocolateLanna = false
+  MadCopperAubry = 323
+  GrumpyChocolateCherry = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  LeftMoccasinJessica = file("UncertainPlumKimberlyn.txt")
+  UninterestedPurpleGuendolen = 966
+  FondPeachLori = file("StingyBlueHaley.txt")
+  FuriousTanEstel = 922
+  TemporaryHarlequinLeonora = true
+  SoundAquamarineWinnifred = file("ExcessiveAquaGrier.txt")
+  IdealPurpleRafaela = false
+}

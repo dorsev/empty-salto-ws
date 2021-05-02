@@ -1,0 +1,40 @@
+type dummy.AggregateTurquoiseMeg is number {
+  annotations {
+    dummy.GrossAquaLilli WealthyIndigoRubie {
+    }
+    boolean IllegalAmaranthAmaleta {
+    }
+    dummy.PreciousVioletAnnabelle VeryPurpleNicoli {
+    }
+    dummy.NiceBrownHoney ComprehensiveSilverDanette {
+    }
+    dummy.AmazingTealOlympia NakedCoffeeGinelle {
+    }
+    string CausalAzureNollie {
+    }
+    serviceid RemoteAzureTeddy {
+    }
+    string GreasyPinkBilli {
+    }
+    dummy.PreciousVioletAnnabelle AliveBlueJemmy {
+    }
+    boolean YummyAquamarineLinnet {
+    }
+    dummy.KoreanTurquoiseJeannie HuskyScarletOthilia {
+    }
+    serviceid FairPurpleBecky {
+    }
+  }
+  WealthyIndigoRubie = 399
+  IllegalAmaranthAmaleta = false
+  VeryPurpleNicoli = file("ExcitingRedEdith.txt")
+  ComprehensiveSilverDanette = true
+  NakedCoffeeGinelle = file("MistyBlackSheelah.txt")
+  CausalAzureNollie = "What did one nut say as he chased another nut?  I'm a cashew!"
+  RemoteAzureTeddy = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  GreasyPinkBilli = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  AliveBlueJemmy = file("AnnoyedYellowAlaine.txt")
+  YummyAquamarineLinnet = true
+  HuskyScarletOthilia = file("HighLavenderJinny.txt")
+  FairPurpleBecky = "Why is Peter Pan always flying? Because he Neverlands."
+}

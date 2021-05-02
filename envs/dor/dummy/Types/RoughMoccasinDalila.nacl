@@ -1,0 +1,24 @@
+type dummy.RoughMoccasinDalila {
+  annotations {
+    string FreeTomatoBrittaney {
+    }
+    dummy.PassiveMaroonBarbi ExcessAzureDelila {
+    }
+    dummy.KoreanTurquoiseJeannie CondemnedPurpleMersey {
+    }
+    string ExplicitTurquoiseSuellen {
+    }
+  }
+  dummy.DesperateAquamarineLisabeth ConcernedSapphireDeanna {
+  }
+  number DisgustedCopperCaril {
+  }
+  json OverallLavenderBrett {
+  }
+  number DifficultLavenderHildegarde {
+  }
+  FreeTomatoBrittaney = "Dad Im hungry  Hi hungry Im dad"
+  CondemnedPurpleMersey = file("PinkSalmonClo.txt")
+  ExplicitTurquoiseSuellen = "What do you call two barracuda fish?  A Pairacuda!"
+  _hidden_value = true
+}

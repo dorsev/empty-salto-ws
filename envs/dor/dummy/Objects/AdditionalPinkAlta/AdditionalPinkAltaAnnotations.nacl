@@ -1,0 +1,55 @@
+type dummy.AdditionalPinkAlta {
+  annotations {
+    dummy.PreciousVioletAnnabelle SufficientRoseFerdinande {
+    }
+    dummy.DEFAULT EnthusiasticSapphireAlysia {
+    }
+    boolean UnknownBlushWynn {
+    }
+    number TraditionalCrimsonCecil {
+    }
+    number FineBrownRenelle {
+    }
+    dummy.KoreanTurquoiseJeannie EagerCyanKym {
+    }
+    dummy.AmbitiousAmberBrigit LongVioletCharyl {
+    }
+    number EndlessLavenderAmanda {
+    }
+    dummy.ArchitecturalBlueMadelene LightPeachLisbeth {
+    }
+    number TenderAquaLaural {
+    }
+    serviceid FastBronzeVirgie {
+    }
+    string TallTealGeorge {
+    }
+    dummy.MobileAmberGrissel DecisiveYellowRoshelle {
+    }
+    dummy.AmazingTealOlympia BlushingSapphireFrederica {
+    }
+    dummy.MushyMoccasinLorrayne FinalGoldShirleen {
+    }
+    dummy.InformalGreenMadalena SpareAmaranthPetunia {
+    }
+    serviceid ConsistentTurquoiseGeorge {
+    }
+    dummy.GuiltyApricotReiko TropicalGrayShalne {
+    }
+  }
+  SufficientRoseFerdinande = file("HomelessPinkAile.txt")
+  EnthusiasticSapphireAlysia = {
+    legit = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  }
+  UnknownBlushWynn = true
+  TraditionalCrimsonCecil = 5
+  FineBrownRenelle = 25
+  EagerCyanKym = file("AloneBronzeKarlotte.txt")
+  LongVioletCharyl = file("SadAmethystMyrle.txt")
+  EndlessLavenderAmanda = 750
+  TenderAquaLaural = 86
+  FastBronzeVirgie = "I'll tell you what often gets over looked... garden fences."
+  TallTealGeorge = "Why didnt the skeleton cross the road? Because he had no guts."
+  BlushingSapphireFrederica = file("ScaryRedDanni.txt")
+  ConsistentTurquoiseGeorge = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+}

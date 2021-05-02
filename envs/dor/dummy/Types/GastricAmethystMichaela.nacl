@@ -1,0 +1,13 @@
+type dummy.GastricAmethystMichaela is number {
+  annotations {
+    boolean EmbarrassedRoseClaire {
+    }
+    number WeirdCopperBetsey {
+    }
+    boolean RottenRoseDorella {
+    }
+  }
+  EmbarrassedRoseClaire = false
+  WeirdCopperBetsey = 241
+  RottenRoseDorella = false
+}

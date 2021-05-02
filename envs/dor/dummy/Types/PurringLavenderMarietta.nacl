@@ -1,0 +1,28 @@
+type dummy.PurringLavenderMarietta {
+  annotations {
+    string SquareRoseJanie {
+    }
+    dummy.AmazingTealOlympia AvailableCyanReena {
+    }
+    number MinorAmberMarje {
+    }
+    boolean ExcitedJadeCoretta {
+    }
+    dummy.PreciousVioletAnnabelle IncredibleIvoryRica {
+    }
+    json UrbanIndigoStoddard {
+    }
+    dummy.NoisyMagentaJobey DeadTealAnabella {
+    }
+  }
+  json DiplomaticCoralCaresa {
+  }
+  SquareRoseJanie = "Slept like a log last night  woke up in the fireplace."
+  AvailableCyanReena = file("RealRoseCarolyn.txt")
+  MinorAmberMarje = 214
+  ExcitedJadeCoretta = false
+  IncredibleIvoryRica = file("BoringTurquoiseRebekkah.txt")
+  UrbanIndigoStoddard = "Why do birds fly south for the winter? Because it's too far to walk."
+  DeadTealAnabella = 414
+  _hidden_value = true
+}

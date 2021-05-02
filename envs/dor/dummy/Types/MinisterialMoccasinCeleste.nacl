@@ -1,0 +1,22 @@
+type dummy.MinisterialMoccasinCeleste {
+  annotations {
+    boolean InterestedBeigeCandy {
+    }
+    dummy.PreciousVioletAnnabelle VisitingIndigoCristal {
+    }
+    number BlueAquaLenora {
+    }
+    dummy.RomanticAmberYalonda HeadGoldEricha {
+    }
+    dummy.AmazingTealOlympia KindMagentaAlfreda {
+    }
+  }
+  boolean CautiousCoffeeDniren {
+  }
+  InterestedBeigeCandy = true
+  VisitingIndigoCristal = file("UnemployedBrownIsobel.txt")
+  BlueAquaLenora = 389
+  HeadGoldEricha = file("ArabTurquoiseGabriel.txt")
+  KindMagentaAlfreda = file("FlatAmaranthDanell.txt")
+  _hidden_value = true
+}

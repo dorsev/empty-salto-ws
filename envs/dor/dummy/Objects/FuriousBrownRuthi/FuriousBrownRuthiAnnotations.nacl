@@ -1,0 +1,64 @@
+type dummy.FuriousBrownRuthi {
+  annotations {
+    dummy.PreciousVioletAnnabelle GradualCoralElene {
+    }
+    dummy.IndependentPinkCatha HotAzureJolyn {
+    }
+    number SickLavenderErtha {
+    }
+    dummy.ParticularPurpleOfilia BrightGoldPauline {
+    }
+    json EvidentTanReggi {
+    }
+    json IrrelevantMaroonCatie {
+    }
+    dummy.PreciousVioletAnnabelle MassivePeachChristen {
+    }
+    dummy.AmazingTealOlympia TiredBlueFrederica {
+    }
+    string NastySilverSuzie {
+    }
+    number KeyRedLianna {
+    }
+    number GorgeousAmaranthViolette {
+    }
+    dummy.IntellectualAmethystNetty KeySapphireCorilla {
+    }
+    dummy.HotYellowMeagan TenderTomatoStorm {
+    }
+    boolean PainfulYellowRosmunda {
+    }
+    number PureTurquoiseChristal {
+    }
+    number GrimBrownBernardine {
+    }
+    dummy.RomanticAmberYalonda ShallowGrayLoretta {
+    }
+    boolean SensitiveTurquoiseValene {
+    }
+    number HelplessTomatoHannie {
+    }
+    boolean EmptyApricotChastity {
+    }
+  }
+  GradualCoralElene = file("EntitledGoldCordelie.txt")
+  HotAzureJolyn = true
+  SickLavenderErtha = 109
+  BrightGoldPauline = false
+  EvidentTanReggi = "A steak pun is a rare medium well done."
+  IrrelevantMaroonCatie = "Why was it called the dark ages? Because of all the knights. "
+  MassivePeachChristen = file("HandsomeIndigoLauri.txt")
+  TiredBlueFrederica = file("SupportingRedMathilde.txt")
+  NastySilverSuzie = "Slept like a log last night  woke up in the fireplace."
+  KeyRedLianna = 336
+  GorgeousAmaranthViolette = 551
+  KeySapphireCorilla = file("RelievedPinkAmbur.txt")
+  TenderTomatoStorm = file("HotSalmonShanie.txt")
+  PainfulYellowRosmunda = true
+  PureTurquoiseChristal = 386
+  GrimBrownBernardine = 531
+  ShallowGrayLoretta = file("DangerousBronzeRicki.txt")
+  SensitiveTurquoiseValene = true
+  HelplessTomatoHannie = 150
+  EmptyApricotChastity = false
+}

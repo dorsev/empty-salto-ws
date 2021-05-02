@@ -1,0 +1,55 @@
+type dummy.HistoricalLavenderWilli {
+  annotations {
+    serviceid ScreechingPeachArluene {
+    }
+    dummy.IntellectualAmethystNetty RetailRedBrooke {
+    }
+    string CorporateLimeCelia {
+    }
+    dummy.JapaneseCoralRodina ToryPurpleCris {
+    }
+    dummy.SurvivingTanOlivia AbleAmethystAnnemarie {
+    }
+    dummy.IntellectualAmethystNetty DifficultOliveCarmelle {
+    }
+    json LooseRoseMalena {
+    }
+    dummy.AmazingTealOlympia SteadyBlackKatusha {
+    }
+    serviceid FancySilverBerna {
+    }
+    dummy.AmbitiousAmberBrigit ProbableRoseArlie {
+    }
+    number InsufficientBlackNeysa {
+    }
+    dummy.AggregateTurquoiseMeg ExcitingWhiteDian {
+    }
+    dummy.ParentalBronzeLisette CharmingAmberJanene {
+    }
+    json GladFuchsiaMelony {
+    }
+    string FantasticGrayTerra {
+    }
+    dummy.PassiveMaroonBarbi EasyAquamarineChelsie {
+    }
+    number AppallingCoffeeBetteanne {
+    }
+    dummy.JapaneseCoralRodina SlipperyAmberAlvina {
+    }
+  }
+  ScreechingPeachArluene = "What creature is smarter than a talking parrot? A spelling bee."
+  RetailRedBrooke = file("ModerateRoseBethena.txt")
+  CorporateLimeCelia = "Im only familiar with 25 letters in the English language. I dont know why."
+  ToryPurpleCris = false
+  DifficultOliveCarmelle = file("MarginalAzureHattie.txt")
+  LooseRoseMalena = "What do you do on a remote island? Try and find the TV island it belongs to."
+  SteadyBlackKatusha = file("HelpfulSalmonGiralda.txt")
+  FancySilverBerna = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ProbableRoseArlie = file("NeutralLavenderJoyan.txt")
+  InsufficientBlackNeysa = 473
+  ExcitingWhiteDian = 309
+  GladFuchsiaMelony = "My first time using an elevator was an uplifting experience. The second time let me down."
+  FantasticGrayTerra = "To be Frank, I'd have to change my name."
+  AppallingCoffeeBetteanne = 241
+  SlipperyAmberAlvina = true
+}

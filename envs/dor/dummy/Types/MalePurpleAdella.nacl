@@ -1,0 +1,31 @@
+type dummy.MalePurpleAdella is number {
+  annotations {
+    json PreferredSalmonLynnea {
+    }
+    dummy.CautiousRoseYettie ScaredAquaDina {
+    }
+    serviceid MoralPurpleNorma {
+    }
+    number UrgentEmeraldAriadne {
+    }
+    json SteadyAmethystPrudi {
+    }
+    serviceid DullSapphireMeredith {
+    }
+    number RealisticOliveMarinna {
+    }
+    string TroubledIndigoWinnie {
+    }
+    json CollectiveTanMissy {
+    }
+  }
+  PreferredSalmonLynnea = "Why did the kid cross the playground? To get to the other slide."
+  ScaredAquaDina = 954
+  MoralPurpleNorma = "To be Frank, I'd have to change my name."
+  UrgentEmeraldAriadne = 688
+  SteadyAmethystPrudi = "Slept like a log last night  woke up in the fireplace."
+  DullSapphireMeredith = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  RealisticOliveMarinna = 228
+  TroubledIndigoWinnie = "I'll tell you what often gets over looked... garden fences."
+  CollectiveTanMissy = "How come the stadium got hot after the game? Because all of the fans left."
+}

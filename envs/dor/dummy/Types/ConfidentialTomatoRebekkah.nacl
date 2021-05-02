@@ -1,0 +1,22 @@
+type dummy.ConfidentialTomatoRebekkah {
+  annotations {
+    dummy.AmbitiousAmberBrigit FatBrownGeorgiana {
+    }
+    number ShinyGreenBernardina {
+    }
+    string ContinentalAquamarineDagmar {
+    }
+    boolean AttractivePlumLia {
+    }
+    dummy.NiceBrownHoney EvolutionaryBrownHelge {
+    }
+  }
+  serviceid InterimBronzeAlidia {
+  }
+  FatBrownGeorgiana = file("ForthcomingMagentaVictoria.txt")
+  ShinyGreenBernardina = 647
+  ContinentalAquamarineDagmar = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  AttractivePlumLia = true
+  EvolutionaryBrownHelge = false
+  _hidden_value = true
+}

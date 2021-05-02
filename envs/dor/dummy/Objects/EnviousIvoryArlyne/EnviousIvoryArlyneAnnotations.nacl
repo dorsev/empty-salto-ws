@@ -1,0 +1,68 @@
+type dummy.EnviousIvoryArlyne {
+  annotations {
+    serviceid TenderYellowMeaghan {
+    }
+    dummy.IntellectualAmethystNetty TeenageVioletAvis {
+    }
+    string BrokenBlueCharyl {
+    }
+    serviceid UrbanHarlequinLesly {
+    }
+    boolean HeavyOrangeBlithe {
+    }
+    string CleanOrangeJennica {
+    }
+    dummy.IntellectualAmethystNetty ExtremeSapphireSibby {
+    }
+    serviceid SovietOrangeElspeth {
+    }
+    dummy.ParentalBronzeLisette AngryOrangeLucinda {
+    }
+    boolean FuzzyBluePaulina {
+    }
+    boolean SpontaneousOrangeMaddalena {
+    }
+    string LooseAquaMalynda {
+    }
+    dummy.HotYellowMeagan SpecialRedDoloritas {
+    }
+    string MajorTanOlympe {
+    }
+    serviceid FreePeachSusanna {
+    }
+    string UniformCopperRivi {
+    }
+    boolean PunySalmonLucky {
+    }
+    json EnvironmentalCyanAnaliese {
+    }
+    dummy.LongTomatoMartha HorizontalIvoryRubie {
+    }
+    dummy.GreasyYellowAnallise UncomfortableSilverOlwen {
+    }
+    string LittleWhiteCammie {
+    }
+    dummy.GreasyYellowAnallise ShortEmeraldIlse {
+    }
+  }
+  TenderYellowMeaghan = "Im only familiar with 25 letters in the English language. I dont know why."
+  TeenageVioletAvis = file("LittleIvoryAuria.txt")
+  BrokenBlueCharyl = "To be Frank, I'd have to change my name."
+  UrbanHarlequinLesly = "My first time using an elevator was an uplifting experience. The second time let me down."
+  HeavyOrangeBlithe = false
+  CleanOrangeJennica = "Why did the tomato blush? Because it saw the salad dressing."
+  ExtremeSapphireSibby = file("MainLimeGlen.txt")
+  SovietOrangeElspeth = "What do you do on a remote island? Try and find the TV island it belongs to."
+  FuzzyBluePaulina = false
+  SpontaneousOrangeMaddalena = false
+  LooseAquaMalynda = "Why is Peter Pan always flying? Because he Neverlands."
+  SpecialRedDoloritas = file("SlowGreenGuglielma.txt")
+  MajorTanOlympe = "I'll tell you what often gets over looked... garden fences."
+  FreePeachSusanna = "A steak pun is a rare medium well done."
+  UniformCopperRivi = "Why is Peter Pan always flying? Because he Neverlands."
+  PunySalmonLucky = true
+  EnvironmentalCyanAnaliese = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  UncomfortableSilverOlwen = 259
+  LittleWhiteCammie = "Did you know that protons have mass? I didn't even know they were catholic."
+  ShortEmeraldIlse = 459
+}

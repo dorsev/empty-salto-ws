@@ -1,0 +1,26 @@
+type dummy.WorldwideBronzeEvelina {
+  annotations {
+    dummy.ParticularPurpleOfilia FatBeigeJennine {
+    }
+    serviceid HorribleSapphireRahal {
+    }
+    serviceid ExtensiveBlushJacquenetta {
+    }
+    dummy.PreciousVioletAnnabelle OptimisticIndigoMax {
+    }
+    serviceid SimilarGrayIlysa {
+    }
+    number UltimateEmeraldOlva {
+    }
+  }
+  dummy.OrganisationalVioletCharmion ScaredLimeAngelina {
+    MaleTurquoiseDebora = file("BadBlackHenriette.txt")
+  }
+  FatBeigeJennine = false
+  HorribleSapphireRahal = "Why did the kid cross the playground? To get to the other slide."
+  ExtensiveBlushJacquenetta = "Why did the tomato blush? Because it saw the salad dressing."
+  OptimisticIndigoMax = file("PublicBeigeJewelle.txt")
+  SimilarGrayIlysa = "Why didnt the skeleton cross the road? Because he had no guts."
+  UltimateEmeraldOlva = 70
+  _hidden_value = true
+}

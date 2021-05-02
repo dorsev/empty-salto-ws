@@ -1,0 +1,66 @@
+type dummy.MiniatureSapphireCharlot {
+  annotations {
+    serviceid PureFuchsiaBrandy {
+    }
+    dummy.IntellectualAmethystNetty ShallowPlumSimonette {
+    }
+    number UnacceptableBronzeMelessa {
+    }
+    boolean GrossBeigeDulci {
+    }
+    dummy.AmbitiousAmberBrigit SpontaneousOliveGavra {
+    }
+    number HorizontalJadeDionis {
+    }
+    dummy.NovelApricotWallie HelplessTanGunilla {
+    }
+    serviceid EarlyTanBreena {
+    }
+    dummy.RomanticAmberYalonda ComfortableGoldClaire {
+    }
+    dummy.KoreanTurquoiseJeannie ShortOliveJacquenette {
+    }
+    dummy.KoreanTurquoiseJeannie SemanticPeachTrudey {
+    }
+    string CasualLavenderKiersten {
+    }
+    boolean PositiveTurquoiseSapphira {
+    }
+    dummy.InformalGreenMadalena AverageVioletSheryl {
+    }
+    boolean HandsomeApricotEstel {
+    }
+    string DeliciousSapphireJaquelyn {
+    }
+    number DisabledOliveRachel {
+    }
+    serviceid PrimeCoralAurea {
+    }
+    number LatinAmethystShelby {
+    }
+    json SpatialSapphireYoko {
+    }
+    json EndlessSapphireJanella {
+    }
+  }
+  PureFuchsiaBrandy = "Did you know that protons have mass? I didn't even know they were catholic."
+  ShallowPlumSimonette = file("AfraidSalmonLenee.txt")
+  UnacceptableBronzeMelessa = 584
+  GrossBeigeDulci = false
+  SpontaneousOliveGavra = file("ParentalSilverChristean.txt")
+  HorizontalJadeDionis = 218
+  HelplessTanGunilla = 187
+  EarlyTanBreena = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ComfortableGoldClaire = file("InterestingHarlequinRoxy.txt")
+  ShortOliveJacquenette = file("AnnualBronzeBiddie.txt")
+  SemanticPeachTrudey = file("UnlikelyAmaranthAmara.txt")
+  CasualLavenderKiersten = "What did one nut say as he chased another nut?  I'm a cashew!"
+  PositiveTurquoiseSapphira = true
+  HandsomeApricotEstel = false
+  DeliciousSapphireJaquelyn = "What creature is smarter than a talking parrot? A spelling bee."
+  DisabledOliveRachel = 940
+  PrimeCoralAurea = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  LatinAmethystShelby = 509
+  SpatialSapphireYoko = "Why did the tomato blush? Because it saw the salad dressing."
+  EndlessSapphireJanella = "Dad Im hungry  Hi hungry Im dad"
+}

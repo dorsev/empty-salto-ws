@@ -1,0 +1,64 @@
+type dummy.AutomaticCrimsonPearline {
+  annotations {
+    string DifficultJadeUlrika {
+    }
+    string OverseasVioletCelestia {
+    }
+    number NuclearBrownKonstance {
+    }
+    serviceid InitialPeachBillye {
+    }
+    string YoungMagentaKyrstin {
+    }
+    serviceid AcceptedPurpleDierdre {
+    }
+    json NegativeBlushDorey {
+    }
+    dummy.RomanticAmberYalonda InterestedTanMaryrose {
+    }
+    serviceid HostileTurquoiseDoe {
+    }
+    string AmazingCyanBerenice {
+    }
+    string RelievedCoralSella {
+    }
+    dummy.AmazingTealOlympia MarvellousCopperDede {
+    }
+    dummy.WhiteSalmonKirbee PetiteSapphireMitzi {
+    }
+    dummy.AggregateTurquoiseMeg OriginalCoralMonika {
+    }
+    dummy.TanTanAppolonia GoverningSilverAndra {
+    }
+    dummy.AggregateTurquoiseMeg RoastedAquamarineUrsulina {
+    }
+    json FemaleBronzeMichelle {
+    }
+    dummy.SupposedTealArdys InvolvedHarlequinAlix {
+    }
+    boolean ColourfulBeigeAnnette {
+    }
+    dummy.IntellectualAmethystNetty ImprovedGreenMerlina {
+    }
+    dummy.NovelApricotWallie ChineseBlueIngaborg {
+    }
+  }
+  DifficultJadeUlrika = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  OverseasVioletCelestia = "Did you know that protons have mass? I didn't even know they were catholic."
+  NuclearBrownKonstance = 757
+  InitialPeachBillye = "What did one nut say as he chased another nut?  I'm a cashew!"
+  YoungMagentaKyrstin = "Why did the tomato blush? Because it saw the salad dressing."
+  AcceptedPurpleDierdre = "Why is Peter Pan always flying? Because he Neverlands."
+  NegativeBlushDorey = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  InterestedTanMaryrose = file("RobustBlackLauri.txt")
+  HostileTurquoiseDoe = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  AmazingCyanBerenice = "Why did the kid cross the playground? To get to the other slide."
+  RelievedCoralSella = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  MarvellousCopperDede = file("MetropolitanSapphireCorrena.txt")
+  OriginalCoralMonika = 414
+  RoastedAquamarineUrsulina = 535
+  FemaleBronzeMichelle = "My first time using an elevator was an uplifting experience. The second time let me down."
+  ColourfulBeigeAnnette = true
+  ImprovedGreenMerlina = file("InfluentialCoffeeDevina.txt")
+  ChineseBlueIngaborg = 780
+}

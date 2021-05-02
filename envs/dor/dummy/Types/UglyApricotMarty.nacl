@@ -1,0 +1,19 @@
+type dummy.UglyApricotMarty {
+  annotations {
+    boolean UncertainRoseSilvia {
+    }
+    number ElatedRedNertie {
+    }
+    dummy.AggregateTurquoiseMeg PreciseYellowLauren {
+    }
+    json BroadTomatoOlly {
+    }
+  }
+  json EmbarrassedGrayRozella {
+  }
+  UncertainRoseSilvia = true
+  ElatedRedNertie = 215
+  PreciseYellowLauren = 775
+  BroadTomatoOlly = "What did one nut say as he chased another nut?  I'm a cashew!"
+  _hidden_value = true
+}

@@ -1,0 +1,54 @@
+type dummy.ExcessiveAquaHeddie {
+  annotations {
+    string ExtensiveTurquoiseDarci {
+    }
+    boolean SeniorYellowJessie {
+    }
+    serviceid WrittenEmeraldBidget {
+    }
+    boolean DynamicPinkKizzee {
+    }
+    number TenseRedPammi {
+    }
+    dummy.PassiveMaroonBarbi SemanticBlushWillamina {
+    }
+    dummy.KoreanTurquoiseJeannie HiddenWhiteElene {
+    }
+    serviceid DutchPurpleWren {
+    }
+    dummy.ParticularPurpleOfilia BrightIndigoLorenza {
+    }
+    json ElegantWhiteSadella {
+    }
+    dummy.AmazingTealOlympia TerribleHarlequinKass {
+    }
+    boolean RivalTurquoiseElsa {
+    }
+    number FormidableSalmonGerrie {
+    }
+    boolean GreekCrimsonAnneliese {
+    }
+    dummy.PreciousVioletAnnabelle VoicelessIvoryGermana {
+    }
+    string AnnualRedAggie {
+    }
+    dummy.AmazingTealOlympia BitterLavenderChelsy {
+    }
+  }
+  ExtensiveTurquoiseDarci = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  SeniorYellowJessie = false
+  WrittenEmeraldBidget = "I'll tell you what often gets over looked... garden fences."
+  DynamicPinkKizzee = false
+  TenseRedPammi = 913
+  HiddenWhiteElene = file("SurprisingIndigoAarika.txt")
+  DutchPurpleWren = "Why do birds fly south for the winter? Because it's too far to walk."
+  BrightIndigoLorenza = false
+  ElegantWhiteSadella = "What do you call two barracuda fish?  A Pairacuda!"
+  TerribleHarlequinKass = file("FilthyYellowAinslie.txt")
+  RivalTurquoiseElsa = true
+  FormidableSalmonGerrie = 306
+  GreekCrimsonAnneliese = true
+  VoicelessIvoryGermana = file("AccessibleLimeMae.txt")
+  AnnualRedAggie = "Slept like a log last night  woke up in the fireplace."
+  BitterLavenderChelsy = file("MiserableAquaConni.txt")
+}

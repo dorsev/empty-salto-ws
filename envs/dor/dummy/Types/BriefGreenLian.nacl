@@ -1,0 +1,97 @@
+type dummy.BriefGreenLian {
+  annotations {
+    dummy.RomanticAmberYalonda MarriedPlumJeannine {
+    }
+    serviceid IncredibleTanModesty {
+    }
+    boolean VisibleTanMartie {
+    }
+    dummy.SmallWhiteEtta WildApricotMercie {
+    }
+    dummy.KoreanTurquoiseJeannie PassiveIndigoCorrianne {
+    }
+    string RemarkableGreenMariya {
+    }
+  }
+  string ArbitraryBlackLatrena {
+  }
+  number SupportingCyanDorena {
+  }
+  dummy.GuiltyApricotReiko StandardBlueTraci {
+    BewilderedBrownLiv = "Why did the kid cross the playground? To get to the other slide."
+    NearbyCoffeeMikaela = 477
+    QuietTurquoiseBeryle = false
+  }
+  dummy.IndependentPinkCatha LimitedSapphireAnnmarie {
+    NiceHarlequinStefania = "What do you do on a remote island? Try and find the TV island it belongs to."
+    MagnificentCoffeeMerola = "How come the stadium got hot after the game? Because all of the fans left."
+    SubsequentBlackCharin = "Why didnt the skeleton cross the road? Because he had no guts."
+    SpareTomatoJeanie = 170
+    ObviousTomatoJen = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    PresentGoldBriney = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    TopBlueMelita = "What do you do on a remote island? Try and find the TV island it belongs to."
+    ToughAmaranthBren = true
+    OccasionalBlueCourtenay = 573
+    IndianOrangeFilippa = true
+    QuietLimeCristen = 779
+    GrievingLavenderTera = 862
+    NoisyPlumIrena = false
+    FrozenBlushJean = {
+      legit = "Slept like a log last night  woke up in the fireplace."
+    }
+    VeryBrownGaby = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    ExcitingPurpleJoli = '''
+Why was it called the dark ages? Because of all the knights. 
+Slept like a log last night  woke up in the fireplace.
+Im only familiar with 25 letters in the English language. I dont know why.
+'''
+  }
+  "Map<dummy.ParticularPurpleOfilia>" MinisterialAmberSherill {
+    OccasionalBlushMarj = true
+    ImportantTanMaurene = "I'll tell you what often gets over looked... garden fences."
+    LeadingIvoryGlory = 647
+    NutritiousCoralDania = "Why do birds fly south for the winter? Because it's too far to walk."
+    EntireTealEolanda = true
+    QuickSilverBetty = "Why was it called the dark ages? Because of all the knights. "
+    GorgeousBrownGweneth = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    SlightBeigeLauree = file("StrictAzureGenna.txt")
+    ObligedAquamarineLise = 745
+    IraqiCoffeeKaree = file("ElectoralIndigoEmlyn.txt")
+    DramaticTomatoEleonore = true
+    WorriedJadeKris = 502
+    RoundBlackFerdinande = 562
+    MusicalPeachKori = 495
+  }
+  dummy.AmazingTealOlympia CruelJadeRiannon {
+    ViolentSilverAshlan = 501
+    SmallPlumLiana = "Why was it called the dark ages? Because of all the knights. "
+    BeautifulCyanOdele = "Why was it called the dark ages? Because of all the knights. "
+    EconomicCoralTillie = true
+    SuperWhiteOpalina = "I'll tell you what often gets over looked... garden fences."
+    SplendidGreenLiuka = file("VastMaroonAndee.txt")
+    UncomfortableSapphireEmlynne = 413
+    GermanCrimsonRobbie = "How come the stadium got hot after the game? Because all of the fans left."
+    GiantBlushDyana = file("EarlyHarlequinYetta.txt")
+    RedBrownUrsulina = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    AustralianHarlequinMaggy = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    ChillyEmeraldRafa = false
+    OperationalCyanBecka = 812
+    VitalBlackMalena = true
+  }
+  dummy.PreciousVioletAnnabelle RemoteBlushEolanda {
+    GrossPinkAnni = {
+      legit = "How come the stadium got hot after the game? Because all of the fans left."
+    }
+    HomelyBrownRochette = file("UgliestLavenderSharleen.txt")
+    QuickHarlequinMaressa = 998
+    RegulatoryBlackSashenka = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    PregnantIndigoCassondra = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    VariousBlushMirabelle = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  }
+  MarriedPlumJeannine = file("PreparedFuchsiaAveril.txt")
+  IncredibleTanModesty = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  VisibleTanMartie = false
+  PassiveIndigoCorrianne = file("EnvironmentalFuchsiaAdelice.txt")
+  RemarkableGreenMariya = "Why did the kid cross the playground? To get to the other slide."
+  _hidden_value = true
+}

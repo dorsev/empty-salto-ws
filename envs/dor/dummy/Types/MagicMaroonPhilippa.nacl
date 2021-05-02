@@ -1,0 +1,56 @@
+type dummy.MagicMaroonPhilippa {
+  annotations {
+    boolean LikeSilverRozalin {
+    }
+    serviceid LovelyEmeraldHoney {
+    }
+    dummy.PromisingMagentaDemeter CriticalCoffeeIlene {
+    }
+    boolean VerbalCrimsonTherese {
+    }
+    dummy.NiceBrownHoney BusyCyanLara {
+    }
+    number DevelopedHarlequinPavla {
+    }
+    dummy.AmazingTealOlympia CarefulOrangeBertha {
+    }
+  }
+  dummy.MalePurpleAdella WoodenTomatoLeisha {
+    PreferredSalmonLynnea = "How come the stadium got hot after the game? Because all of the fans left."
+    ScaredAquaDina = 16
+    MoralPurpleNorma = "Why did the kid cross the playground? To get to the other slide."
+    UrgentEmeraldAriadne = 569
+    SteadyAmethystPrudi = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    DullSapphireMeredith = "What creature is smarter than a talking parrot? A spelling bee."
+    RealisticOliveMarinna = 455
+    TroubledIndigoWinnie = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    CollectiveTanMissy = "Whoever invented the knock-knock joke should get a no bell prize."
+  }
+  "List<serviceid>" CoherentTurquoiseViviyan {
+  }
+  dummy.AmbitiousAmberBrigit HelplessPinkAudrey {
+    OutrageousPurpleJanice = "I'll tell you what often gets over looked... garden fences."
+    FeministTomatoMora = "What do you do on a remote island? Try and find the TV island it belongs to."
+    FundamentalSalmonCaressa = 813
+    OverwhelmingCrimsonAdaline = file("YoungFuchsiaMelantha.txt")
+    QuietBronzeBeckie = file("EverydayHarlequinChristean.txt")
+    TamePinkKandy = true
+    MarineCopperCheri = file("CompleteYellowCoreen.txt")
+    IncredibleApricotGarland = 763
+    DeadCoralBarby = file("WoodenBlackMarcile.txt")
+    DifficultIvorySonja = true
+    NarrowPinkMarni = "Why is Peter Pan always flying? Because he Neverlands."
+    FunYellowTammi = "Why didnt the skeleton cross the road? Because he had no guts."
+    AttractivePinkDarice = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    EnchantingJadeHarriett = 67
+    JollyTanLynda = file("NumerousCyanAlthea.txt")
+  }
+  LikeSilverRozalin = true
+  LovelyEmeraldHoney = "How come the stadium got hot after the game? Because all of the fans left."
+  CriticalCoffeeIlene = file("SurvivingGoldKatey.txt")
+  VerbalCrimsonTherese = true
+  BusyCyanLara = false
+  DevelopedHarlequinPavla = 812
+  CarefulOrangeBertha = file("HandicappedApricotBrittni.txt")
+  _hidden_value = true
+}

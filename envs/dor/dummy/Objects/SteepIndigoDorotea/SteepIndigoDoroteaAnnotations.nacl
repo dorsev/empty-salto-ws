@@ -1,0 +1,56 @@
+type dummy.SteepIndigoDorotea {
+  annotations {
+    string PreciseAmaranthMufinella {
+    }
+    boolean WesternGrayLeia {
+    }
+    number DelightfulScarletPiper {
+    }
+    boolean BeneficialBeigeRoobbie {
+    }
+    json SubsequentRoseAlfi {
+    }
+    dummy.UglyApricotMarty QuietIvoryBinnie {
+    }
+    number MinimalFuchsiaLorrie {
+    }
+    dummy.IndependentPinkCatha CloseEmeraldBlithe {
+    }
+    string LongGrayDeloris {
+    }
+    number NastyCyanVerina {
+    }
+    dummy.AggregateTurquoiseMeg AdjacentMagentaLanna {
+    }
+    dummy.NuclearAquamarineMaurise JustCrimsonLiane {
+    }
+    dummy.PreciousVioletAnnabelle AngryLavenderJulina {
+    }
+    dummy.AmbitiousAmberBrigit EasternWhiteNetta {
+    }
+    boolean DramaticIvoryTruda {
+    }
+    number InquisitiveApricotLaraine {
+    }
+    boolean CooperativePinkGert {
+    }
+    number CircularBrownBlanca {
+    }
+  }
+  PreciseAmaranthMufinella = "What do you do on a remote island? Try and find the TV island it belongs to."
+  WesternGrayLeia = true
+  DelightfulScarletPiper = 735
+  BeneficialBeigeRoobbie = false
+  SubsequentRoseAlfi = "Whoever invented the knock-knock joke should get a no bell prize."
+  MinimalFuchsiaLorrie = 0
+  CloseEmeraldBlithe = true
+  LongGrayDeloris = "Why did the tomato blush? Because it saw the salad dressing."
+  NastyCyanVerina = 233
+  AdjacentMagentaLanna = 308
+  AngryLavenderJulina = file("DevelopingCoffeeCarita.txt")
+  EasternWhiteNetta = file("KnownHarlequinTrudi.txt")
+  DramaticIvoryTruda = false
+  InquisitiveApricotLaraine = 49
+  CooperativePinkGert = true
+  CircularBrownBlanca = 473
+}

@@ -1,0 +1,43 @@
+type dummy.FamiliarSilverRodie {
+  annotations {
+    json SillyBlackMolly {
+    }
+    dummy.SurvivingTanOlivia BoringCopperAiley {
+    }
+    dummy.IndependentPinkCatha VariedTurquoiseRosette {
+    }
+    serviceid PatientYellowMerle {
+    }
+    number FatAmberCheri {
+    }
+    dummy.HotYellowMeagan ElderlySapphireIlysa {
+    }
+    string AshamedHarlequinDru {
+    }
+  }
+  dummy.AggregateTurquoiseMeg CorporateBrownJessa {
+    WealthyIndigoRubie = 554
+    IllegalAmaranthAmaleta = false
+    VeryPurpleNicoli = file("EquivalentBeigeKali.txt")
+    ComprehensiveSilverDanette = true
+    NakedCoffeeGinelle = file("EagerCoffeeMerrili.txt")
+    CausalAzureNollie = "How come the stadium got hot after the game? Because all of the fans left."
+    RemoteAzureTeddy = "Why do birds fly south for the winter? Because it's too far to walk."
+    GreasyPinkBilli = "A steak pun is a rare medium well done."
+    AliveBlueJemmy = file("ColouredTanTessi.txt")
+    YummyAquamarineLinnet = true
+    HuskyScarletOthilia = file("BoredTomatoVin.txt")
+    FairPurpleBecky = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  }
+  boolean WorriedPeachHarmony {
+  }
+  string ConcreteFuchsiaMaddi {
+  }
+  SillyBlackMolly = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  VariedTurquoiseRosette = true
+  PatientYellowMerle = "Why do birds fly south for the winter? Because it's too far to walk."
+  FatAmberCheri = 94
+  ElderlySapphireIlysa = file("PracticalBlackBrianne.txt")
+  AshamedHarlequinDru = "Im only familiar with 25 letters in the English language. I dont know why."
+  _hidden_value = true
+}

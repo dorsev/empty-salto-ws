@@ -1,0 +1,41 @@
+type dummy.SmoggyCoffeeTish {
+  annotations {
+    number HistoricOliveLark {
+    }
+    dummy.PassiveMaroonBarbi NoisyBrownSamantha {
+    }
+    string RacialAquaDiane {
+    }
+    boolean CalmEmeraldTandie {
+    }
+    dummy.SupposedTealArdys TameSalmonJorry {
+    }
+    number ExternalPeachNona {
+    }
+    number SplendidBeigePersis {
+    }
+    dummy.JapaneseCoralRodina LightCrimsonAnnemarie {
+    }
+    dummy.RomanticAmberYalonda ComplicatedYellowErina {
+    }
+    dummy.NovelApricotWallie PlannedGraySilvia {
+    }
+    dummy.ComparativeAmaranthRosetta HilariousVioletLinnet {
+    }
+    dummy.AmazingTealOlympia GreenTurquoiseCher {
+    }
+    number WidespreadYellowBrynne {
+    }
+  }
+  HistoricOliveLark = 18
+  RacialAquaDiane = "Did you know that protons have mass? I didn't even know they were catholic."
+  CalmEmeraldTandie = false
+  ExternalPeachNona = 147
+  SplendidBeigePersis = 248
+  LightCrimsonAnnemarie = true
+  ComplicatedYellowErina = file("OptimisticSapphireDede.txt")
+  PlannedGraySilvia = 55
+  HilariousVioletLinnet = 692
+  GreenTurquoiseCher = file("DevelopedCopperNoellyn.txt")
+  WidespreadYellowBrynne = 154
+}

@@ -1,0 +1,80 @@
+type dummy.CulturalTomatoKrystyna {
+  annotations {
+    dummy.AmazingTealOlympia RainyAmberNixie {
+    }
+    dummy.RomanticAmberYalonda GeneralChocolateDix {
+    }
+    string ShySalmonMalissia {
+    }
+    number CrazyScarletGerianna {
+    }
+    dummy.AmazingTealOlympia LiquidGoldCharline {
+    }
+    dummy.ParticularPurpleOfilia EqualCoffeeOphelie {
+    }
+  }
+  string AshamedGrayMin {
+  }
+  number SillyBeigeKristi {
+  }
+  dummy.IntellectualAmethystNetty CompatibleEmeraldGerri {
+    BeautifulCoffeeArleta = file("FortunateIvoryAilee.txt")
+    EqualYellowHelenelizabeth = 355
+    AdvisoryLimeDana = "What creature is smarter than a talking parrot? A spelling bee."
+    CreepyPinkSherye = "My first time using an elevator was an uplifting experience. The second time let me down."
+    ModernRoseVina = "Slept like a log last night  woke up in the fireplace."
+    RomanticOrangeLeyla = false
+    GenuineGreenAbbie = 146
+    ConsiderableBeigeLonnie = true
+    GleamingMagentaKristyn = "Whoever invented the knock-knock joke should get a no bell prize."
+    LargeJadeKati = 105
+    PreciseTomatoJanaya = 878
+    BackRedBrena = 154
+    ModernBronzeJillian = 10
+    EntitledScarletPammie = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    PrimeTanJanessa = "Why did the kid cross the playground? To get to the other slide."
+    ConvincingBrownEnrika = file("KindAquaValina.txt")
+    FinalMoccasinIlse = "Why do birds fly south for the winter? Because it's too far to walk."
+    BoredAquaPatricia = 277
+    NakedWhiteJehanna = file("ElectricalOrangeNinon.txt")
+  }
+  serviceid AlternativeAmberMargery {
+  }
+  serviceid ConfusedRedLeoline {
+  }
+  string LivelyFuchsiaVivyanne {
+  }
+  dummy.LightHarlequinLiz ChosenCyanMarabel {
+    MiniatureSapphireSapphira = false
+    StuckPlumWendye = true
+    SafeBeigeSidoney = 691
+    ProfoundBlueJustina = file("RobustAmaranthNance.txt")
+    DoubtfulMoccasinKitty = "What did one nut say as he chased another nut?  I'm a cashew!"
+  }
+  string DisabledJadeMinerva {
+  }
+  serviceid ProbableLavenderDarsie {
+  }
+  boolean DeterminedSapphireTimothea {
+  }
+  dummy.PreciousVioletAnnabelle HistoricAquaFancie {
+    GrossPinkAnni = {
+      legit = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    }
+    HomelyBrownRochette = file("ObedientPinkDoris.txt")
+    QuickHarlequinMaressa = 161
+    RegulatoryBlackSashenka = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    PregnantIndigoCassondra = "What creature is smarter than a talking parrot? A spelling bee."
+    VariousBlushMirabelle = '''
+I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts.
+Why was it called the dark ages? Because of all the knights. 
+'''
+  }
+  RainyAmberNixie = file("StructuralRedKalila.txt")
+  GeneralChocolateDix = file("LostAquamarineMalanie.txt")
+  ShySalmonMalissia = "To be Frank, I'd have to change my name."
+  CrazyScarletGerianna = 303
+  LiquidGoldCharline = file("BoringPinkTarra.txt")
+  EqualCoffeeOphelie = true
+  _hidden_value = true
+}

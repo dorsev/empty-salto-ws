@@ -1,0 +1,64 @@
+type dummy.FunnyJadeElna {
+  annotations {
+    dummy.AmazingTealOlympia PrettyPeachMelli {
+    }
+    dummy.PreciousVioletAnnabelle FrontGoldPansy {
+    }
+    serviceid RightBlueWaly {
+    }
+    dummy.HotYellowMeagan ScaryScarletGlennie {
+    }
+  }
+  boolean SpecifiedRedStoddard {
+  }
+  dummy.MixedAzureBathsheba PrimeGrayXylia {
+    ContinuousSilverSelestina = 511
+    StrikingPlumCecelia = file("NaughtyPurpleShirlee.txt")
+    ObligedYellowZitella = file("AcceptedPinkJacqueline.txt")
+    SolidBrownMirelle = true
+    MisleadingHarlequinKarlotta = true
+    WickedAquaJaneva = "Why was it called the dark ages? Because of all the knights. "
+  }
+  serviceid CentralOliveFanechka {
+  }
+  json JollySilverMufinella {
+  }
+  json ToughAmethystCarolee {
+  }
+  string JapaneseVioletBrianna {
+  }
+  dummy.GastricAmethystMichaela ChubbyBlueEmiline {
+    EmbarrassedRoseClaire = false
+    WeirdCopperBetsey = 942
+    RottenRoseDorella = true
+  }
+  number BlackTanGert {
+  }
+  dummy.IndependentPinkCatha TartAmethystEunice {
+    NiceHarlequinStefania = "Dad Im hungry  Hi hungry Im dad"
+    MagnificentCoffeeMerola = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    SubsequentBlackCharin = "My first time using an elevator was an uplifting experience. The second time let me down."
+    SpareTomatoJeanie = 238
+    ObviousTomatoJen = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    PresentGoldBriney = "Why did the kid cross the playground? To get to the other slide."
+    TopBlueMelita = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    ToughAmaranthBren = true
+    OccasionalBlueCourtenay = 5
+    IndianOrangeFilippa = false
+    QuietLimeCristen = 182
+    GrievingLavenderTera = 211
+    NoisyPlumIrena = false
+    FrozenBlushJean = {
+      legit = "What do you call two barracuda fish?  A Pairacuda!"
+    }
+    VeryBrownGaby = "My first time using an elevator was an uplifting experience. The second time let me down."
+    ExcitingPurpleJoli = "Dad Im hungry  Hi hungry Im dad"
+  }
+  number ObligedLimeLetitia {
+  }
+  PrettyPeachMelli = file("ConcernedLimeHerminia.txt")
+  FrontGoldPansy = file("AnnoyedFuchsiaBelva.txt")
+  RightBlueWaly = "Dad Im hungry  Hi hungry Im dad"
+  ScaryScarletGlennie = file("NativeMagentaJill.txt")
+  _hidden_value = true
+}

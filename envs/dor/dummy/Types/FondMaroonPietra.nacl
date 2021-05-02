@@ -1,0 +1,50 @@
+type dummy.FondMaroonPietra {
+  annotations {
+    dummy.ArrogantSapphireDaphna AngryYellowKathy {
+    }
+    dummy.PreciousVioletAnnabelle EstablishedApricotVirginie {
+    }
+    string SmallPurpleNady {
+    }
+    boolean LightCoffeeFarrah {
+    }
+    json ThunderingAquaLeanna {
+    }
+    serviceid GeographicalSilverDodie {
+    }
+  }
+  dummy.WrittenAzureLizabeth FierceGrayRandy {
+    AssistantMoccasinAjay = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    KeyMaroonBunny = "To be Frank, I'd have to change my name."
+    RussianChocolateVirginia = 850
+    NovelGoldBettine = false
+    PersistentHarlequinLana = "A steak pun is a rare medium well done."
+    NovelOliveWillamina = false
+    MissingWhiteEthelind = "Whoever invented the knock-knock joke should get a no bell prize."
+    SmoothBrownCharil = "What did one nut say as he chased another nut?  I'm a cashew!"
+    ModernHarlequinMelitta = "What did one nut say as he chased another nut?  I'm a cashew!"
+    SmallTomatoAnatola = 168
+    UnemployedLimeLyndsay = "Why did the tomato blush? Because it saw the salad dressing."
+    ConsiderableCoffeeSiobhan = "Why do birds fly south for the winter? Because it's too far to walk."
+    ComplexCopperKatinka = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    SacredSilverClotilda = true
+    ConfidentEmeraldAlys = true
+    ShyRedDotti = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    PricklySapphireSelia = "Why didnt the skeleton cross the road? Because he had no guts."
+    BlueBrownElise = "Why didnt the skeleton cross the road? Because he had no guts."
+  }
+  dummy.DisappointedSilverNelia NumerousChocolateMyrta {
+    FeministPeachLilas = 350
+    ToughPeachPaolina = file("ImpossibleIndigoRachel.txt")
+    AnnualTanLeonie = file("EnormousSapphireElora.txt")
+    OverwhelmingBeigeJunette = "What creature is smarter than a talking parrot? A spelling bee."
+    TestyIndigoKate = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  }
+  AngryYellowKathy = false
+  EstablishedApricotVirginie = file("AwakeIndigoMatilde.txt")
+  SmallPurpleNady = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  LightCoffeeFarrah = false
+  ThunderingAquaLeanna = "Why was it called the dark ages? Because of all the knights. "
+  GeographicalSilverDodie = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _hidden_value = true
+}

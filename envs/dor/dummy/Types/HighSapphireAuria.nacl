@@ -1,0 +1,25 @@
+type dummy.HighSapphireAuria {
+  annotations {
+    number SpecificMagentaAmalie {
+    }
+    dummy.RomanticAmberYalonda ShakyTanHyacinthia {
+    }
+    number InternationalIvoryLatrena {
+    }
+    dummy.NovelApricotWallie EasyPinkEmmye {
+    }
+    dummy.OrganisationalVioletCharmion BadFuchsiaSelina {
+    }
+    boolean AbsoluteAzureDi {
+    }
+  }
+  string CompulsoryIndigoAuguste {
+  }
+  SpecificMagentaAmalie = 76
+  ShakyTanHyacinthia = file("QuaintAmaranthPaulita.txt")
+  InternationalIvoryLatrena = 499
+  EasyPinkEmmye = 576
+  BadFuchsiaSelina = true
+  AbsoluteAzureDi = false
+  _hidden_value = true
+}

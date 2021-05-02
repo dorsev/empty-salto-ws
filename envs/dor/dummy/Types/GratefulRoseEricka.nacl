@@ -1,0 +1,21 @@
+type dummy.GratefulRoseEricka {
+  annotations {
+    dummy.NovelApricotWallie CrucialBlushAudi {
+    }
+    dummy.PreciousVioletAnnabelle PresidentialSalmonMartica {
+    }
+    dummy.HotYellowMeagan OutstandingHarlequinMorena {
+    }
+    dummy.MistyBrownDebbie ColouredSapphireDaile {
+    }
+    string SilkyCopperKikelia {
+    }
+  }
+  json EasyRoseAudrie {
+  }
+  CrucialBlushAudi = 181
+  PresidentialSalmonMartica = file("CompatibleGrayKarlotte.txt")
+  OutstandingHarlequinMorena = file("ProfitableTealRubetta.txt")
+  SilkyCopperKikelia = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _hidden_value = true
+}

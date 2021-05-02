@@ -1,0 +1,30 @@
+type dummy.StaleCoralElwira {
+  annotations {
+    dummy.PreciousVioletAnnabelle HonestSalmonTamar {
+    }
+    string SteepAmethystJoete {
+    }
+    dummy.FutureRedCammi EagerJadeMyra {
+    }
+    dummy.PreciousVioletAnnabelle NativeBlushElsbeth {
+    }
+    dummy.FriendlyFuchsiaHarri BraveIndigoKarisa {
+    }
+  }
+  dummy.NovelApricotWallie InternalApricotJoby {
+    NeutralJadeRoseann = "What do you do on a remote island? Try and find the TV island it belongs to."
+    SoftMagentaKris = "Did you know that protons have mass? I didn't even know they were catholic."
+    DeterminedTomatoViolante = false
+    IntermediateEmeraldJanine = false
+    CorporateAquamarineMary = "Why do birds fly south for the winter? Because it's too far to walk."
+    InterimCoralEtti = "A steak pun is a rare medium well done."
+    SmoothMaroonOlenka = 440
+    PeacefulAmaranthRicca = file("CurvedIvoryCharlotte.txt")
+    LightGreenHestia = file("YoungVioletShina.txt")
+  }
+  HonestSalmonTamar = file("AbstractEmeraldEdithe.txt")
+  SteepAmethystJoete = "Dad Im hungry  Hi hungry Im dad"
+  EagerJadeMyra = 716
+  NativeBlushElsbeth = file("RegularAmaranthLanie.txt")
+  _hidden_value = true
+}

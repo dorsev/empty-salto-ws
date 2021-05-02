@@ -1,0 +1,57 @@
+type dummy.PowerfulHarlequinRita {
+  annotations {
+    dummy.RomanticAmberYalonda MightyCoffeeEleanora {
+    }
+    serviceid WeakTurquoiseCordelia {
+    }
+    dummy.AmbitiousAmberBrigit RigidRoseDalia {
+    }
+    boolean UptightLimeRoxi {
+    }
+    dummy.AmazingTealOlympia ZanyChocolateAmy {
+    }
+    dummy.IndependentPinkCatha ShortBrownKailey {
+    }
+    string PsychiatricAzureDeeyn {
+    }
+    dummy.NiceBrownHoney WorryingEmeraldDana {
+    }
+    dummy.EvidentBronzePaolina DirtyCrimsonJerrine {
+    }
+    json NewEmeraldNicholle {
+    }
+    serviceid RemainingLavenderRozanna {
+    }
+    json LateYellowBride {
+    }
+    dummy.AggregateTurquoiseMeg IndirectGoldAnnmarie {
+    }
+    dummy.IntellectualAmethystNetty AccessibleMoccasinVal {
+    }
+    dummy.JapaneseCoralRodina NativeTurquoiseMarigold {
+    }
+    serviceid OkBrownEleonore {
+    }
+    json EnthusiasticCopperUlla {
+    }
+    dummy.IntellectualAmethystNetty NewGoldAura {
+    }
+  }
+  MightyCoffeeEleanora = file("BusyTomatoJuliet.txt")
+  WeakTurquoiseCordelia = "Why did the kid cross the playground? To get to the other slide."
+  RigidRoseDalia = file("JointTanYoko.txt")
+  UptightLimeRoxi = true
+  ZanyChocolateAmy = file("CharacteristicApricotNeila.txt")
+  ShortBrownKailey = false
+  PsychiatricAzureDeeyn = "Did you know that protons have mass? I didn't even know they were catholic."
+  WorryingEmeraldDana = false
+  NewEmeraldNicholle = "I'll tell you what often gets over looked... garden fences."
+  RemainingLavenderRozanna = "I'll tell you what often gets over looked... garden fences."
+  LateYellowBride = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  IndirectGoldAnnmarie = 34
+  AccessibleMoccasinVal = file("ObligedHarlequinLeeann.txt")
+  NativeTurquoiseMarigold = true
+  OkBrownEleonore = "Whoever invented the knock-knock joke should get a no bell prize."
+  EnthusiasticCopperUlla = "Why did the tomato blush? Because it saw the salad dressing."
+  NewGoldAura = file("OrangeAmberDelphinia.txt")
+}

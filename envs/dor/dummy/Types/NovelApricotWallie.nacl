@@ -1,0 +1,31 @@
+type dummy.NovelApricotWallie is number {
+  annotations {
+    serviceid NeutralJadeRoseann {
+    }
+    json SoftMagentaKris {
+    }
+    boolean DeterminedTomatoViolante {
+    }
+    boolean IntermediateEmeraldJanine {
+    }
+    serviceid CorporateAquamarineMary {
+    }
+    string InterimCoralEtti {
+    }
+    dummy.ClosedCoralShayna SmoothMaroonOlenka {
+    }
+    dummy.KoreanTurquoiseJeannie PeacefulAmaranthRicca {
+    }
+    dummy.PreciousVioletAnnabelle LightGreenHestia {
+    }
+  }
+  NeutralJadeRoseann = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  SoftMagentaKris = "What do you call two barracuda fish?  A Pairacuda!"
+  DeterminedTomatoViolante = false
+  IntermediateEmeraldJanine = false
+  CorporateAquamarineMary = "To be Frank, I'd have to change my name."
+  InterimCoralEtti = "Did you know that protons have mass? I didn't even know they were catholic."
+  SmoothMaroonOlenka = 720
+  PeacefulAmaranthRicca = file("NumerousApricotFerdinande.txt")
+  LightGreenHestia = file("RisingCrimsonNari.txt")
+}

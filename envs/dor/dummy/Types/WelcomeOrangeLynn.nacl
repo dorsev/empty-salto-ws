@@ -1,0 +1,74 @@
+type dummy.WelcomeOrangeLynn {
+  annotations {
+    boolean WoodenMoccasinAnnemarie {
+    }
+    boolean AnnualAquamarineYoshiko {
+    }
+    boolean InvisibleSilverAshely {
+    }
+    number TightPurpleLaney {
+    }
+    dummy.RomanticAmberYalonda EagerGreenElka {
+    }
+    boolean PreliminaryBronzeHarri {
+    }
+  }
+  string PoorTomatoKriste {
+  }
+  dummy.NovelApricotWallie BroadGreenJacynth {
+    NeutralJadeRoseann = "What creature is smarter than a talking parrot? A spelling bee."
+    SoftMagentaKris = "Why did the tomato blush? Because it saw the salad dressing."
+    DeterminedTomatoViolante = true
+    IntermediateEmeraldJanine = false
+    CorporateAquamarineMary = "Why do birds fly south for the winter? Because it's too far to walk."
+    InterimCoralEtti = "Why didnt the skeleton cross the road? Because he had no guts."
+    SmoothMaroonOlenka = 992
+    PeacefulAmaranthRicca = file("ProfoundAquamarineEstelle.txt")
+    LightGreenHestia = file("AppropriateTurquoiseFaunie.txt")
+  }
+  dummy.WrittenAzureLizabeth ConsiderableBlushLizbeth {
+    AssistantMoccasinAjay = "How come the stadium got hot after the game? Because all of the fans left."
+    KeyMaroonBunny = "Whoever invented the knock-knock joke should get a no bell prize."
+    RussianChocolateVirginia = 243
+    NovelGoldBettine = false
+    PersistentHarlequinLana = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    NovelOliveWillamina = false
+    MissingWhiteEthelind = "What do you call two barracuda fish?  A Pairacuda!"
+    SmoothBrownCharil = "I'll tell you what often gets over looked... garden fences."
+    ModernHarlequinMelitta = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    SmallTomatoAnatola = 202
+    UnemployedLimeLyndsay = "How come the stadium got hot after the game? Because all of the fans left."
+    ConsiderableCoffeeSiobhan = "How come the stadium got hot after the game? Because all of the fans left."
+    ComplexCopperKatinka = "To be Frank, I'd have to change my name."
+    SacredSilverClotilda = true
+    ConfidentEmeraldAlys = false
+    ShyRedDotti = "Did you know that protons have mass? I didn't even know they were catholic."
+    PricklySapphireSelia = "What did one nut say as he chased another nut?  I'm a cashew!"
+    BlueBrownElise = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  }
+  dummy.PreciousVioletAnnabelle LuckyBeigeSheri {
+    GrossPinkAnni = {
+      legit = "Did you know that protons have mass? I didn't even know they were catholic."
+    }
+    HomelyBrownRochette = file("BadIvoryDale.txt")
+    QuickHarlequinMaressa = 157
+    RegulatoryBlackSashenka = "Did you know that protons have mass? I didn't even know they were catholic."
+    PregnantIndigoCassondra = "Why was it called the dark ages? Because of all the knights. "
+    VariousBlushMirabelle = "Did you know that protons have mass? I didn't even know they were catholic."
+  }
+  dummy.RomanticAmberYalonda OccupationalSalmonPen {
+    BiologicalEmeraldAaren = true
+    GoldenWhiteKarin = false
+    NeutralPinkDolores = true
+    FuzzyAquaJenilee = 992
+  }
+  number UnableBrownJobina {
+  }
+  WoodenMoccasinAnnemarie = true
+  AnnualAquamarineYoshiko = false
+  InvisibleSilverAshely = false
+  TightPurpleLaney = 445
+  EagerGreenElka = file("RunningAquaAmye.txt")
+  PreliminaryBronzeHarri = false
+  _hidden_value = true
+}

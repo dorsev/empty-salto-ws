@@ -1,0 +1,70 @@
+type dummy.SophisticatedCyanBirgitta {
+  annotations {
+    dummy.ParticularPurpleOfilia DueIndigoDre {
+    }
+    json MagnificentMoccasinCoralyn {
+    }
+    number PublicVioletGertie {
+    }
+    number GrossMoccasinSela {
+    }
+    dummy.AmazingTealOlympia AllegedSapphireErnestine {
+    }
+    boolean BeautifulFuchsiaMathilda {
+    }
+    dummy.PreciousVioletAnnabelle WelshAquaCandra {
+    }
+    number LivelyScarletGertruda {
+    }
+    dummy.NiceBrownHoney BlueBlushStephine {
+    }
+    boolean BlushingTurquoiseKorney {
+    }
+    dummy.AmbitiousAmberBrigit StupidFuchsiaKimberlee {
+    }
+    boolean VariableGreenLotta {
+    }
+    number ColourfulLavenderKatey {
+    }
+    dummy.JapaneseCoralRodina FashionableCoralLyndsey {
+    }
+    string WrittenAquamarineDyanna {
+    }
+    string BraveApricotJessica {
+    }
+    number SubjectiveTanMikaela {
+    }
+    number UndergroundRoseOphelie {
+    }
+    boolean AutomaticGreenAdela {
+    }
+    json TropicalBronzeMadeline {
+    }
+    boolean OkayHarlequinSelle {
+    }
+    number ColdOrangeKelsi {
+    }
+  }
+  DueIndigoDre = true
+  MagnificentMoccasinCoralyn = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  PublicVioletGertie = 851
+  GrossMoccasinSela = 907
+  AllegedSapphireErnestine = file("BroadSilverPage.txt")
+  BeautifulFuchsiaMathilda = true
+  WelshAquaCandra = file("SingleChocolateVanny.txt")
+  LivelyScarletGertruda = 544
+  BlueBlushStephine = true
+  BlushingTurquoiseKorney = true
+  StupidFuchsiaKimberlee = file("HurtBrownKelsi.txt")
+  VariableGreenLotta = false
+  ColourfulLavenderKatey = 719
+  FashionableCoralLyndsey = false
+  WrittenAquamarineDyanna = "Why did the kid cross the playground? To get to the other slide."
+  BraveApricotJessica = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  SubjectiveTanMikaela = 363
+  UndergroundRoseOphelie = 840
+  AutomaticGreenAdela = false
+  TropicalBronzeMadeline = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  OkayHarlequinSelle = false
+  ColdOrangeKelsi = 691
+}

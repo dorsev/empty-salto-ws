@@ -1,0 +1,63 @@
+type dummy.PersonalBronzeMarga {
+  annotations {
+    dummy.WrittenAzureLizabeth WildPlumPhelia {
+    }
+    json FunnyMaroonTammi {
+    }
+    dummy.JapaneseCoralRodina UgliestCoralTamera {
+    }
+    dummy.JapaneseCoralRodina ManyGreenFulvia {
+    }
+    string ObviousBlushMarybeth {
+    }
+    dummy.JapaneseCoralRodina PrettyTurquoiseSarene {
+    }
+    string EnergeticAmberErnaline {
+    }
+    string LovelyRoseJillane {
+    }
+    dummy.IntellectualAmethystNetty EasternCrimsonMarketa {
+    }
+    dummy.HotYellowMeagan NumerousPinkKatharine {
+    }
+    number GermanFuchsiaLaura {
+    }
+    serviceid CulturalAmberJen {
+    }
+    boolean SilentCopperNanete {
+    }
+    string ThenBronzeSydelle {
+    }
+    number GeneticBronzeGeorgeta {
+    }
+    dummy.NiceBrownHoney FatalAquaSalomi {
+    }
+    number UnusualAmethystAlla {
+    }
+    dummy.BraveHarlequinLotty RelativeMaroonArielle {
+    }
+    dummy.NovelApricotWallie CuddlyCyanVera {
+    }
+    dummy.JapaneseCoralRodina DistinctiveGoldKalie {
+    }
+  }
+  WildPlumPhelia = false
+  FunnyMaroonTammi = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  UgliestCoralTamera = false
+  ManyGreenFulvia = false
+  ObviousBlushMarybeth = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  PrettyTurquoiseSarene = false
+  EnergeticAmberErnaline = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  LovelyRoseJillane = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  EasternCrimsonMarketa = file("RelaxedGrayEdita.txt")
+  NumerousPinkKatharine = file("ExistingGreenMaryanne.txt")
+  GermanFuchsiaLaura = 999
+  CulturalAmberJen = "Why was it called the dark ages? Because of all the knights. "
+  SilentCopperNanete = false
+  ThenBronzeSydelle = "Why did the kid cross the playground? To get to the other slide."
+  GeneticBronzeGeorgeta = 501
+  FatalAquaSalomi = false
+  UnusualAmethystAlla = 310
+  CuddlyCyanVera = 168
+  DistinctiveGoldKalie = true
+}

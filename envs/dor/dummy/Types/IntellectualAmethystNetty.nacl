@@ -1,0 +1,61 @@
+type dummy.IntellectualAmethystNetty is string {
+  annotations {
+    dummy.LesserOliveAndie BeautifulCoffeeArleta {
+    }
+    dummy.AggregateTurquoiseMeg EqualYellowHelenelizabeth {
+    }
+    serviceid AdvisoryLimeDana {
+    }
+    serviceid CreepyPinkSherye {
+    }
+    json ModernRoseVina {
+    }
+    dummy.ParticularPurpleOfilia RomanticOrangeLeyla {
+    }
+    number GenuineGreenAbbie {
+    }
+    boolean ConsiderableBeigeLonnie {
+    }
+    serviceid GleamingMagentaKristyn {
+    }
+    number LargeJadeKati {
+    }
+    dummy.LargePurpleMaryrose PreciseTomatoJanaya {
+    }
+    dummy.NovelApricotWallie BackRedBrena {
+    }
+    dummy.AggregateTurquoiseMeg ModernBronzeJillian {
+    }
+    json EntitledScarletPammie {
+    }
+    string PrimeTanJanessa {
+    }
+    dummy.RomanticAmberYalonda ConvincingBrownEnrika {
+    }
+    string FinalMoccasinIlse {
+    }
+    dummy.NoisyMagentaJobey BoredAquaPatricia {
+    }
+    dummy.AmazingTealOlympia NakedWhiteJehanna {
+    }
+  }
+  BeautifulCoffeeArleta = file("RepresentativeMaroonCamella.txt")
+  EqualYellowHelenelizabeth = 872
+  AdvisoryLimeDana = "Whoever invented the knock-knock joke should get a no bell prize."
+  CreepyPinkSherye = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  ModernRoseVina = "My first time using an elevator was an uplifting experience. The second time let me down."
+  RomanticOrangeLeyla = false
+  GenuineGreenAbbie = 265
+  ConsiderableBeigeLonnie = true
+  GleamingMagentaKristyn = "Slept like a log last night  woke up in the fireplace."
+  LargeJadeKati = 134
+  PreciseTomatoJanaya = 956
+  BackRedBrena = 830
+  ModernBronzeJillian = 702
+  EntitledScarletPammie = "Why did the tomato blush? Because it saw the salad dressing."
+  PrimeTanJanessa = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  ConvincingBrownEnrika = file("InstantBronzeChloe.txt")
+  FinalMoccasinIlse = "What did one nut say as he chased another nut?  I'm a cashew!"
+  BoredAquaPatricia = 299
+  NakedWhiteJehanna = file("ForwardGoldAudy.txt")
+}

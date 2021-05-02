@@ -1,0 +1,22 @@
+type dummy.PastChocolateStephanie {
+  annotations {
+    dummy.AmazingTealOlympia CommonCrimsonRiannon {
+    }
+    string EconomicGoldYvonne {
+    }
+    dummy.AggregateTurquoiseMeg PreciseSalmonCinderella {
+    }
+    boolean FilthyPeachGloria {
+    }
+    dummy.AmazingTealOlympia FeministLavenderKassia {
+    }
+  }
+  boolean BlueCopperMagdalene {
+  }
+  CommonCrimsonRiannon = file("RegulatoryBlueEsther.txt")
+  EconomicGoldYvonne = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  PreciseSalmonCinderella = 435
+  FilthyPeachGloria = true
+  FeministLavenderKassia = file("QuietScarletBerti.txt")
+  _hidden_value = true
+}

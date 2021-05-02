@@ -1,0 +1,24 @@
+type dummy.SleepyPinkFlorentia {
+  annotations {
+    dummy.NiceBrownHoney HelplessTurquoiseCody {
+    }
+    dummy.FortunateMoccasinGiorgia ManualMagentaDoris {
+    }
+    dummy.KoreanTurquoiseJeannie DarkIvoryIsobel {
+    }
+    serviceid SolePurpleAvie {
+    }
+    boolean RaspyLavenderAbagael {
+    }
+    dummy.DesperateAquamarineLisabeth PerfectGrayEartha {
+    }
+  }
+  number PurplePeachFlorrie {
+  }
+  HelplessTurquoiseCody = true
+  DarkIvoryIsobel = file("ResponsibleSilverAilee.txt")
+  SolePurpleAvie = "Why did the kid cross the playground? To get to the other slide."
+  RaspyLavenderAbagael = true
+  PerfectGrayEartha = 227
+  _hidden_value = true
+}

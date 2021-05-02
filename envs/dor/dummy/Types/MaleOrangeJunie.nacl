@@ -1,0 +1,34 @@
+type dummy.MaleOrangeJunie is boolean {
+  annotations {
+    number EasyCrimsonGizela {
+    }
+    number SelectiveBlushElayne {
+    }
+    number WelcomeLimeShirlene {
+    }
+    json GrowingRedJazmin {
+    }
+    number WorldwideTealRozella {
+    }
+    number BizarreScarletKarrie {
+    }
+    number QuaintMoccasinMarthena {
+    }
+    serviceid AmericanLimeMichaelina {
+    }
+    boolean MysteriousSapphireAgnesse {
+    }
+    string VeryWhiteCarilyn {
+    }
+  }
+  EasyCrimsonGizela = 769
+  SelectiveBlushElayne = 330
+  WelcomeLimeShirlene = 49
+  GrowingRedJazmin = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  WorldwideTealRozella = 788
+  BizarreScarletKarrie = 53
+  QuaintMoccasinMarthena = 63
+  AmericanLimeMichaelina = "Im only familiar with 25 letters in the English language. I dont know why."
+  MysteriousSapphireAgnesse = false
+  VeryWhiteCarilyn = "Why did the kid cross the playground? To get to the other slide."
+}

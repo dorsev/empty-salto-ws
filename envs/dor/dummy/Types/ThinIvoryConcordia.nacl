@@ -1,0 +1,38 @@
+type dummy.ThinIvoryConcordia {
+  annotations {
+    string NeatChocolateGracie {
+    }
+    dummy.HotYellowMeagan RelievedFuchsiaAnette {
+    }
+    dummy.CrookedGrayJess VisibleMaroonKatharyn {
+    }
+    dummy.NovelApricotWallie RoundPurpleClea {
+    }
+    dummy.MarriedRedArlette StrangeGoldAnnaliese {
+    }
+  }
+  dummy.ParticularPurpleOfilia ProperCyanMinette {
+    OccasionalBlushMarj = true
+    ImportantTanMaurene = "Why did the kid cross the playground? To get to the other slide."
+    LeadingIvoryGlory = 212
+    NutritiousCoralDania = "What do you call two barracuda fish?  A Pairacuda!"
+    EntireTealEolanda = true
+    QuickSilverBetty = "Slept like a log last night  woke up in the fireplace."
+    GorgeousBrownGweneth = "Why did the kid cross the playground? To get to the other slide."
+    SlightBeigeLauree = file("WeeklyBeigeGae.txt")
+    ObligedAquamarineLise = 305
+    IraqiCoffeeKaree = file("LatinMoccasinArdyce.txt")
+    DramaticTomatoEleonore = true
+    WorriedJadeKris = 779
+    RoundBlackFerdinande = 358
+    MusicalPeachKori = 852
+  }
+  NeatChocolateGracie = '''
+Did you hear the joke about the wandering nun? She was a roman catholic.
+Whoever invented the knock-knock joke should get a no bell prize.
+Why was it called the dark ages? Because of all the knights. 
+'''
+  RelievedFuchsiaAnette = file("RealMoccasinAlthea.txt")
+  RoundPurpleClea = 337
+  _hidden_value = true
+}

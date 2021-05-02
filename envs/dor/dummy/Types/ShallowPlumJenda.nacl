@@ -1,0 +1,37 @@
+type dummy.ShallowPlumJenda is boolean {
+  annotations {
+    string PhysicalJadeDomeniga {
+    }
+    string EfficientTomatoBritni {
+    }
+    number LightVioletMariejeanne {
+    }
+    boolean ReliableMaroonMonika {
+    }
+    boolean ExpectedBlushBrena {
+    }
+    dummy.FutureRedCammi AtomicSilverKiele {
+    }
+    boolean DampLavenderCindee {
+    }
+    boolean MinimumChocolateSydelle {
+    }
+    json AngryAquaIlise {
+    }
+    boolean WarmOrangeRoshelle {
+    }
+    serviceid RespectiveAmaranthKeely {
+    }
+  }
+  PhysicalJadeDomeniga = "Whoever invented the knock-knock joke should get a no bell prize."
+  EfficientTomatoBritni = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  LightVioletMariejeanne = 889
+  ReliableMaroonMonika = true
+  ExpectedBlushBrena = false
+  AtomicSilverKiele = 135
+  DampLavenderCindee = true
+  MinimumChocolateSydelle = true
+  AngryAquaIlise = "What creature is smarter than a talking parrot? A spelling bee."
+  WarmOrangeRoshelle = false
+  RespectiveAmaranthKeely = "Why did the tomato blush? Because it saw the salad dressing."
+}

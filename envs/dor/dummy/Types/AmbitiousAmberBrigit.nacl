@@ -1,0 +1,49 @@
+type dummy.AmbitiousAmberBrigit is string {
+  annotations {
+    string OutrageousPurpleJanice {
+    }
+    string FeministTomatoMora {
+    }
+    number FundamentalSalmonCaressa {
+    }
+    dummy.AmazingTealOlympia OverwhelmingCrimsonAdaline {
+    }
+    dummy.LesserOliveAndie QuietBronzeBeckie {
+    }
+    dummy.ShallowPlumJenda TamePinkKandy {
+    }
+    dummy.LesserOliveAndie MarineCopperCheri {
+    }
+    dummy.ClosedCoralShayna IncredibleApricotGarland {
+    }
+    dummy.AmazingTealOlympia DeadCoralBarby {
+    }
+    boolean DifficultIvorySonja {
+    }
+    string NarrowPinkMarni {
+    }
+    string FunYellowTammi {
+    }
+    json AttractivePinkDarice {
+    }
+    number EnchantingJadeHarriett {
+    }
+    dummy.PreciousVioletAnnabelle JollyTanLynda {
+    }
+  }
+  OutrageousPurpleJanice = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  FeministTomatoMora = "Why do birds fly south for the winter? Because it's too far to walk."
+  FundamentalSalmonCaressa = 416
+  OverwhelmingCrimsonAdaline = file("DepressedTomatoSelie.txt")
+  QuietBronzeBeckie = file("ImmediateAzureMarilin.txt")
+  TamePinkKandy = true
+  MarineCopperCheri = file("MainChocolateGerry.txt")
+  IncredibleApricotGarland = 204
+  DeadCoralBarby = file("ForthcomingPlumFanny.txt")
+  DifficultIvorySonja = false
+  NarrowPinkMarni = "Why did the tomato blush? Because it saw the salad dressing."
+  FunYellowTammi = "Slept like a log last night  woke up in the fireplace."
+  AttractivePinkDarice = "A steak pun is a rare medium well done."
+  EnchantingJadeHarriett = 55
+  JollyTanLynda = file("IllegalVioletLissy.txt")
+}

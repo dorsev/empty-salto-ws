@@ -1,0 +1,16 @@
+type dummy.RomanticAmberYalonda is string {
+  annotations {
+    boolean BiologicalEmeraldAaren {
+    }
+    dummy.IndependentPinkCatha GoldenWhiteKarin {
+    }
+    boolean NeutralPinkDolores {
+    }
+    dummy.NovelApricotWallie FuzzyAquaJenilee {
+    }
+  }
+  BiologicalEmeraldAaren = false
+  GoldenWhiteKarin = true
+  NeutralPinkDolores = false
+  FuzzyAquaJenilee = 563
+}

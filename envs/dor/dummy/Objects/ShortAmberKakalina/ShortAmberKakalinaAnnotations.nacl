@@ -1,0 +1,48 @@
+type dummy.ShortAmberKakalina {
+  annotations {
+    dummy.PreciousVioletAnnabelle GratefulAmethystMaxy {
+    }
+    serviceid SocialistSalmonNanci {
+    }
+    dummy.JapaneseCoralRodina CarefulRoseFredra {
+    }
+    boolean TestyFuchsiaBonnee {
+    }
+    string SoundAmaranthLeonora {
+    }
+    dummy.MalePurpleAdella ToughLimeMel {
+    }
+    boolean DeterminedCoralTheadora {
+    }
+    string ScientificGreenEvvy {
+    }
+    serviceid ForwardChocolatePetronia {
+    }
+    number CourageousBlueMara {
+    }
+    json ConstitutionalScarletIndira {
+    }
+    serviceid RevolutionaryBlackDanni {
+    }
+    dummy.ToughGrayMarta NationalAzureRosetta {
+    }
+    boolean CatholicEmeraldTori {
+    }
+    json MisleadingTomatoLurline {
+    }
+  }
+  GratefulAmethystMaxy = file("AbstractCoffeeChandal.txt")
+  SocialistSalmonNanci = "Dad Im hungry  Hi hungry Im dad"
+  CarefulRoseFredra = false
+  TestyFuchsiaBonnee = false
+  SoundAmaranthLeonora = "Im only familiar with 25 letters in the English language. I dont know why."
+  ToughLimeMel = 380
+  DeterminedCoralTheadora = true
+  ScientificGreenEvvy = "Why did the tomato blush? Because it saw the salad dressing."
+  ForwardChocolatePetronia = "What do you do on a remote island? Try and find the TV island it belongs to."
+  CourageousBlueMara = 753
+  ConstitutionalScarletIndira = "Im only familiar with 25 letters in the English language. I dont know why."
+  RevolutionaryBlackDanni = "How come the stadium got hot after the game? Because all of the fans left."
+  CatholicEmeraldTori = true
+  MisleadingTomatoLurline = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+}

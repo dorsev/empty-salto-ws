@@ -1,0 +1,41 @@
+type dummy.NervousPurpleGaby {
+  annotations {
+    number EnchantingRedMagdalene {
+    }
+    dummy.PreciousVioletAnnabelle EmptyTomatoJoellen {
+    }
+    dummy.WrittenFuchsiaBeverly OverwhelmingGoldDevondra {
+    }
+    dummy.CautiousRoseYettie GoodBlushNelli {
+    }
+    boolean LiquidHarlequinJuliann {
+    }
+  }
+  number NewCoralClarinda {
+  }
+  dummy.OrganisationalVioletCharmion ExtraordinaryCoffeeKalina {
+    MaleTurquoiseDebora = file("ResponsiblePlumGinger.txt")
+  }
+  dummy.PreciousVioletAnnabelle ItchyHarlequinCorri {
+    GrossPinkAnni = {
+      legit = "What do you call two barracuda fish?  A Pairacuda!"
+    }
+    HomelyBrownRochette = file("FundamentalAmberSally.txt")
+    QuickHarlequinMaressa = 74
+    RegulatoryBlackSashenka = "A steak pun is a rare medium well done."
+    PregnantIndigoCassondra = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    VariousBlushMirabelle = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  }
+  dummy.RomanticAmberYalonda AlliedWhiteKamilah {
+    BiologicalEmeraldAaren = true
+    GoldenWhiteKarin = true
+    NeutralPinkDolores = false
+    FuzzyAquaJenilee = 342
+  }
+  EnchantingRedMagdalene = 786
+  EmptyTomatoJoellen = file("SuccessfulTomatoShirlene.txt")
+  OverwhelmingGoldDevondra = 464
+  GoodBlushNelli = 406
+  LiquidHarlequinJuliann = false
+  _hidden_value = true
+}

@@ -1,0 +1,34 @@
+type dummy.ColouredChocolateMinerva {
+  annotations {
+    boolean RobustApricotJami {
+    }
+    string RisingPlumShawnee {
+    }
+    json CalmScarletHelga {
+    }
+    json PoisedAquaKendra {
+    }
+    string CommunistSapphireCharlotte {
+    }
+    serviceid PayableTealMargot {
+    }
+  }
+  boolean OptimisticAquaLizabeth {
+  }
+  dummy.OrganisationalVioletCharmion LengthyRoseNatalina {
+    MaleTurquoiseDebora = file("InsufficientSilverSharla.txt")
+  }
+  number BreezyPeachCristionna {
+  }
+  serviceid QuickSapphireMalinde {
+  }
+  string YummyCyanLindi {
+  }
+  RobustApricotJami = true
+  RisingPlumShawnee = "Why did the tomato blush? Because it saw the salad dressing."
+  CalmScarletHelga = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  PoisedAquaKendra = "A steak pun is a rare medium well done."
+  CommunistSapphireCharlotte = "Im only familiar with 25 letters in the English language. I dont know why."
+  PayableTealMargot = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _hidden_value = true
+}

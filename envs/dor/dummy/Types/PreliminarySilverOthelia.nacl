@@ -1,0 +1,79 @@
+type dummy.PreliminarySilverOthelia {
+  annotations {
+    dummy.RoughAquamarineCaitlin DifferentChocolateElena {
+    }
+    dummy.OrganisationalVioletCharmion FormidableSalmonElle {
+    }
+    dummy.IntellectualAmethystNetty MeanPlumUta {
+    }
+    dummy.IntellectualAmethystNetty ReliableAquaAmber {
+    }
+    string TechnologicalBlueWilletta {
+    }
+    boolean SpotlessBeigeSheeree {
+    }
+  }
+  dummy.NovelApricotWallie PoorPeachBel {
+    NeutralJadeRoseann = "What do you call two barracuda fish?  A Pairacuda!"
+    SoftMagentaKris = "To be Frank, I'd have to change my name."
+    DeterminedTomatoViolante = false
+    IntermediateEmeraldJanine = true
+    CorporateAquamarineMary = "To be Frank, I'd have to change my name."
+    InterimCoralEtti = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    SmoothMaroonOlenka = 995
+    PeacefulAmaranthRicca = file("RealisticCoralGuillemette.txt")
+    LightGreenHestia = file("HighCoffeeMargarete.txt")
+  }
+  string HuskyGoldBee {
+  }
+  json PlainBrownMattie {
+  }
+  boolean FrenchGreenHerta {
+  }
+  serviceid NavalAmaranthCatharine {
+  }
+  dummy.PassiveMaroonBarbi VisualPlumMalina {
+    CoherentRoseKirby = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    MeaningfulBlackCherise = true
+    SuspiciousPurpleHetty = "Why didnt the skeleton cross the road? Because he had no guts."
+    OralSapphireRenae = 149
+    ScaryAquamarineLanny = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  }
+  dummy.PreciousVioletAnnabelle RichBlushMargalit {
+    GrossPinkAnni = {
+      legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    }
+    HomelyBrownRochette = file("SubjectiveCyanMartie.txt")
+    QuickHarlequinMaressa = 956
+    RegulatoryBlackSashenka = "How come the stadium got hot after the game? Because all of the fans left."
+    PregnantIndigoCassondra = "Why was it called the dark ages? Because of all the knights. "
+    VariousBlushMirabelle = "Slept like a log last night  woke up in the fireplace."
+  }
+  number AngryAmberBinny {
+  }
+  "List<dummy.DullIndigoMable>" FairAzureCelesta {
+    SillyPlumMelania = file("FilthyWhiteGrace.txt")
+    SlowHarlequinKori = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    SplendidPeachRafaela = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    HighTomatoVenus = 530
+  }
+  boolean ViolentAquamarineBriney {
+  }
+  string MagneticOrangeAnabelle {
+  }
+  dummy.PassiveMaroonBarbi DeepRoseShena {
+    CoherentRoseKirby = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    MeaningfulBlackCherise = false
+    SuspiciousPurpleHetty = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    OralSapphireRenae = 879
+    ScaryAquamarineLanny = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  }
+  boolean KindRedWilow {
+  }
+  FormidableSalmonElle = false
+  MeanPlumUta = file("InstantRedGinnie.txt")
+  ReliableAquaAmber = file("TerribleCoralAddi.txt")
+  TechnologicalBlueWilletta = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  SpotlessBeigeSheeree = true
+  _hidden_value = true
+}

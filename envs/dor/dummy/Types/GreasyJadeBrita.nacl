@@ -1,0 +1,19 @@
+type dummy.GreasyJadeBrita {
+  annotations {
+    dummy.ParticularPurpleOfilia SoleOrangeCathrine {
+    }
+    dummy.IndependentPinkCatha LegislativeSalmonMerry {
+    }
+    number UglyIvoryArabelle {
+    }
+    dummy.RomanticAmberYalonda GuiltyOliveJaymee {
+    }
+  }
+  dummy.DEFAULT DefensiveYellowAlla {
+  }
+  SoleOrangeCathrine = true
+  LegislativeSalmonMerry = true
+  UglyIvoryArabelle = 66
+  GuiltyOliveJaymee = file("ReligiousSilverMarlena.txt")
+  _hidden_value = true
+}

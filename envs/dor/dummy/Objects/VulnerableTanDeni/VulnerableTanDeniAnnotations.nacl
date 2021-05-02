@@ -1,0 +1,66 @@
+type dummy.VulnerableTanDeni {
+  annotations {
+    number InclinedBrownBobinette {
+    }
+    json AncientSilverSonny {
+    }
+    dummy.MistyBrownDebbie GrotesqueTomatoWallis {
+    }
+    dummy.ParticularPurpleOfilia SteadySilverEthelyn {
+    }
+    boolean MetropolitanLavenderHildy {
+    }
+    string InappropriateTealInge {
+    }
+    dummy.OrganisationalVioletCharmion DomesticGreenFelisha {
+    }
+    boolean HardSapphireElisabeth {
+    }
+    dummy.AmazingTealOlympia FriendlyApricotKalli {
+    }
+    string UnfairAmberMargaretta {
+    }
+    dummy.OrganisationalVioletCharmion EverydayOrangeJeniffer {
+    }
+    dummy.NovelApricotWallie CriticalAzureLadonna {
+    }
+    dummy.PreciousVioletAnnabelle DeadWhiteMidge {
+    }
+    dummy.ParentalBronzeLisette BloodyCrimsonCherice {
+    }
+    dummy.ClosedCoralShayna UnhappyWhiteOralla {
+    }
+    dummy.NovelApricotWallie RomanYellowTasha {
+    }
+    dummy.ParentalBronzeLisette ExcessiveOrangeDottie {
+    }
+    number CurrentApricotKate {
+    }
+    dummy.PreciousVioletAnnabelle RepulsiveAquaMirabel {
+    }
+    boolean SmallChocolateMarsha {
+    }
+    json RapidSapphireEssa {
+    }
+    dummy.GratefulRoseEricka SignificantCoffeeMellicent {
+    }
+  }
+  InclinedBrownBobinette = 121
+  AncientSilverSonny = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  SteadySilverEthelyn = false
+  MetropolitanLavenderHildy = false
+  InappropriateTealInge = "My first time using an elevator was an uplifting experience. The second time let me down."
+  DomesticGreenFelisha = true
+  HardSapphireElisabeth = true
+  FriendlyApricotKalli = file("OlympicHarlequinGenovera.txt")
+  UnfairAmberMargaretta = "My first time using an elevator was an uplifting experience. The second time let me down."
+  EverydayOrangeJeniffer = false
+  CriticalAzureLadonna = 450
+  DeadWhiteMidge = file("SecondaryPlumMaryl.txt")
+  UnhappyWhiteOralla = 40
+  RomanYellowTasha = 203
+  CurrentApricotKate = 503
+  RepulsiveAquaMirabel = file("ShallowJadeWynne.txt")
+  SmallChocolateMarsha = false
+  RapidSapphireEssa = "Did you hear the joke about the wandering nun? She was a roman catholic."
+}

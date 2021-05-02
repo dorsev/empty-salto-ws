@@ -1,0 +1,52 @@
+type dummy.FlexiblePurpleMichelina {
+  annotations {
+    string DailyPurpleMaure {
+    }
+    dummy.OrganisationalVioletCharmion ApplicableEmeraldIbby {
+    }
+    serviceid AdjacentIvoryRobina {
+    }
+    string ModernBlueJacinda {
+    }
+    boolean EerieAzureCarolan {
+    }
+  }
+  dummy.RomanticAmberYalonda BrainyAquamarineLinette {
+    BiologicalEmeraldAaren = false
+    GoldenWhiteKarin = false
+    NeutralPinkDolores = true
+    FuzzyAquaJenilee = 792
+  }
+  string IntellectualGreenAudrye {
+  }
+  number ShockedPinkViv {
+  }
+  number BritishSapphireFarra {
+  }
+  json RenewedOliveAnnetta {
+  }
+  serviceid HonestAmethystYovonnda {
+  }
+  number MutualApricotAndi {
+  }
+  serviceid OutsideCopperKarleen {
+  }
+  dummy.StrongOliveShalne UniformGoldDaniele {
+    IncreasedPurpleLinnea = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    HotEmeraldEda = file("GreatGreenAme.txt")
+    FilthyCyanAlexine = "My first time using an elevator was an uplifting experience. The second time let me down."
+    PurringMoccasinTierney = true
+    AfricanAmberCati = file("HealthyVioletAnnamaria.txt")
+    AggressiveAmethystLenette = false
+  }
+  json AbleJadeReeva {
+  }
+  json ChosenPeachValentine {
+  }
+  DailyPurpleMaure = "A steak pun is a rare medium well done."
+  ApplicableEmeraldIbby = false
+  AdjacentIvoryRobina = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ModernBlueJacinda = "Slept like a log last night  woke up in the fireplace."
+  EerieAzureCarolan = true
+  _hidden_value = true
+}

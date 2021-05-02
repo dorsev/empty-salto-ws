@@ -1,0 +1,74 @@
+type dummy.AmusedPeachSherie {
+  annotations {
+    number PleasantAquamarineCinda {
+    }
+    string ConservationBlushGlori {
+    }
+    dummy.FreeOliveJanaya JollyTurquoiseKassey {
+    }
+    number OccupationalTurquoiseMaryjo {
+    }
+    json PriorScarletOpaline {
+    }
+    json ContinuingAquamarineStephi {
+    }
+    boolean FreshJadeDaphne {
+    }
+    serviceid RareTurquoiseTootsie {
+    }
+    number PerfectMaroonFawnia {
+    }
+    dummy.AggregateTurquoiseMeg FriendlyTanMalissa {
+    }
+    serviceid BackSapphireMelamie {
+    }
+    serviceid CooingBrownVania {
+    }
+    dummy.LesserOliveAndie RationalBeigeErinn {
+    }
+    dummy.PreciousVioletAnnabelle CompetitiveGoldEsmaria {
+    }
+    dummy.AmazingTealOlympia LegitimateFuchsiaSapphira {
+    }
+    dummy.NiceBrownHoney ForthcomingTomatoAdriaens {
+    }
+    string EmptyTomatoBabara {
+    }
+    dummy.ProtestantLimeRobbin IncreasingAquaJuana {
+    }
+    json ProposedPeachCandie {
+    }
+    serviceid OddAzureDamara {
+    }
+    dummy.InformalGreenMadalena ReligiousChocolateVal {
+    }
+    dummy.NoisyMagentaJobey ConstantIndigoHatti {
+    }
+    dummy.PreciousVioletAnnabelle BizarreRedDelcina {
+    }
+    dummy.PreciousVioletAnnabelle JewishIndigoJocelin {
+    }
+  }
+  PleasantAquamarineCinda = 901
+  ConservationBlushGlori = "Did you know that protons have mass? I didn't even know they were catholic."
+  OccupationalTurquoiseMaryjo = 446
+  PriorScarletOpaline = "Im only familiar with 25 letters in the English language. I dont know why."
+  ContinuingAquamarineStephi = "What do you do on a remote island? Try and find the TV island it belongs to."
+  FreshJadeDaphne = false
+  RareTurquoiseTootsie = "Whoever invented the knock-knock joke should get a no bell prize."
+  PerfectMaroonFawnia = 938
+  FriendlyTanMalissa = 421
+  BackSapphireMelamie = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  CooingBrownVania = "Slept like a log last night  woke up in the fireplace."
+  RationalBeigeErinn = file("FilthyIvoryLilias.txt")
+  CompetitiveGoldEsmaria = file("ConfidentSilverCelestyn.txt")
+  LegitimateFuchsiaSapphira = file("FunnyBlueUlla.txt")
+  ForthcomingTomatoAdriaens = true
+  EmptyTomatoBabara = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  IncreasingAquaJuana = file("CorrespondingBlackDaniella.txt")
+  ProposedPeachCandie = "Why do birds fly south for the winter? Because it's too far to walk."
+  OddAzureDamara = "What do you do on a remote island? Try and find the TV island it belongs to."
+  ConstantIndigoHatti = 823
+  BizarreRedDelcina = file("ElectronicWhiteJanelle.txt")
+  JewishIndigoJocelin = file("FaintWhiteAlberta.txt")
+}

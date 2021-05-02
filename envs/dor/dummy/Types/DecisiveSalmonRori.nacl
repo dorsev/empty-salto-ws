@@ -1,0 +1,32 @@
+type dummy.DecisiveSalmonRori {
+  annotations {
+    boolean IndividualGrayLane {
+    }
+    dummy.ParticularPurpleOfilia OperationalChocolateValeria {
+    }
+    string CompatibleLavenderGoldi {
+    }
+    string WeeklyAzureHeida {
+    }
+  }
+  boolean JitteryHarlequinLily {
+  }
+  dummy.OrganisationalVioletCharmion SocialistLimeMaire {
+    MaleTurquoiseDebora = file("LargeMoccasinAlfie.txt")
+  }
+  json PromisingAmaranthCarlyn {
+  }
+  serviceid SuddenJadeKelcie {
+  }
+  dummy.UglyApricotMarty CapableBeigeViviyan {
+    UncertainRoseSilvia = false
+    ElatedRedNertie = 595
+    PreciseYellowLauren = 301
+    BroadTomatoOlly = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  }
+  IndividualGrayLane = false
+  OperationalChocolateValeria = true
+  CompatibleLavenderGoldi = "Slept like a log last night  woke up in the fireplace."
+  WeeklyAzureHeida = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  _hidden_value = true
+}

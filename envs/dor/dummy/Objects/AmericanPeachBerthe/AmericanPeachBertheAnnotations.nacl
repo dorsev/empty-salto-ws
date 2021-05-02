@@ -1,0 +1,50 @@
+type dummy.AmericanPeachBerthe {
+  annotations {
+    dummy.NiceBrownHoney BigBlushMil {
+    }
+    serviceid BoredSalmonSelinda {
+    }
+    boolean FrequentBeigeJoellen {
+    }
+    number MassiveAzureShae {
+    }
+    json YellowTomatoKellina {
+    }
+    boolean UndergroundRedBeatrice {
+    }
+    dummy.FreeOliveJanaya FlatAquamarineRochell {
+    }
+    serviceid OutstandingRoseDannie {
+    }
+    string VoicelessTomatoFaun {
+    }
+    dummy.PuzzledPurpleBlinni ScaredBeigeCharlot {
+    }
+    boolean CheerfulTomatoAida {
+    }
+    boolean RigidPeachMerilee {
+    }
+    dummy.HotYellowMeagan GreatSalmonRuthie {
+    }
+    dummy.AmazingTealOlympia SunnyCopperJemmie {
+    }
+    dummy.PreciousVioletAnnabelle GenerousAmethystGeorge {
+    }
+    number MilitaryTealSheilakathryn {
+    }
+  }
+  BigBlushMil = false
+  BoredSalmonSelinda = "A steak pun is a rare medium well done."
+  FrequentBeigeJoellen = false
+  MassiveAzureShae = 376
+  YellowTomatoKellina = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  UndergroundRedBeatrice = false
+  OutstandingRoseDannie = "I'll tell you what often gets over looked... garden fences."
+  VoicelessTomatoFaun = "Im only familiar with 25 letters in the English language. I dont know why."
+  CheerfulTomatoAida = false
+  RigidPeachMerilee = true
+  GreatSalmonRuthie = file("SpottySilverKati.txt")
+  SunnyCopperJemmie = file("ManualAquaVinni.txt")
+  GenerousAmethystGeorge = file("IntensivePlumJacquie.txt")
+  MilitaryTealSheilakathryn = 88
+}

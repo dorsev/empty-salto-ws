@@ -1,0 +1,22 @@
+type dummy.AcceptedAquamarineAlmira {
+  annotations {
+    boolean SplendidPinkHephzibah {
+    }
+    dummy.PreciousVioletAnnabelle HappyBrownClemmie {
+    }
+    string InlandFuchsiaRalina {
+    }
+    string SystematicPurpleHedwiga {
+    }
+    number PatientOrangeLeslie {
+    }
+  }
+  boolean GreatJadeMargy {
+  }
+  SplendidPinkHephzibah = false
+  HappyBrownClemmie = file("UnderlyingJadeCybill.txt")
+  InlandFuchsiaRalina = "Why is Peter Pan always flying? Because he Neverlands."
+  SystematicPurpleHedwiga = "What do you call two barracuda fish?  A Pairacuda!"
+  PatientOrangeLeslie = 391
+  _hidden_value = true
+}

@@ -1,0 +1,46 @@
+type dummy.ParticularPurpleOfilia is boolean {
+  annotations {
+    boolean OccasionalBlushMarj {
+    }
+    json ImportantTanMaurene {
+    }
+    number LeadingIvoryGlory {
+    }
+    serviceid NutritiousCoralDania {
+    }
+    boolean EntireTealEolanda {
+    }
+    serviceid QuickSilverBetty {
+    }
+    serviceid GorgeousBrownGweneth {
+    }
+    dummy.AmazingTealOlympia SlightBeigeLauree {
+    }
+    number ObligedAquamarineLise {
+    }
+    dummy.ControlledJadeHadria IraqiCoffeeKaree {
+    }
+    boolean DramaticTomatoEleonore {
+    }
+    dummy.GastricAmethystMichaela WorriedJadeKris {
+    }
+    dummy.NovelApricotWallie RoundBlackFerdinande {
+    }
+    number MusicalPeachKori {
+    }
+  }
+  OccasionalBlushMarj = true
+  ImportantTanMaurene = "Why was it called the dark ages? Because of all the knights. "
+  LeadingIvoryGlory = 414
+  NutritiousCoralDania = "What do you call two barracuda fish?  A Pairacuda!"
+  EntireTealEolanda = true
+  QuickSilverBetty = "Im only familiar with 25 letters in the English language. I dont know why."
+  GorgeousBrownGweneth = "I'll tell you what often gets over looked... garden fences."
+  SlightBeigeLauree = file("LowBlueCollete.txt")
+  ObligedAquamarineLise = 585
+  IraqiCoffeeKaree = file("SharpPurpleEvangelina.txt")
+  DramaticTomatoEleonore = false
+  WorriedJadeKris = 152
+  RoundBlackFerdinande = 59
+  MusicalPeachKori = 672
+}

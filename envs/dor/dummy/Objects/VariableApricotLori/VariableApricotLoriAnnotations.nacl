@@ -1,0 +1,62 @@
+type dummy.VariableApricotLori {
+  annotations {
+    serviceid IllBrownHildegarde {
+    }
+    dummy.PreciousVioletAnnabelle ComparativeBrownAtalanta {
+    }
+    json HostileMaroonFaun {
+    }
+    dummy.RainyTealRubina EntitledBlueMyra {
+    }
+    boolean PleasantGreenKellsie {
+    }
+    serviceid SafeCoralModestine {
+    }
+    string QuietCoffeePaulie {
+    }
+    boolean VisibleVioletLynett {
+    }
+    dummy.IntellectualAmethystNetty PersistentCoralMaryanne {
+    }
+    number SkilledAzureShanta {
+    }
+    serviceid DepressedAzureRoana {
+    }
+    serviceid CommercialEmeraldMerola {
+    }
+    dummy.SurvivingTanOlivia ExtensiveSapphireTierney {
+    }
+    boolean TeenageAmaranthSarene {
+    }
+    serviceid AncientWhiteDedra {
+    }
+    json FrightenedTealMadlen {
+    }
+    dummy.GreatTomatoHarlene OkayTealBella {
+    }
+    dummy.HumanTomatoHarrie BumpyCrimsonReyna {
+    }
+    boolean UnderlyingTealLacey {
+    }
+    dummy.TinyOliveRoobbie WhisperingRedAstrix {
+    }
+    dummy.OrganisationalVioletCharmion RaspyAquamarineFred {
+    }
+  }
+  IllBrownHildegarde = "What do you call two barracuda fish?  A Pairacuda!"
+  ComparativeBrownAtalanta = file("FineBeigeBrinn.txt")
+  HostileMaroonFaun = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  PleasantGreenKellsie = false
+  SafeCoralModestine = "What do you call two barracuda fish?  A Pairacuda!"
+  QuietCoffeePaulie = "Why is Peter Pan always flying? Because he Neverlands."
+  VisibleVioletLynett = false
+  PersistentCoralMaryanne = file("SoundWhiteAdey.txt")
+  SkilledAzureShanta = 47
+  DepressedAzureRoana = "Why do birds fly south for the winter? Because it's too far to walk."
+  CommercialEmeraldMerola = "Dad Im hungry  Hi hungry Im dad"
+  TeenageAmaranthSarene = true
+  AncientWhiteDedra = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  FrightenedTealMadlen = "Why did the tomato blush? Because it saw the salad dressing."
+  UnderlyingTealLacey = true
+  RaspyAquamarineFred = true
+}

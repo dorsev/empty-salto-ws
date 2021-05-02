@@ -1,0 +1,103 @@
+type dummy.PaleYellowBrook {
+  annotations {
+    string DelightedYellowVirgina {
+    }
+    dummy.RaspyJadeEnrichetta WastefulMagentaNicol {
+    }
+    boolean ArbitraryHarlequinBlanca {
+    }
+    dummy.GlobalIvoryGlen ConvenientApricotDavita {
+    }
+    boolean MysteriousVioletCorissa {
+    }
+    dummy.NoisyMagentaJobey WildChocolatePortia {
+    }
+  }
+  string DailyWhiteJacintha {
+  }
+  dummy.KoreanTurquoiseJeannie VariableCrimsonAlisha {
+    JustVioletSosanna = "Why was it called the dark ages? Because of all the knights. "
+    InstantTomatoBinny = false
+    DullIndigoKaralynn = "A steak pun is a rare medium well done."
+    PreciseApricotTory = true
+    AfraidAquaFawn = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    TartTurquoiseFarra = "A steak pun is a rare medium well done."
+    EuropeanWhiteLynnet = "Why did the kid cross the playground? To get to the other slide."
+    EasternTealCharlena = 225
+    ObjectiveCrimsonKathrine = false
+    UnlikelySapphireWendi = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    ConvenientChocolateKandace = 459
+    VariousAmberPhillida = true
+    FullFuchsiaPattie = "What did one nut say as he chased another nut?  I'm a cashew!"
+    EligibleRoseAthena = 945
+    SuitableMagentaBernadette = 438
+    NiceSapphireTeddy = 143
+    VoicelessIvoryClementia = true
+    EqualFuchsiaKati = true
+    RelievedBlackJennine = 737
+    LimitedCrimsonDrusy = 128
+    ProtestantAzureStafani = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    WeakCyanMorgan = "Why is Peter Pan always flying? Because he Neverlands."
+    SympatheticSapphireVikki = 555
+    EmbarrassedSalmonMarisa = true
+    YellowIndigoJehanna = false
+    BrainyBrownFernandina = "A steak pun is a rare medium well done."
+    ConceptualAmethystGwenneth = "Why do birds fly south for the winter? Because it's too far to walk."
+    OppositeRoseKristal = "Why didnt the skeleton cross the road? Because he had no guts."
+    AestheticGrayLesly = "I'll tell you what often gets over looked... garden fences."
+  }
+  dummy.NoisyMagentaJobey BigPurpleChrissy {
+    RedundantAquaEllette = true
+    FormalVioletKara = "Why did the tomato blush? Because it saw the salad dressing."
+    ConfusedBronzeBari = "My first time using an elevator was an uplifting experience. The second time let me down."
+    FancyAmberJoyce = "To be Frank, I'd have to change my name."
+    RevolutionaryGreenArabelle = "A steak pun is a rare medium well done."
+    ChillyEmeraldJobina = "Why did the kid cross the playground? To get to the other slide."
+    AsianCyanCoretta = true
+    HardMagentaNicholle = 788
+    DeliberateAquaBerti = true
+    TiredIvoryHermine = {
+      legit = "Im only familiar with 25 letters in the English language. I dont know why."
+    }
+    UncertainMaroonAdrianna = file("BlueMoccasinBethanne.txt")
+    ComparableMoccasinIna = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    CalmAmethystFredericka = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    RelevantGoldMargaretta = "How come the stadium got hot after the game? Because all of the fans left."
+    WeeTanMarcelia = "What do you do on a remote island? Try and find the TV island it belongs to."
+    OuterChocolateXylia = "Why did the kid cross the playground? To get to the other slide."
+  }
+  json SillyAmethystDorella {
+  }
+  "List<string>" RadicalTurquoiseBrandie {
+  }
+  number InnocentBronzeSioux {
+  }
+  dummy.ArchitecturalBlueMadelene ShyScarletTabina {
+    ElegantCoffeeShirline = "Why was it called the dark ages? Because of all the knights. "
+    SpottyJadeMagdalene = "Slept like a log last night  woke up in the fireplace."
+    MildCrimsonJosey = 703
+  }
+  serviceid AncientPeachBrynna {
+  }
+  dummy.PreciousVioletAnnabelle DecentAmaranthChristen {
+    GrossPinkAnni = {
+      legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    }
+    HomelyBrownRochette = file("SmoothBlushMarlyn.txt")
+    QuickHarlequinMaressa = 255
+    RegulatoryBlackSashenka = "Did you know that protons have mass? I didn't even know they were catholic."
+    PregnantIndigoCassondra = "Why did the kid cross the playground? To get to the other slide."
+    VariousBlushMirabelle = "Why is Peter Pan always flying? Because he Neverlands."
+  }
+  number TerribleMaroonMina {
+  }
+  number OldScarletMarika {
+  }
+  serviceid HarshYellowOlva {
+  }
+  DelightedYellowVirgina = "I'll tell you what often gets over looked... garden fences."
+  ArbitraryHarlequinBlanca = true
+  MysteriousVioletCorissa = false
+  WildChocolatePortia = 765
+  _hidden_value = true
+}

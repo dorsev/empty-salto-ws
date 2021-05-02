@@ -1,0 +1,33 @@
+type dummy.NoisySapphireIdaline {
+  annotations {
+    serviceid CivicGrayNaomi {
+    }
+    boolean ExoticAmethystRodina {
+    }
+    dummy.ControlledJadeHadria FinancialCoffeeDevon {
+    }
+    dummy.IndependentPinkCatha ElegantYellowBarbra {
+    }
+    serviceid FormalOliveNomi {
+    }
+  }
+  dummy.DEFAULT TraditionalBlueFiann {
+  }
+  json WildOrangeAnthia {
+  }
+  number IncreasedBeigeEbony {
+  }
+  dummy.WonderfulBlackGates ActiveMoccasinChristiane {
+    SoftBlackArdine = true
+    HelpfulPurpleGrier = file("ThunderingAquaJane.txt")
+    UninterestedMagentaEnrika = "Did you know that protons have mass? I didn't even know they were catholic."
+    ScottishVioletCalla = file("WildAquamarineRhiamon.txt")
+    SpottyCrimsonNorine = file("HeavyScarletTimmie.txt")
+  }
+  CivicGrayNaomi = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  ExoticAmethystRodina = false
+  FinancialCoffeeDevon = file("HonestIndigoLorilyn.txt")
+  ElegantYellowBarbra = false
+  FormalOliveNomi = "Why was it called the dark ages? Because of all the knights. "
+  _hidden_value = true
+}

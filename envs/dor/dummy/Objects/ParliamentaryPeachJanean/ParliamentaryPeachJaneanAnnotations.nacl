@@ -1,0 +1,54 @@
+type dummy.ParliamentaryPeachJanean {
+  annotations {
+    dummy.RoughMoccasinDalila LonelySalmonJeanne {
+    }
+    dummy.LongTomatoMartha PossiblePurpleEdiva {
+    }
+    string InclinedMaroonDaffi {
+    }
+    json RequiredBlueClarine {
+    }
+    dummy.LesserOliveAndie MinisterialRedElena {
+    }
+    dummy.ParticularPurpleOfilia HushedMagentaTani {
+    }
+    number GothicMaroonGigi {
+    }
+    dummy.DelightfulGrayAlfie WeeklyRoseColene {
+    }
+    boolean KnownIvoryCathee {
+    }
+    string SatisfactoryIndigoPhilippine {
+    }
+    json ImmenseRedDonetta {
+    }
+    dummy.IntellectualAmethystNetty IndianScarletStacy {
+    }
+    serviceid RivalCrimsonFayre {
+    }
+    boolean InjuredMagentaSabra {
+    }
+    dummy.SupposedTealArdys LittleRoseSonia {
+    }
+    serviceid FilthyBronzePansy {
+    }
+    serviceid BloodyBrownDarcey {
+    }
+    dummy.FriendlyFuchsiaHarri MaximumOrangeGillan {
+    }
+  }
+  InclinedMaroonDaffi = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  RequiredBlueClarine = "Why do birds fly south for the winter? Because it's too far to walk."
+  MinisterialRedElena = file("PrimeCyanNatalina.txt")
+  HushedMagentaTani = false
+  GothicMaroonGigi = 430
+  WeeklyRoseColene = file("SteepCrimsonQuerida.txt")
+  KnownIvoryCathee = false
+  SatisfactoryIndigoPhilippine = "What do you call two barracuda fish?  A Pairacuda!"
+  ImmenseRedDonetta = "Why is Peter Pan always flying? Because he Neverlands."
+  IndianScarletStacy = file("DelightfulOrangeOfelia.txt")
+  RivalCrimsonFayre = "Why is Peter Pan always flying? Because he Neverlands."
+  InjuredMagentaSabra = true
+  FilthyBronzePansy = "What creature is smarter than a talking parrot? A spelling bee."
+  BloodyBrownDarcey = "Why did the kid cross the playground? To get to the other slide."
+}

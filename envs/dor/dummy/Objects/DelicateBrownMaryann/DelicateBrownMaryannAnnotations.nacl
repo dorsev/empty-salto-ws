@@ -1,0 +1,57 @@
+type dummy.DelicateBrownMaryann {
+  annotations {
+    number CrookedBronzeAllegra {
+    }
+    boolean MarxistCyanBrynn {
+    }
+    dummy.PreciousVioletAnnabelle EmotionalBlackSherilyn {
+    }
+    dummy.ReasonablePurpleCrysta FondTealAnneliese {
+    }
+    serviceid HugeOrangeStephie {
+    }
+    dummy.IntellectualAmethystNetty OrangeFuchsiaDamara {
+    }
+    dummy.ParticularPurpleOfilia NetChocolateGussi {
+    }
+    string PriorPurpleGisela {
+    }
+    serviceid BrightCoralLeigh {
+    }
+    json SpecifiedAzureGeralda {
+    }
+    boolean CollectivePinkIngaberg {
+    }
+    dummy.ParticularPurpleOfilia RoastedBlushCrissy {
+    }
+    json HorizontalPlumBerrie {
+    }
+    number PoliticalApricotCharlotte {
+    }
+    string DeterminedTurquoiseLorinda {
+    }
+    dummy.EthicalAzureFilide ManagingAzureLouella {
+    }
+    dummy.PlasticSapphireColene RoundBlackDagmar {
+    }
+    dummy.GuiltyApricotReiko DifficultScarletKerrie {
+    }
+    boolean HomelyBlueMirabelle {
+    }
+  }
+  CrookedBronzeAllegra = 786
+  MarxistCyanBrynn = true
+  EmotionalBlackSherilyn = file("QuaintPlumDanielle.txt")
+  HugeOrangeStephie = "What did one nut say as he chased another nut?  I'm a cashew!"
+  OrangeFuchsiaDamara = file("ConsiderableCoralClarinda.txt")
+  NetChocolateGussi = true
+  PriorPurpleGisela = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  BrightCoralLeigh = "What did one nut say as he chased another nut?  I'm a cashew!"
+  SpecifiedAzureGeralda = "What did one nut say as he chased another nut?  I'm a cashew!"
+  CollectivePinkIngaberg = false
+  RoastedBlushCrissy = true
+  HorizontalPlumBerrie = "To be Frank, I'd have to change my name."
+  PoliticalApricotCharlotte = 222
+  DeterminedTurquoiseLorinda = "A steak pun is a rare medium well done."
+  HomelyBlueMirabelle = true
+}

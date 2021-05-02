@@ -1,0 +1,77 @@
+type dummy.InvolvedOrangeSaundra {
+  annotations {
+    dummy.JapaneseCoralRodina SlowAmaranthEthelyn {
+    }
+    json VocationalScarletKimberli {
+    }
+    serviceid FilthyScarletAdi {
+    }
+    dummy.SecretAmaranthRosanne EssentialCrimsonPhoebe {
+    }
+    number ExtendedBlackNalani {
+    }
+    number RaspySilverJojo {
+    }
+    dummy.PreciousVioletAnnabelle SheerScarletBrier {
+    }
+    dummy.NovelApricotWallie PolishMoccasinGayla {
+    }
+    json WrongTurquoiseDorey {
+    }
+    dummy.OrganisationalVioletCharmion InquisitiveAquamarineKimberlee {
+    }
+    json EnviousGreenKylynn {
+    }
+    boolean MaleSalmonAmbur {
+    }
+    number DelightedOrangeGisela {
+    }
+    dummy.RomanticAmberYalonda FitGoldCarleen {
+    }
+    dummy.OrganisationalVioletCharmion AutomaticMoccasinJoann {
+    }
+    dummy.AmazingTealOlympia BadCyanJosefa {
+    }
+    number AlliedOrangeDelia {
+    }
+    serviceid DisciplinaryOrangeAnnabel {
+    }
+    number DutchVioletLu {
+    }
+    dummy.MaleOrangeJunie SoftBrownSerena {
+    }
+    dummy.IntellectualAmethystNetty InlandPlumChlo {
+    }
+    dummy.DesperateAquamarineLisabeth CorporateLimeShelia {
+    }
+    dummy.IntellectualAmethystNetty BrightPinkRegina {
+    }
+    dummy.PastChocolateStephanie GrubbyBrownMaisie {
+    }
+    dummy.PreciousVioletAnnabelle ElegantApricotPolly {
+    }
+  }
+  SlowAmaranthEthelyn = true
+  VocationalScarletKimberli = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  FilthyScarletAdi = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ExtendedBlackNalani = 737
+  RaspySilverJojo = 603
+  SheerScarletBrier = file("MysteriousBlueIsidora.txt")
+  PolishMoccasinGayla = 39
+  WrongTurquoiseDorey = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  InquisitiveAquamarineKimberlee = true
+  EnviousGreenKylynn = "My first time using an elevator was an uplifting experience. The second time let me down."
+  MaleSalmonAmbur = false
+  DelightedOrangeGisela = 530
+  FitGoldCarleen = file("SurprisingWhiteWillyt.txt")
+  AutomaticMoccasinJoann = true
+  BadCyanJosefa = file("OpenJadeYoshiko.txt")
+  AlliedOrangeDelia = 730
+  DisciplinaryOrangeAnnabel = "Why did the kid cross the playground? To get to the other slide."
+  DutchVioletLu = 578
+  SoftBrownSerena = false
+  InlandPlumChlo = file("AwfulIvoryRhodie.txt")
+  CorporateLimeShelia = 915
+  BrightPinkRegina = file("WrongTurquoiseDaniele.txt")
+  ElegantApricotPolly = file("RottenAzureJulianne.txt")
+}

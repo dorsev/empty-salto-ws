@@ -1,0 +1,29 @@
+type dummy.ParentalBronzeLisette {
+  annotations {
+    number GrumpyPlumNonna {
+    }
+    number MiddleRedSibel {
+    }
+    serviceid UnitedAmaranthLeontyne {
+    }
+    string MultipleWhiteGenevieve {
+    }
+    dummy.ShallowPlumJenda MassAmberMalinde {
+    }
+    boolean EmbarrassingSilverNona {
+    }
+  }
+  number BadTealUlrika {
+  }
+  string BreezyLimeShawnee {
+  }
+  number MajorBlueStoddard {
+  }
+  GrumpyPlumNonna = 258
+  MiddleRedSibel = 928
+  UnitedAmaranthLeontyne = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  MultipleWhiteGenevieve = "To be Frank, I'd have to change my name."
+  MassAmberMalinde = true
+  EmbarrassingSilverNona = false
+  _hidden_value = true
+}

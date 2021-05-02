@@ -1,0 +1,41 @@
+type dummy.PsychologicalSilverEstel {
+  annotations {
+    string AustralianIndigoCatherina {
+    }
+    string ItalianOrangeBrigit {
+    }
+    string RevolutionaryTealHelenka {
+    }
+    dummy.DullIndigoMable StiffAquaArlyn {
+    }
+  }
+  number ExuberantFuchsiaNannie {
+  }
+  dummy.MalePurpleAdella AbundantPlumKalindi {
+    PreferredSalmonLynnea = "How come the stadium got hot after the game? Because all of the fans left."
+    ScaredAquaDina = 495
+    MoralPurpleNorma = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    UrgentEmeraldAriadne = 263
+    SteadyAmethystPrudi = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    DullSapphireMeredith = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    RealisticOliveMarinna = 532
+    TroubledIndigoWinnie = "Im only familiar with 25 letters in the English language. I dont know why."
+    CollectiveTanMissy = "Why did the kid cross the playground? To get to the other slide."
+  }
+  json StraightforwardAmethystDinah {
+  }
+  json AestheticLavenderMilicent {
+  }
+  serviceid IcyTanMurial {
+  }
+  serviceid FlutteringCyanJami {
+  }
+  json AmazingAzureCalida {
+  }
+  boolean GreatBrownIdelle {
+  }
+  AustralianIndigoCatherina = "I'll tell you what often gets over looked... garden fences."
+  ItalianOrangeBrigit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  RevolutionaryTealHelenka = "Did you know that protons have mass? I didn't even know they were catholic."
+  _hidden_value = true
+}

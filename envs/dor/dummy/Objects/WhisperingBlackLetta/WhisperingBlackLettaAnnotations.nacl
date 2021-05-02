@@ -1,0 +1,48 @@
+type dummy.WhisperingBlackLetta {
+  annotations {
+    dummy.ParticularPurpleOfilia PunyVioletJoanna {
+    }
+    string PrintedGoldChad {
+    }
+    string InstitutionalBlueCordula {
+    }
+    dummy.AmbitiousAmberBrigit FitPinkAmber {
+    }
+    dummy.StickyMagentaDominique ArchitecturalBlueNadine {
+    }
+    boolean SilkyMaroonAlyda {
+    }
+    dummy.OrganisationalVioletCharmion WeakJadeCamala {
+    }
+    number TestyBlackIlysa {
+    }
+    dummy.NovelApricotWallie InclinedVioletAurie {
+    }
+    dummy.AmazingTealOlympia ChiefGreenHillary {
+    }
+    string HelpfulOliveAnnaliese {
+    }
+    string WellEmeraldEffie {
+    }
+    dummy.PerfectOrangeEmmalyn FatVioletLilli {
+    }
+    boolean RomanOliveBlinni {
+    }
+    dummy.RomanticAmberYalonda DeadAquaGizela {
+    }
+  }
+  PunyVioletJoanna = false
+  PrintedGoldChad = "Whoever invented the knock-knock joke should get a no bell prize."
+  InstitutionalBlueCordula = "What did one nut say as he chased another nut?  I'm a cashew!"
+  FitPinkAmber = file("AustralianIvoryLeontyne.txt")
+  ArchitecturalBlueNadine = 307
+  SilkyMaroonAlyda = true
+  WeakJadeCamala = false
+  TestyBlackIlysa = 813
+  InclinedVioletAurie = 955
+  ChiefGreenHillary = file("FamiliarTurquoiseDionne.txt")
+  HelpfulOliveAnnaliese = "What did one nut say as he chased another nut?  I'm a cashew!"
+  WellEmeraldEffie = "Did you know that protons have mass? I didn't even know they were catholic."
+  RomanOliveBlinni = true
+  DeadAquaGizela = file("RelaxedMoccasinKizzie.txt")
+}

@@ -1,0 +1,46 @@
+type dummy.FunnyHarlequinRosalind {
+  annotations {
+    json PlasticBlueCinda {
+    }
+    dummy.ParticularPurpleOfilia BusyCyanDotti {
+    }
+    string HighIvoryMireille {
+    }
+    dummy.MalePurpleAdella VariableWhiteLiuka {
+    }
+    dummy.JapaneseCoralRodina MoralGreenFania {
+    }
+  }
+  string NobleEmeraldOpaline {
+  }
+  number RegularPinkDevinne {
+  }
+  dummy.DesirableOrangeElla OccasionalBeigeDynah {
+    GorgeousApricotKathryne = file("MatureAmaranthGeorgie.txt")
+    MonthlyGoldBrandice = file("BackSapphireColeen.txt")
+    UltimateEmeraldRobenia = "To be Frank, I'd have to change my name."
+    ReasonableYellowHeath = "A steak pun is a rare medium well done."
+    AdjacentGoldCele = "To be Frank, I'd have to change my name."
+    ColdTurquoiseJulietta = "What do you call two barracuda fish?  A Pairacuda!"
+  }
+  string GrimWhiteJacki {
+  }
+  serviceid RightJadeTania {
+  }
+  number ActiveTanOpaline {
+  }
+  dummy.RomanticAmberYalonda DryCyanCharita {
+    BiologicalEmeraldAaren = false
+    GoldenWhiteKarin = false
+    NeutralPinkDolores = false
+    FuzzyAquaJenilee = 916
+  }
+  number GloriousOrangeMoselle {
+  }
+  PlasticBlueCinda = "I'll tell you what often gets over looked... garden fences."
+  BusyCyanDotti = true
+  HighIvoryMireille = "I'll tell you what often gets over looked... garden fences."
+  VariableWhiteLiuka = 402
+  MoralGreenFania = true
+  _hidden_value = true
+}

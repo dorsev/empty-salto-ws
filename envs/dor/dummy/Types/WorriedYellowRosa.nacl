@@ -1,0 +1,19 @@
+type dummy.WorriedYellowRosa {
+  annotations {
+    string LivelyApricotEmlynne {
+    }
+    number WonderfulBlackShawnee {
+    }
+    dummy.PreciousVioletAnnabelle ContinuedCyanDanell {
+    }
+    dummy.ParticularPurpleOfilia JollyVioletKamillah {
+    }
+  }
+  "List<number>" TenderCopperMagdaia {
+  }
+  LivelyApricotEmlynne = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  WonderfulBlackShawnee = 249
+  ContinuedCyanDanell = file("NastyGreenBendite.txt")
+  JollyVioletKamillah = false
+  _hidden_value = true
+}

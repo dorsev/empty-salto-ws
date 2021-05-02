@@ -1,0 +1,62 @@
+type dummy.ShrillIvoryLeia {
+  annotations {
+    string BloodyAzureMaryann {
+    }
+    dummy.DemocraticPlumLissi GloriousAmberValentina {
+    }
+    boolean PuzzledPurpleDonnie {
+    }
+    serviceid ShakyGrayValenka {
+    }
+    string SkilledAmberDulcinea {
+    }
+    json RoughGreenGenevra {
+    }
+    boolean HotCyanMegan {
+    }
+    dummy.AnnoyedBlushBinni OrganicBronzeShari {
+    }
+    number CivilHarlequinBritney {
+    }
+    number ExpectedRoseCoreen {
+    }
+    dummy.PerfectSapphireEmelyne ColdAquaTricia {
+    }
+    dummy.IntellectualAmethystNetty DifferentTealHalie {
+    }
+    dummy.OrganisationalVioletCharmion OddOrangeRica {
+    }
+    string ContinentalCoralOdille {
+    }
+    boolean LikelyTurquoiseAmeline {
+    }
+    string SadTurquoiseVi {
+    }
+    serviceid TastelessAquaHedi {
+    }
+    dummy.RomanticAmberYalonda LoosePeachPhilippa {
+    }
+    string CorporateLavenderMax {
+    }
+    serviceid EndlessMagentaLoren {
+    }
+  }
+  BloodyAzureMaryann = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  PuzzledPurpleDonnie = true
+  ShakyGrayValenka = "Slept like a log last night  woke up in the fireplace."
+  SkilledAmberDulcinea = "Why did the kid cross the playground? To get to the other slide."
+  RoughGreenGenevra = "What do you do on a remote island? Try and find the TV island it belongs to."
+  HotCyanMegan = false
+  OrganicBronzeShari = file("PreciousCopperSheila.txt")
+  CivilHarlequinBritney = 818
+  ExpectedRoseCoreen = 567
+  DifferentTealHalie = file("MotionlessJadeFrancoise.txt")
+  OddOrangeRica = true
+  ContinentalCoralOdille = "Im only familiar with 25 letters in the English language. I dont know why."
+  LikelyTurquoiseAmeline = true
+  SadTurquoiseVi = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  TastelessAquaHedi = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  LoosePeachPhilippa = file("ManyLavenderMellie.txt")
+  CorporateLavenderMax = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  EndlessMagentaLoren = "Whoever invented the knock-knock joke should get a no bell prize."
+}

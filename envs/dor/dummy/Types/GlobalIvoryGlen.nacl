@@ -1,0 +1,45 @@
+type dummy.GlobalIvoryGlen {
+  annotations {
+    dummy.PurringLavenderMarietta HomelessSalmonKyrstin {
+    }
+    dummy.AggregateTurquoiseMeg DullRoseStacy {
+    }
+    string NovelIndigoTamara {
+    }
+    dummy.ParticularPurpleOfilia LeftMaroonGayel {
+    }
+    dummy.MalePurpleAdella IncredibleJadeFelicdad {
+    }
+  }
+  dummy.TenseAquaCandra SubjectiveAmaranthKial {
+    ObjectiveGrayErin = file("GrubbyLavenderAlessandra.txt")
+    ExclusiveAquaKaron = "Why did the tomato blush? Because it saw the salad dressing."
+    ProudMoccasinKaty = false
+    UnevenVioletJoceline = false
+    ZanyMaroonArliene = "What creature is smarter than a talking parrot? A spelling bee."
+  }
+  string AdditionalIvoryLynda {
+  }
+  json VoluntaryOliveGilberta {
+  }
+  boolean SelectAquamarineElfrieda {
+  }
+  serviceid GleamingPurpleMichele {
+  }
+  dummy.OrganisationalVioletCharmion FrenchEmeraldConcordia {
+    MaleTurquoiseDebora = file("DoubtfulBeigeFreda.txt")
+  }
+  string BrightTealSimonne {
+  }
+  serviceid DoubtfulLimeDulcine {
+  }
+  json ContinentalRoseEilis {
+  }
+  number VariableSalmonDoris {
+  }
+  DullRoseStacy = 190
+  NovelIndigoTamara = "To be Frank, I'd have to change my name."
+  LeftMaroonGayel = true
+  IncredibleJadeFelicdad = 513
+  _hidden_value = true
+}

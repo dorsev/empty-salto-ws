@@ -1,0 +1,54 @@
+type dummy.SpicyIvoryArdene {
+  annotations {
+    serviceid TightRoseLoria {
+    }
+    number MarriedIndigoGeorgia {
+    }
+    dummy.JapaneseCoralRodina BlueAmaranthDarcey {
+    }
+    boolean ObnoxiousLavenderMercie {
+    }
+    dummy.MaleOrangeJunie MistyBrownTessy {
+    }
+    boolean LinearRoseDolli {
+    }
+    dummy.WrittenAzureLizabeth NewHarlequinPetunia {
+    }
+    dummy.ArchitecturalBlueMadelene JudicialAquamarineNaomi {
+    }
+    boolean RelievedScarletLebbie {
+    }
+    dummy.FutureRedCammi RottenJadeMoina {
+    }
+    boolean ConcernedSapphireOdette {
+    }
+    serviceid UsefulCopperLavinia {
+    }
+    boolean AwfulMaroonDaune {
+    }
+    dummy.IntellectualAmethystNetty ArmedChocolateMala {
+    }
+    boolean TartBlackCynthia {
+    }
+    json AggregateHarlequinArlana {
+    }
+    string UnablePinkChelsie {
+    }
+  }
+  TightRoseLoria = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  MarriedIndigoGeorgia = 920
+  BlueAmaranthDarcey = false
+  ObnoxiousLavenderMercie = false
+  MistyBrownTessy = true
+  LinearRoseDolli = true
+  NewHarlequinPetunia = false
+  RelievedScarletLebbie = true
+  RottenJadeMoina = 949
+  ConcernedSapphireOdette = false
+  UsefulCopperLavinia = "Why did the kid cross the playground? To get to the other slide."
+  AwfulMaroonDaune = true
+  ArmedChocolateMala = file("EasyPlumEvie.txt")
+  TartBlackCynthia = true
+  AggregateHarlequinArlana = "What do you do on a remote island? Try and find the TV island it belongs to."
+  UnablePinkChelsie = "Im only familiar with 25 letters in the English language. I dont know why."
+}

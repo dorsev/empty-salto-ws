@@ -1,0 +1,25 @@
+type dummy.OlympicLavenderJennilee {
+  annotations {
+    dummy.RomanticAmberYalonda InformalMaroonMyrilla {
+    }
+    boolean HugeCoralFredelia {
+    }
+    dummy.AmazingTealOlympia EnglishWhiteMandy {
+    }
+  }
+  dummy.NovelApricotWallie FatRoseJemima {
+    NeutralJadeRoseann = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    SoftMagentaKris = "What did one nut say as he chased another nut?  I'm a cashew!"
+    DeterminedTomatoViolante = false
+    IntermediateEmeraldJanine = true
+    CorporateAquamarineMary = "Why did the tomato blush? Because it saw the salad dressing."
+    InterimCoralEtti = "Slept like a log last night  woke up in the fireplace."
+    SmoothMaroonOlenka = 90
+    PeacefulAmaranthRicca = file("SufficientYellowLarissa.txt")
+    LightGreenHestia = file("DefensiveMaroonMariquilla.txt")
+  }
+  InformalMaroonMyrilla = file("MatureSalmonVida.txt")
+  HugeCoralFredelia = true
+  EnglishWhiteMandy = file("ManagerialGreenVittoria.txt")
+  _hidden_value = true
+}

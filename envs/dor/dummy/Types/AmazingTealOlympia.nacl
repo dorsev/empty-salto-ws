@@ -1,0 +1,46 @@
+type dummy.AmazingTealOlympia is string {
+  annotations {
+    number ViolentSilverAshlan {
+    }
+    serviceid SmallPlumLiana {
+    }
+    serviceid BeautifulCyanOdele {
+    }
+    boolean EconomicCoralTillie {
+    }
+    string SuperWhiteOpalina {
+    }
+    dummy.KoreanTurquoiseJeannie SplendidGreenLiuka {
+    }
+    number UncomfortableSapphireEmlynne {
+    }
+    string GermanCrimsonRobbie {
+    }
+    dummy.HotYellowMeagan GiantBlushDyana {
+    }
+    serviceid RedBrownUrsulina {
+    }
+    json AustralianHarlequinMaggy {
+    }
+    dummy.NiceBrownHoney ChillyEmeraldRafa {
+    }
+    dummy.GreasyYellowAnallise OperationalCyanBecka {
+    }
+    boolean VitalBlackMalena {
+    }
+  }
+  ViolentSilverAshlan = 613
+  SmallPlumLiana = "What creature is smarter than a talking parrot? A spelling bee."
+  BeautifulCyanOdele = "What do you call two barracuda fish?  A Pairacuda!"
+  EconomicCoralTillie = true
+  SuperWhiteOpalina = "Did you know that protons have mass? I didn't even know they were catholic."
+  SplendidGreenLiuka = file("ContinuingVioletKelsi.txt")
+  UncomfortableSapphireEmlynne = 299
+  GermanCrimsonRobbie = "Why was it called the dark ages? Because of all the knights. "
+  GiantBlushDyana = file("AcceptedAzureBertie.txt")
+  RedBrownUrsulina = "Why is Peter Pan always flying? Because he Neverlands."
+  AustralianHarlequinMaggy = "Why did the kid cross the playground? To get to the other slide."
+  ChillyEmeraldRafa = false
+  OperationalCyanBecka = 940
+  VitalBlackMalena = true
+}

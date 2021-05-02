@@ -1,0 +1,19 @@
+type dummy.GreasyYellowAnallise is number {
+  annotations {
+    string LittleGreenMaren {
+    }
+    dummy.GrossAquaLilli TiredIvoryDorri {
+    }
+    string LikeApricotCharity {
+    }
+    serviceid UnlikelyBeigeKorney {
+    }
+    serviceid DemocraticJadeTallie {
+    }
+  }
+  LittleGreenMaren = "Why did the tomato blush? Because it saw the salad dressing."
+  TiredIvoryDorri = 244
+  LikeApricotCharity = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  UnlikelyBeigeKorney = "Why did the kid cross the playground? To get to the other slide."
+  DemocraticJadeTallie = "Why do birds fly south for the winter? Because it's too far to walk."
+}

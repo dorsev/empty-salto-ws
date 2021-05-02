@@ -1,0 +1,19 @@
+type dummy.TinyOliveRoobbie {
+  annotations {
+    dummy.PreciousVioletAnnabelle FairTomatoLoralee {
+    }
+    dummy.KoreanTurquoiseJeannie BusyBeigeKipp {
+    }
+    number NewAmberDaffy {
+    }
+    dummy.PreciousVioletAnnabelle AfraidBrownMariya {
+    }
+  }
+  json ViolentSilverFrancoise {
+  }
+  FairTomatoLoralee = file("QuickEmeraldGabi.txt")
+  BusyBeigeKipp = file("CalmAquaShanda.txt")
+  NewAmberDaffy = 417
+  AfraidBrownMariya = file("RulingWhiteNessy.txt")
+  _hidden_value = true
+}

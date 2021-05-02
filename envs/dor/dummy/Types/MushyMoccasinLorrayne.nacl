@@ -1,0 +1,25 @@
+type dummy.MushyMoccasinLorrayne {
+  annotations {
+    string ToryAmberGayla {
+    }
+    json WelcomeAmaranthMel {
+    }
+    json SmoothWhiteAnastasie {
+    }
+    string CuddlyIndigoSteffie {
+    }
+    boolean BitterTanEthelin {
+    }
+    dummy.HotYellowMeagan TragicPinkMariam {
+    }
+  }
+  number FrightenedTanKarena {
+  }
+  ToryAmberGayla = "Why do birds fly south for the winter? Because it's too far to walk."
+  WelcomeAmaranthMel = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  SmoothWhiteAnastasie = "Whoever invented the knock-knock joke should get a no bell prize."
+  CuddlyIndigoSteffie = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  BitterTanEthelin = false
+  TragicPinkMariam = file("EasyEmeraldSallee.txt")
+  _hidden_value = true
+}

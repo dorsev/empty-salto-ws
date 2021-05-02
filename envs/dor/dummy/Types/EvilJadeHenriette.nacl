@@ -1,0 +1,25 @@
+type dummy.EvilJadeHenriette {
+  annotations {
+    json PersistentAquamarineCassaundra {
+    }
+    serviceid FriendlyGreenMelanie {
+    }
+    boolean CrookedSilverCandide {
+    }
+    serviceid StrangeJadeJacqueline {
+    }
+    dummy.AmazingTealOlympia CurlyPinkIrina {
+    }
+    number LovelyRedTallulah {
+    }
+  }
+  serviceid FatBlushCathrin {
+  }
+  PersistentAquamarineCassaundra = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  FriendlyGreenMelanie = "My first time using an elevator was an uplifting experience. The second time let me down."
+  CrookedSilverCandide = true
+  StrangeJadeJacqueline = "How come the stadium got hot after the game? Because all of the fans left."
+  CurlyPinkIrina = file("LimitedLimeHalie.txt")
+  LovelyRedTallulah = 922
+  _hidden_value = true
+}

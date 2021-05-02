@@ -1,0 +1,77 @@
+type dummy.OptimisticJadeDacey {
+  annotations {
+    serviceid ContinuedOrangeEdie {
+    }
+    number HomelessMagentaMisty {
+    }
+    boolean WorryingCoffeeLinn {
+    }
+    string OutstandingOliveAmabel {
+    }
+    serviceid IntactPurpleEmmalee {
+    }
+    dummy.PreciousVioletAnnabelle SupposedPurpleDoloritas {
+    }
+    dummy.GastricAmethystMichaela ScreechingYellowAlvinia {
+    }
+    dummy.JapaneseCoralRodina WateryBronzeDina {
+    }
+    dummy.AmazingTealOlympia FrailChocolateAili {
+    }
+    dummy.DullIndigoMable ElegantAzureDeonne {
+    }
+    dummy.LesserOliveAndie AbstractMoccasinMarillin {
+    }
+    string DearSapphireKaile {
+    }
+    dummy.OrganisationalVioletCharmion NegativeBlueArdyce {
+    }
+    serviceid KeyAquaDiann {
+    }
+    number EasyYellowTabbi {
+    }
+    string SeriousAzureRosalia {
+    }
+    number LargeGreenGerri {
+    }
+    dummy.IntellectualAmethystNetty GrimAquaCollette {
+    }
+    string MysteriousCrimsonWenda {
+    }
+    dummy.KoreanTurquoiseJeannie SparklingYellowArdine {
+    }
+    number BrownRedChrissie {
+    }
+    dummy.SatisfiedGreenJen MinimumAquaTimmie {
+    }
+    serviceid ComfortableOliveZabrina {
+    }
+    boolean WorthwhileAzureJunette {
+    }
+    number DistinctBronzeGeorgena {
+    }
+  }
+  ContinuedOrangeEdie = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  HomelessMagentaMisty = 308
+  WorryingCoffeeLinn = false
+  OutstandingOliveAmabel = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  IntactPurpleEmmalee = "Did you know that protons have mass? I didn't even know they were catholic."
+  SupposedPurpleDoloritas = file("RepresentativeCrimsonJenda.txt")
+  ScreechingYellowAlvinia = 868
+  WateryBronzeDina = false
+  FrailChocolateAili = file("CharacteristicPlumNancie.txt")
+  AbstractMoccasinMarillin = file("LittleEmeraldIsahella.txt")
+  DearSapphireKaile = "Why did the kid cross the playground? To get to the other slide."
+  NegativeBlueArdyce = false
+  KeyAquaDiann = "What do you call two barracuda fish?  A Pairacuda!"
+  EasyYellowTabbi = 829
+  SeriousAzureRosalia = "To be Frank, I'd have to change my name."
+  LargeGreenGerri = 964
+  GrimAquaCollette = file("UncomfortableYellowDalia.txt")
+  MysteriousCrimsonWenda = "Whoever invented the knock-knock joke should get a no bell prize."
+  SparklingYellowArdine = file("RacialLavenderLisha.txt")
+  BrownRedChrissie = 105
+  ComfortableOliveZabrina = "Why is Peter Pan always flying? Because he Neverlands."
+  WorthwhileAzureJunette = true
+  DistinctBronzeGeorgena = 95
+}

@@ -1,0 +1,54 @@
+type dummy.IndependentPinkCatha is boolean {
+  annotations {
+    serviceid NiceHarlequinStefania {
+    }
+    json MagnificentCoffeeMerola {
+    }
+    serviceid SubsequentBlackCharin {
+    }
+    number SpareTomatoJeanie {
+    }
+    json ObviousTomatoJen {
+    }
+    string PresentGoldBriney {
+    }
+    string TopBlueMelita {
+    }
+    boolean ToughAmaranthBren {
+    }
+    dummy.MalePurpleAdella OccasionalBlueCourtenay {
+    }
+    boolean IndianOrangeFilippa {
+    }
+    number QuietLimeCristen {
+    }
+    dummy.NoisyMagentaJobey GrievingLavenderTera {
+    }
+    boolean NoisyPlumIrena {
+    }
+    dummy.DEFAULT FrozenBlushJean {
+    }
+    string VeryBrownGaby {
+    }
+    serviceid ExcitingPurpleJoli {
+    }
+  }
+  NiceHarlequinStefania = "Im only familiar with 25 letters in the English language. I dont know why."
+  MagnificentCoffeeMerola = "Dad Im hungry  Hi hungry Im dad"
+  SubsequentBlackCharin = "A steak pun is a rare medium well done."
+  SpareTomatoJeanie = 983
+  ObviousTomatoJen = "A steak pun is a rare medium well done."
+  PresentGoldBriney = "I'll tell you what often gets over looked... garden fences."
+  TopBlueMelita = "Whoever invented the knock-knock joke should get a no bell prize."
+  ToughAmaranthBren = false
+  OccasionalBlueCourtenay = 125
+  IndianOrangeFilippa = false
+  QuietLimeCristen = 81
+  GrievingLavenderTera = 435
+  NoisyPlumIrena = true
+  FrozenBlushJean = {
+    legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  }
+  VeryBrownGaby = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  ExcitingPurpleJoli = "To be Frank, I'd have to change my name."
+}

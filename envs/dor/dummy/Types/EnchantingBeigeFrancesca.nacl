@@ -1,0 +1,52 @@
+type dummy.EnchantingBeigeFrancesca {
+  annotations {
+    boolean VastBlackMarice {
+    }
+    serviceid WorriedJadeRaychel {
+    }
+    dummy.RomanticAmberYalonda GenuineMaroonZita {
+    }
+    serviceid CommunistIndigoAdelaide {
+    }
+    boolean FinancialRoseErinn {
+    }
+    dummy.AggregateTurquoiseMeg LightTurquoiseOla {
+    }
+    serviceid ConfusedRedHannie {
+    }
+  }
+  dummy.DEFAULT UnsightlyTanBenedikta {
+  }
+  serviceid ConcernedPurpleCarrissa {
+  }
+  dummy.WrittenAzureLizabeth PastSilverOlivia {
+    AssistantMoccasinAjay = "What creature is smarter than a talking parrot? A spelling bee."
+    KeyMaroonBunny = "Why do birds fly south for the winter? Because it's too far to walk."
+    RussianChocolateVirginia = 188
+    NovelGoldBettine = false
+    PersistentHarlequinLana = "Why didnt the skeleton cross the road? Because he had no guts."
+    NovelOliveWillamina = false
+    MissingWhiteEthelind = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    SmoothBrownCharil = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    ModernHarlequinMelitta = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    SmallTomatoAnatola = 327
+    UnemployedLimeLyndsay = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    ConsiderableCoffeeSiobhan = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    ComplexCopperKatinka = "Why is Peter Pan always flying? Because he Neverlands."
+    SacredSilverClotilda = false
+    ConfidentEmeraldAlys = false
+    ShyRedDotti = "Slept like a log last night  woke up in the fireplace."
+    PricklySapphireSelia = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    BlueBrownElise = "To be Frank, I'd have to change my name."
+  }
+  serviceid GladTurquoiseLorna {
+  }
+  VastBlackMarice = true
+  WorriedJadeRaychel = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  GenuineMaroonZita = file("HardVioletBella.txt")
+  CommunistIndigoAdelaide = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  FinancialRoseErinn = false
+  LightTurquoiseOla = 165
+  ConfusedRedHannie = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+}

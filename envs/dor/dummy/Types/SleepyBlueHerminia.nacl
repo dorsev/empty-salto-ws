@@ -1,0 +1,25 @@
+type dummy.SleepyBlueHerminia {
+  annotations {
+    dummy.NovelApricotWallie GratefulJadeLeeanne {
+    }
+    number KindCoralDeanne {
+    }
+    dummy.NovelApricotWallie CombativeYellowCarma {
+    }
+    dummy.AmazingTealOlympia SevereBlueElyssa {
+    }
+    dummy.KoreanTurquoiseJeannie PerfectBlackElora {
+    }
+    number ContinuedCoralYsabel {
+    }
+  }
+  string OccasionalSapphireSallyanne {
+  }
+  GratefulJadeLeeanne = 370
+  KindCoralDeanne = 372
+  CombativeYellowCarma = 507
+  SevereBlueElyssa = file("SurroundingBeigeStacey.txt")
+  PerfectBlackElora = file("EnthusiasticBlueTammi.txt")
+  ContinuedCoralYsabel = 47
+  _hidden_value = true
+}

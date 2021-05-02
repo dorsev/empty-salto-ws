@@ -1,0 +1,68 @@
+type dummy.WarmWhiteLucina {
+  annotations {
+    serviceid FamiliarTealMarilee {
+    }
+    serviceid HushedAquamarineKimberlee {
+    }
+    dummy.NiceBrownHoney ThirstyPinkLeone {
+    }
+    dummy.AmazingTealOlympia RichLavenderVi {
+    }
+    boolean SharpSalmonShela {
+    }
+    boolean ForeignSalmonSarajane {
+    }
+    serviceid ZanyFuchsiaSuki {
+    }
+    string QuaintTanGina {
+    }
+    dummy.NoisyMagentaJobey EnglishPurpleNadia {
+    }
+    string GeneticJadeFedora {
+    }
+    serviceid WickedSapphireTim {
+    }
+    json MeltedGreenMarni {
+    }
+    dummy.ArrogantSapphireDaphna FriendlyPeachPrudi {
+    }
+    boolean FranticRoseCelesta {
+    }
+    dummy.EstimatedAmethystKaycee FundamentalJadeKarla {
+    }
+    dummy.NuclearAquamarineMaurise QuickCoffeeCelia {
+    }
+    boolean UsualAzureJesse {
+    }
+    string EqualAzureMinna {
+    }
+    dummy.KoreanTurquoiseJeannie CoolSalmonCassey {
+    }
+    json LiveFuchsiaSarine {
+    }
+    json ValuableOrangeFrieda {
+    }
+    boolean EarlyPinkJelene {
+    }
+  }
+  FamiliarTealMarilee = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  HushedAquamarineKimberlee = "Why didnt the skeleton cross the road? Because he had no guts."
+  ThirstyPinkLeone = true
+  RichLavenderVi = file("ManagerialFuchsiaMaressa.txt")
+  SharpSalmonShela = true
+  ForeignSalmonSarajane = true
+  ZanyFuchsiaSuki = "Whoever invented the knock-knock joke should get a no bell prize."
+  QuaintTanGina = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  EnglishPurpleNadia = 810
+  GeneticJadeFedora = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  WickedSapphireTim = "How come the stadium got hot after the game? Because all of the fans left."
+  MeltedGreenMarni = "How come the stadium got hot after the game? Because all of the fans left."
+  FriendlyPeachPrudi = true
+  FranticRoseCelesta = false
+  UsualAzureJesse = true
+  EqualAzureMinna = "A steak pun is a rare medium well done."
+  CoolSalmonCassey = file("SmallTurquoiseEvonne.txt")
+  LiveFuchsiaSarine = "Dad Im hungry  Hi hungry Im dad"
+  ValuableOrangeFrieda = "Why did the kid cross the playground? To get to the other slide."
+  EarlyPinkJelene = false
+}

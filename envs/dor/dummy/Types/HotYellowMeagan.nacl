@@ -1,0 +1,73 @@
+type dummy.HotYellowMeagan is string {
+  annotations {
+    string ControlledLavenderClarita {
+    }
+    boolean CriminalWhiteViolet {
+    }
+    number ShrillMagentaMadlin {
+    }
+    dummy.NoisyMagentaJobey ParliamentaryChocolateGlory {
+    }
+    json NoisyWhiteTildi {
+    }
+    serviceid CombativeTurquoiseBrandise {
+    }
+    boolean RoughBrownJenn {
+    }
+    string OperationalGoldCissy {
+    }
+    boolean CapitalistOrangeDella {
+    }
+    dummy.GrossAquaLilli ComprehensivePurpleKerrin {
+    }
+    string InnocentLavenderAleda {
+    }
+    number UnlikelyTomatoDavine {
+    }
+    json PreferredCyanTamra {
+    }
+    string WanderingTurquoiseKevina {
+    }
+    boolean ActualAmaranthJosefa {
+    }
+    json VaryingPurpleRuthie {
+    }
+    number SuspiciousTanBernadine {
+    }
+    number ArmedScarletCathrin {
+    }
+    string SparklingAmaranthLeone {
+    }
+    serviceid SpiritualJadeSibylle {
+    }
+    serviceid ValuablePeachBunni {
+    }
+    string FrightenedAzureOralie {
+    }
+    string StrangeSapphireDarbie {
+    }
+  }
+  ControlledLavenderClarita = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  CriminalWhiteViolet = true
+  ShrillMagentaMadlin = 111
+  ParliamentaryChocolateGlory = 426
+  NoisyWhiteTildi = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  CombativeTurquoiseBrandise = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  RoughBrownJenn = true
+  OperationalGoldCissy = "Dad Im hungry  Hi hungry Im dad"
+  CapitalistOrangeDella = false
+  ComprehensivePurpleKerrin = 384
+  InnocentLavenderAleda = "Im only familiar with 25 letters in the English language. I dont know why."
+  UnlikelyTomatoDavine = 328
+  PreferredCyanTamra = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  WanderingTurquoiseKevina = "Why is Peter Pan always flying? Because he Neverlands."
+  ActualAmaranthJosefa = true
+  VaryingPurpleRuthie = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  SuspiciousTanBernadine = 894
+  ArmedScarletCathrin = 172
+  SparklingAmaranthLeone = "A steak pun is a rare medium well done."
+  SpiritualJadeSibylle = "Did you know that protons have mass? I didn't even know they were catholic."
+  ValuablePeachBunni = "Dad Im hungry  Hi hungry Im dad"
+  FrightenedAzureOralie = "What creature is smarter than a talking parrot? A spelling bee."
+  StrangeSapphireDarbie = "I'll tell you what often gets over looked... garden fences."
+}

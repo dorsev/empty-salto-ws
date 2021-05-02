@@ -1,0 +1,60 @@
+type dummy.ZanyMagentaCatrina {
+  annotations {
+    dummy.AmazingTealOlympia TiredHarlequinNisse {
+    }
+    serviceid MiddleTurquoiseAra {
+    }
+    boolean ExternalBeigeRina {
+    }
+    dummy.DesperateAquamarineLisabeth WildAmberMariann {
+    }
+    dummy.CharmingPlumXena BasicBlushCassi {
+    }
+    dummy.PromisingMagentaDemeter IncredibleRedDanya {
+    }
+    boolean DisastrousPurpleDawn {
+    }
+    string EmbarrassedGoldMegan {
+    }
+    dummy.KoreanTurquoiseJeannie HomelyPlumAnnette {
+    }
+    dummy.IndependentPinkCatha SparklingCyanLenette {
+    }
+    serviceid UniformCopperEthyl {
+    }
+    number IllRoseJeana {
+    }
+    serviceid ObnoxiousBronzeIdette {
+    }
+    json SunnyMoccasinMeridith {
+    }
+    dummy.OrganisationalVioletCharmion DoubleGreenLayla {
+    }
+    string PassingBeigeSusanna {
+    }
+    json WetMagentaKarrie {
+    }
+    dummy.AmazingTealOlympia RichScarletCordey {
+    }
+    dummy.AmazingTealOlympia DryLavenderAime {
+    }
+  }
+  TiredHarlequinNisse = file("AcuteBeigeMireille.txt")
+  MiddleTurquoiseAra = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  ExternalBeigeRina = false
+  WildAmberMariann = 404
+  IncredibleRedDanya = file("ProudAmethystDarlleen.txt")
+  DisastrousPurpleDawn = true
+  EmbarrassedGoldMegan = "What do you do on a remote island? Try and find the TV island it belongs to."
+  HomelyPlumAnnette = file("SadMaroonLydie.txt")
+  SparklingCyanLenette = true
+  UniformCopperEthyl = "Whoever invented the knock-knock joke should get a no bell prize."
+  IllRoseJeana = 633
+  ObnoxiousBronzeIdette = "Why did the kid cross the playground? To get to the other slide."
+  SunnyMoccasinMeridith = "A steak pun is a rare medium well done."
+  DoubleGreenLayla = true
+  PassingBeigeSusanna = "Im only familiar with 25 letters in the English language. I dont know why."
+  WetMagentaKarrie = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  RichScarletCordey = file("RepulsiveSilverVina.txt")
+  DryLavenderAime = file("DrivingChocolateMaris.txt")
+}

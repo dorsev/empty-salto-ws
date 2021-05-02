@@ -1,0 +1,19 @@
+type dummy.DistinctCoffeeCandice {
+  annotations {
+    dummy.OrganisationalVioletCharmion JuniorIndigoAmil {
+    }
+    json SoundIndigoYasmeen {
+    }
+    string GladBronzeDionis {
+    }
+    dummy.AmazingTealOlympia ShallowCoffeeChristi {
+    }
+  }
+  number DifficultHarlequinJaneva {
+  }
+  JuniorIndigoAmil = true
+  SoundIndigoYasmeen = "Why didnt the skeleton cross the road? Because he had no guts."
+  GladBronzeDionis = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  ShallowCoffeeChristi = file("BrokenGrayFrieda.txt")
+  _hidden_value = true
+}

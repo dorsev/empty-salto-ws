@@ -1,0 +1,27 @@
+type dummy.FrontAmberChristyna {
+  annotations {
+    dummy.ControlledJadeHadria AmazingCrimsonPerl {
+    }
+    dummy.ClosedCoralShayna TastelessPeachJen {
+    }
+    dummy.PreciousVioletAnnabelle LazyTurquoiseShanon {
+    }
+    dummy.IntellectualAmethystNetty MedievalCoralJill {
+    }
+    json AbsoluteIndigoMaybelle {
+    }
+  }
+  dummy.LiquidBronzeJolene RussianSalmonDavine {
+    ConfidentEmeraldRozalie = "Did you know that protons have mass? I didn't even know they were catholic."
+    AccuratePurpleAdela = 115
+    NeighbouringIvoryDorey = true
+    GuiltyLimeDulce = file("DustyBlushKelci.txt")
+    RespectableAquaRosalie = file("NastyMoccasinGoldi.txt")
+  }
+  AmazingCrimsonPerl = file("MonetaryGreenPerri.txt")
+  TastelessPeachJen = 582
+  LazyTurquoiseShanon = file("NursingOrangeJanka.txt")
+  MedievalCoralJill = file("CombativeCopperVal.txt")
+  AbsoluteIndigoMaybelle = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  _hidden_value = true
+}

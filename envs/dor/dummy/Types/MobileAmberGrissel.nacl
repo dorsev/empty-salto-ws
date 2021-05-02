@@ -1,0 +1,19 @@
+type dummy.MobileAmberGrissel {
+  annotations {
+    string RussianCoffeeDorothea {
+    }
+    number MeaningfulGreenCassie {
+    }
+    dummy.IndependentPinkCatha TastelessLavenderReba {
+    }
+    serviceid SillyApricotAmber {
+    }
+  }
+  boolean UglySilverSuzette {
+  }
+  RussianCoffeeDorothea = "A steak pun is a rare medium well done."
+  MeaningfulGreenCassie = 469
+  TastelessLavenderReba = false
+  SillyApricotAmber = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  _hidden_value = true
+}

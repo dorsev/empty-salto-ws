@@ -1,0 +1,25 @@
+type dummy.CharmingTomatoEdith {
+  annotations {
+    string FortunateApricotJasmin {
+    }
+    boolean FormidableLavenderMeggi {
+    }
+    string GuiltyGreenAjay {
+    }
+    number EntireGrayCharyl {
+    }
+    dummy.PreciousVioletAnnabelle DependentTomatoTheresa {
+    }
+    dummy.KoreanTurquoiseJeannie PureAmethystAgace {
+    }
+  }
+  json KindIndigoGeraldine {
+  }
+  FortunateApricotJasmin = "Dad Im hungry  Hi hungry Im dad"
+  FormidableLavenderMeggi = true
+  GuiltyGreenAjay = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  EntireGrayCharyl = 866
+  DependentTomatoTheresa = file("LegalLavenderLouisette.txt")
+  PureAmethystAgace = file("VerbalSalmonCatina.txt")
+  _hidden_value = true
+}

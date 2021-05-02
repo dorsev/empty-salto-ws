@@ -1,0 +1,72 @@
+type dummy.RottenGraySibylla {
+  annotations {
+    string SelectedScarletBabbette {
+    }
+    dummy.PurringLavenderMarietta CurrentAquaCorabelle {
+    }
+    json CapableAquaLorne {
+    }
+  }
+  dummy.NovelApricotWallie TiredAzureEba {
+    NeutralJadeRoseann = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    SoftMagentaKris = "How come the stadium got hot after the game? Because all of the fans left."
+    DeterminedTomatoViolante = false
+    IntermediateEmeraldJanine = false
+    CorporateAquamarineMary = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    InterimCoralEtti = "To be Frank, I'd have to change my name."
+    SmoothMaroonOlenka = 401
+    PeacefulAmaranthRicca = file("VastPinkEimile.txt")
+    LightGreenHestia = file("ElectoralCopperHenrieta.txt")
+  }
+  dummy.JapaneseCoralRodina StrangeHarlequinTamera {
+    FormalJadeJinny = file("ImpossibleTomatoElise.txt")
+    TiredCoffeeCarolan = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    EverydayWhiteIdell = 328
+    InfluentialIndigoTamarah = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    SolidOliveLorrin = 400
+    InnovativeCoralSeka = file("AsleepTurquoiseEstell.txt")
+    DivineAmaranthCandy = "What did one nut say as he chased another nut?  I'm a cashew!"
+    OfficialMaroonAlina = file("HighTealAdiana.txt")
+    EnormousTanTeressa = "Dad Im hungry  Hi hungry Im dad"
+    ColdPurpleZaneta = file("NormalIndigoAudre.txt")
+    JollyCyanEvita = file("DevotedTomatoFelicia.txt")
+    FullMaroonFerdinande = 977
+    SuccessfulBlushTrina = false
+    DifferentEmeraldBlithe = "Whoever invented the knock-knock joke should get a no bell prize."
+    CleverOliveGwenette = 66
+  }
+  "List<serviceid>" DryPlumAngil {
+  }
+  dummy.IntellectualAmethystNetty FancyWhiteDarb {
+    BeautifulCoffeeArleta = file("StrangeGrayFarrah.txt")
+    EqualYellowHelenelizabeth = 848
+    AdvisoryLimeDana = "What do you do on a remote island? Try and find the TV island it belongs to."
+    CreepyPinkSherye = "What do you call two barracuda fish?  A Pairacuda!"
+    ModernRoseVina = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    RomanticOrangeLeyla = false
+    GenuineGreenAbbie = 422
+    ConsiderableBeigeLonnie = true
+    GleamingMagentaKristyn = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    LargeJadeKati = 86
+    PreciseTomatoJanaya = 580
+    BackRedBrena = 896
+    ModernBronzeJillian = 688
+    EntitledScarletPammie = "What do you do on a remote island? Try and find the TV island it belongs to."
+    PrimeTanJanessa = "To be Frank, I'd have to change my name."
+    ConvincingBrownEnrika = file("UnevenOliveGrier.txt")
+    FinalMoccasinIlse = "What creature is smarter than a talking parrot? A spelling bee."
+    BoredAquaPatricia = 135
+    NakedWhiteJehanna = file("SocialistFuchsiaMignonne.txt")
+  }
+  boolean LightLimeAnnabell {
+  }
+  number ScreechingPeachMollee {
+  }
+  number ControversialVioletMirabelle {
+  }
+  number NarrowGreenMaribel {
+  }
+  SelectedScarletBabbette = "What do you call two barracuda fish?  A Pairacuda!"
+  CapableAquaLorne = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  _hidden_value = true
+}

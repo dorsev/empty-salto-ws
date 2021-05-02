@@ -1,0 +1,16 @@
+type dummy.ComparativeAmaranthRosetta is number {
+  annotations {
+    serviceid UnpleasantLavenderLura {
+    }
+    json SharpSapphireAllyn {
+    }
+    json PassingCrimsonRee {
+    }
+    string ValuableLavenderBobinette {
+    }
+  }
+  UnpleasantLavenderLura = "Im only familiar with 25 letters in the English language. I dont know why."
+  SharpSapphireAllyn = "What do you do on a remote island? Try and find the TV island it belongs to."
+  PassingCrimsonRee = "Why did the tomato blush? Because it saw the salad dressing."
+  ValuableLavenderBobinette = "Did you know that protons have mass? I didn't even know they were catholic."
+}

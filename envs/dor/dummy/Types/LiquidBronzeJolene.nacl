@@ -1,0 +1,93 @@
+type dummy.LiquidBronzeJolene {
+  annotations {
+    string ConfidentEmeraldRozalie {
+    }
+    dummy.ClosedCoralShayna AccuratePurpleAdela {
+    }
+    boolean NeighbouringIvoryDorey {
+    }
+    dummy.AmazingTealOlympia GuiltyLimeDulce {
+    }
+    dummy.HotYellowMeagan RespectableAquaRosalie {
+    }
+  }
+  string MightyTurquoiseSherilyn {
+  }
+  dummy.WrittenAzureLizabeth WholeBlushTory {
+    AssistantMoccasinAjay = "Why did the kid cross the playground? To get to the other slide."
+    KeyMaroonBunny = "What do you call two barracuda fish?  A Pairacuda!"
+    RussianChocolateVirginia = 107
+    NovelGoldBettine = false
+    PersistentHarlequinLana = "Slept like a log last night  woke up in the fireplace."
+    NovelOliveWillamina = false
+    MissingWhiteEthelind = "Why is Peter Pan always flying? Because he Neverlands."
+    SmoothBrownCharil = "Whoever invented the knock-knock joke should get a no bell prize."
+    ModernHarlequinMelitta = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    SmallTomatoAnatola = 5
+    UnemployedLimeLyndsay = "My first time using an elevator was an uplifting experience. The second time let me down."
+    ConsiderableCoffeeSiobhan = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    ComplexCopperKatinka = "I'll tell you what often gets over looked... garden fences."
+    SacredSilverClotilda = true
+    ConfidentEmeraldAlys = false
+    ShyRedDotti = "My first time using an elevator was an uplifting experience. The second time let me down."
+    PricklySapphireSelia = "Why didnt the skeleton cross the road? Because he had no guts."
+    BlueBrownElise = "What did one nut say as he chased another nut?  I'm a cashew!"
+  }
+  dummy.ArrogantSapphireDaphna AveragePlumDita {
+    EnviousOliveDora = "To be Frank, I'd have to change my name."
+    BitterPurpleRosanna = false
+    AdditionalPlumAshlie = 499
+  }
+  boolean GloriousAzureEulalie {
+  }
+  dummy.NovelApricotWallie AfraidHarlequinZuzana {
+    NeutralJadeRoseann = "Slept like a log last night  woke up in the fireplace."
+    SoftMagentaKris = "Why did the tomato blush? Because it saw the salad dressing."
+    DeterminedTomatoViolante = false
+    IntermediateEmeraldJanine = true
+    CorporateAquamarineMary = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    InterimCoralEtti = "What do you do on a remote island? Try and find the TV island it belongs to."
+    SmoothMaroonOlenka = 256
+    PeacefulAmaranthRicca = file("IndianAmberGwendolin.txt")
+    LightGreenHestia = file("FantasticHarlequinEma.txt")
+  }
+  serviceid MiddleCyanAileen {
+  }
+  serviceid InnovativeAzureFiann {
+  }
+  string JuniorGrayJacqueline {
+  }
+  number WiseHarlequinThea {
+  }
+  boolean RoundOrangeEtta {
+  }
+  dummy.AmazingTealOlympia DyingAmberMichelina {
+    ViolentSilverAshlan = 877
+    SmallPlumLiana = '''
+What do you do on a remote island? Try and find the TV island it belongs to.
+What do you do on a remote island? Try and find the TV island it belongs to.
+Why was it called the dark ages? Because of all the knights. 
+Did you hear about the guy whose whole left side was cut off? He's all right now.
+'''
+    BeautifulCyanOdele = "What creature is smarter than a talking parrot? A spelling bee."
+    EconomicCoralTillie = false
+    SuperWhiteOpalina = "My first time using an elevator was an uplifting experience. The second time let me down."
+    SplendidGreenLiuka = file("ImprovedTurquoiseReggi.txt")
+    UncomfortableSapphireEmlynne = 777
+    GermanCrimsonRobbie = "What creature is smarter than a talking parrot? A spelling bee."
+    GiantBlushDyana = file("BrokenGoldCatherine.txt")
+    RedBrownUrsulina = "How come the stadium got hot after the game? Because all of the fans left."
+    AustralianHarlequinMaggy = "Dad Im hungry  Hi hungry Im dad"
+    ChillyEmeraldRafa = true
+    OperationalCyanBecka = 410
+    VitalBlackMalena = true
+  }
+  json GreatCopperMaritsa {
+  }
+  ConfidentEmeraldRozalie = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  AccuratePurpleAdela = 962
+  NeighbouringIvoryDorey = false
+  GuiltyLimeDulce = file("FascinatingCopperAliza.txt")
+  RespectableAquaRosalie = file("EvidentAmaranthCatie.txt")
+  _hidden_value = true
+}

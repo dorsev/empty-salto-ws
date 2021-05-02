@@ -1,0 +1,65 @@
+type dummy.NearbyCrimsonSherry {
+  annotations {
+    dummy.PreciousVioletAnnabelle GoldenTurquoiseKarita {
+    }
+    json DefeatedCyanRiki {
+    }
+    boolean WelshJadeBenedikta {
+    }
+    json EasyGrayAlfreda {
+    }
+    json ClearChocolateSuellen {
+    }
+    number EstablishedMoccasinKay {
+    }
+    dummy.IntellectualAmethystNetty SharpMoccasinAnastasie {
+    }
+    number FashionableTanChristina {
+    }
+    dummy.RomanticAmberYalonda ProposedRoseAeriell {
+    }
+    boolean DangerousCoralWilhelmine {
+    }
+    serviceid AgriculturalIvoryAarika {
+    }
+    string TenseTomatoTedi {
+    }
+    boolean RemarkableBlueAgnes {
+    }
+    dummy.FutureRedCammi AnxiousGreenKandy {
+    }
+    serviceid HeavyCyanAurelea {
+    }
+    dummy.EvidentBronzePaolina SmilingGreenLouella {
+    }
+    dummy.AggregateTurquoiseMeg SmoggyGoldGiulia {
+    }
+    dummy.InformalGreenMadalena AdjacentIvoryElianore {
+    }
+    dummy.OrganisationalVioletCharmion OldBrownAveril {
+    }
+    string WetBeigeKrystal {
+    }
+    serviceid SmartCoffeeDorella {
+    }
+  }
+  GoldenTurquoiseKarita = file("DeafeningSalmonOrelle.txt")
+  DefeatedCyanRiki = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  WelshJadeBenedikta = true
+  EasyGrayAlfreda = "Im only familiar with 25 letters in the English language. I dont know why."
+  ClearChocolateSuellen = "Slept like a log last night  woke up in the fireplace."
+  EstablishedMoccasinKay = 723
+  SharpMoccasinAnastasie = file("RobustJadeCher.txt")
+  FashionableTanChristina = 70
+  ProposedRoseAeriell = file("DarkScarletNat.txt")
+  DangerousCoralWilhelmine = false
+  AgriculturalIvoryAarika = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  TenseTomatoTedi = "What do you call two barracuda fish?  A Pairacuda!"
+  RemarkableBlueAgnes = true
+  AnxiousGreenKandy = 380
+  HeavyCyanAurelea = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  SmoggyGoldGiulia = 435
+  OldBrownAveril = false
+  WetBeigeKrystal = "Slept like a log last night  woke up in the fireplace."
+  SmartCoffeeDorella = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+}

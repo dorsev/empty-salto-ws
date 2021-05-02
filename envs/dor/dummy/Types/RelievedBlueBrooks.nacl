@@ -1,0 +1,27 @@
+type dummy.RelievedBlueBrooks {
+  annotations {
+    dummy.AmbitiousAmberBrigit PossibleMoccasinPaolina {
+    }
+    string ApplicableBlueGinnifer {
+    }
+    dummy.AmazingTealOlympia VerbalIndigoMarieann {
+    }
+    dummy.GrossAquaLilli UselessCyanFlori {
+    }
+    dummy.DEFAULT BeneficialVioletIsa {
+    }
+    string IllegalWhiteBrynna {
+    }
+  }
+  number RapidPlumLinzy {
+  }
+  PossibleMoccasinPaolina = file("AbovePurpleMinnaminnie.txt")
+  ApplicableBlueGinnifer = "Why was it called the dark ages? Because of all the knights. "
+  VerbalIndigoMarieann = file("OptimisticPurpleEolande.txt")
+  UselessCyanFlori = 102
+  BeneficialVioletIsa = {
+    legit = "Why do birds fly south for the winter? Because it's too far to walk."
+  }
+  IllegalWhiteBrynna = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _hidden_value = true
+}

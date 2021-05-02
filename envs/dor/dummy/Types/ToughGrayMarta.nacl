@@ -1,0 +1,22 @@
+type dummy.ToughGrayMarta {
+  annotations {
+    dummy.AggregateTurquoiseMeg ScaryYellowRory {
+    }
+    dummy.OrganisationalVioletCharmion TastelessRedDanya {
+    }
+    serviceid RandomPinkLaurice {
+    }
+    dummy.KoreanTurquoiseJeannie DullCoffeeDorree {
+    }
+    json BravePinkDorothy {
+    }
+  }
+  string IraqiBlushMollee {
+  }
+  ScaryYellowRory = 690
+  TastelessRedDanya = false
+  RandomPinkLaurice = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  DullCoffeeDorree = file("JollyCyanPet.txt")
+  BravePinkDorothy = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  _hidden_value = true
+}

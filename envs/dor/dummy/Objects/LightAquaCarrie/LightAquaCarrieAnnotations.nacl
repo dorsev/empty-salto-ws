@@ -1,0 +1,56 @@
+type dummy.LightAquaCarrie {
+  annotations {
+    string QuickRoseAllison {
+    }
+    json AsianBronzeNellie {
+    }
+    dummy.ClosedCoralShayna HungryMoccasinViolette {
+    }
+    dummy.KoreanTurquoiseJeannie DecisiveBlueDasha {
+    }
+    serviceid CruelPurpleFernandina {
+    }
+    dummy.ObviousLavenderLayla WildRedShirlee {
+    }
+    json HighAmethystMaye {
+    }
+    dummy.InnerCopperCele ImportantRoseFelecia {
+    }
+    string CapableCrimsonDevora {
+    }
+    boolean DemocraticAmaranthTracey {
+    }
+    number CleanBlueHana {
+    }
+    serviceid HushedIvoryJanna {
+    }
+    dummy.NovelApricotWallie InitialSapphireNatalina {
+    }
+    number RattyBrownRobena {
+    }
+    boolean WickedChocolateAnnabell {
+    }
+    serviceid EntireVioletViola {
+    }
+    boolean CloudyGoldKinna {
+    }
+    json GentleTanDevon {
+    }
+  }
+  QuickRoseAllison = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  AsianBronzeNellie = "Dad Im hungry  Hi hungry Im dad"
+  HungryMoccasinViolette = 822
+  DecisiveBlueDasha = file("DisastrousAquamarineRosette.txt")
+  CruelPurpleFernandina = "Im only familiar with 25 letters in the English language. I dont know why."
+  HighAmethystMaye = "A steak pun is a rare medium well done."
+  CapableCrimsonDevora = "Did you know that protons have mass? I didn't even know they were catholic."
+  DemocraticAmaranthTracey = false
+  CleanBlueHana = 386
+  HushedIvoryJanna = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  InitialSapphireNatalina = 104
+  RattyBrownRobena = 975
+  WickedChocolateAnnabell = true
+  EntireVioletViola = "Im only familiar with 25 letters in the English language. I dont know why."
+  CloudyGoldKinna = true
+  GentleTanDevon = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+}

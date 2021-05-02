@@ -1,0 +1,56 @@
+type dummy.LesserSapphireJoye {
+  annotations {
+    dummy.LesserOliveAndie ImportantCoffeeMelva {
+    }
+    dummy.PreciousVioletAnnabelle AnonymousRoseOlivia {
+    }
+    number EfficientWhiteLyda {
+    }
+    number IndividualRedDaryn {
+    }
+    dummy.RapidBlueJacquenette StatutoryBeigeBrynna {
+    }
+    dummy.JapaneseCoralRodina CatholicBeigeCristy {
+    }
+    serviceid ProductiveTanThelma {
+    }
+    dummy.AmazingTealOlympia ConstantCoralDasha {
+    }
+    dummy.LeadingIndigoSephira IncredibleGreenPhilis {
+    }
+    serviceid PsychologicalCyanBarbie {
+    }
+    boolean NervousOrangeIlyse {
+    }
+    dummy.PuzzledPurpleBlinni IndirectOrangeMelita {
+    }
+    json PastLimeLillis {
+    }
+    boolean StatisticalRedElie {
+    }
+    dummy.OrganisationalVioletCharmion CommonAmethystLynsey {
+    }
+    serviceid PeacefulIvoryUrsulina {
+    }
+    number CatholicGreenCodi {
+    }
+    dummy.AmazingTealOlympia SlowBronzeCorinna {
+    }
+  }
+  ImportantCoffeeMelva = file("PoliteCoffeeCorrinne.txt")
+  AnonymousRoseOlivia = file("HealthyApricotMirabella.txt")
+  EfficientWhiteLyda = 128
+  IndividualRedDaryn = 831
+  CatholicBeigeCristy = false
+  ProductiveTanThelma = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  ConstantCoralDasha = file("ChubbyPinkSibylle.txt")
+  IncredibleGreenPhilis = 865
+  PsychologicalCyanBarbie = "What do you call two barracuda fish?  A Pairacuda!"
+  NervousOrangeIlyse = false
+  PastLimeLillis = "Whoever invented the knock-knock joke should get a no bell prize."
+  StatisticalRedElie = true
+  CommonAmethystLynsey = false
+  PeacefulIvoryUrsulina = "Dad Im hungry  Hi hungry Im dad"
+  CatholicGreenCodi = 908
+  SlowBronzeCorinna = file("MassiveSapphireBethena.txt")
+}

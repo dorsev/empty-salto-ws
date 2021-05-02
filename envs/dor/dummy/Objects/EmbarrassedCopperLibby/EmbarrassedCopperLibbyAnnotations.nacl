@@ -1,0 +1,60 @@
+type dummy.EmbarrassedCopperLibby {
+  annotations {
+    boolean PreciousWhiteMelosa {
+    }
+    dummy.RomanticAmberYalonda ChillyHarlequinShayla {
+    }
+    boolean UnevenAmaranthNiki {
+    }
+    serviceid LtdGreenFidelia {
+    }
+    string MysteriousBeigeBernardine {
+    }
+    dummy.RomanticAmberYalonda EmbarrassedCopperDoreen {
+    }
+    dummy.IndependentPinkCatha DifferentMoccasinElyse {
+    }
+    dummy.SmartCoralPam AnnualSapphireStace {
+    }
+    dummy.ClosedCoralShayna FatCoffeeJaclyn {
+    }
+    number ZanyYellowConstantina {
+    }
+    dummy.StickyMagentaDominique NormalBronzeNicky {
+    }
+    boolean ZanyCrimsonAmy {
+    }
+    dummy.KoreanTurquoiseJeannie NursingIvoryMinnnie {
+    }
+    dummy.RomanticAmberYalonda RareAquaLeanor {
+    }
+    string AverageCoffeeDanika {
+    }
+    json EffectiveSapphireLaurella {
+    }
+    number CleverAmaranthDanyelle {
+    }
+    dummy.InherentCrimsonKamilah MisleadingAquamarineAgnes {
+    }
+    dummy.RomanticAmberYalonda CoolSapphireSarene {
+    }
+  }
+  PreciousWhiteMelosa = false
+  ChillyHarlequinShayla = file("FeministOliveCelestyn.txt")
+  UnevenAmaranthNiki = true
+  LtdGreenFidelia = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  MysteriousBeigeBernardine = "What did one nut say as he chased another nut?  I'm a cashew!"
+  EmbarrassedCopperDoreen = file("AcceptedAmberTamar.txt")
+  DifferentMoccasinElyse = true
+  FatCoffeeJaclyn = 176
+  ZanyYellowConstantina = 540
+  NormalBronzeNicky = 90
+  ZanyCrimsonAmy = false
+  NursingIvoryMinnnie = file("SourMagentaStella.txt")
+  RareAquaLeanor = file("DisappointedAzureKessia.txt")
+  AverageCoffeeDanika = "To be Frank, I'd have to change my name."
+  EffectiveSapphireLaurella = "What do you do on a remote island? Try and find the TV island it belongs to."
+  CleverAmaranthDanyelle = 524
+  MisleadingAquamarineAgnes = true
+  CoolSapphireSarene = file("KnownPinkMag.txt")
+}

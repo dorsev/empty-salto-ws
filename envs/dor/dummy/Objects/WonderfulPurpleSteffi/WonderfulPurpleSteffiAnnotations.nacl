@@ -1,0 +1,48 @@
+type dummy.WonderfulPurpleSteffi {
+  annotations {
+    dummy.PreciousVioletAnnabelle InjuredCrimsonDania {
+    }
+    boolean DependentOliveBab {
+    }
+    string InterimGoldKira {
+    }
+    serviceid MightyPlumLorianne {
+    }
+    serviceid DistinguishedBlackTarra {
+    }
+    number FineLavenderJerrie {
+    }
+    dummy.FortunateMoccasinGiorgia ColourfulChocolateNicol {
+    }
+    dummy.AnnoyedBlushBinni HungryCrimsonKerrill {
+    }
+    number ThickRoseBonni {
+    }
+    dummy.HotYellowMeagan SeniorGoldJoyan {
+    }
+    dummy.ParticularPurpleOfilia PurringOrangeSher {
+    }
+    boolean WonderfulTomatoJaneva {
+    }
+    dummy.PreciousVioletAnnabelle LoyalBrownEmalee {
+    }
+    dummy.PreciousVioletAnnabelle NiceMaroonRois {
+    }
+    json MolecularPeachFanni {
+    }
+  }
+  InjuredCrimsonDania = file("LoyalIndigoMarys.txt")
+  DependentOliveBab = true
+  InterimGoldKira = "Dad Im hungry  Hi hungry Im dad"
+  MightyPlumLorianne = "To be Frank, I'd have to change my name."
+  DistinguishedBlackTarra = "Im only familiar with 25 letters in the English language. I dont know why."
+  FineLavenderJerrie = 725
+  HungryCrimsonKerrill = file("ElectricScarletArdeen.txt")
+  ThickRoseBonni = 430
+  SeniorGoldJoyan = file("WetJadeLina.txt")
+  PurringOrangeSher = true
+  WonderfulTomatoJaneva = true
+  LoyalBrownEmalee = file("FederalTurquoiseAbagael.txt")
+  NiceMaroonRois = file("AdverseBlueAnna.txt")
+  MolecularPeachFanni = "Dad Im hungry  Hi hungry Im dad"
+}

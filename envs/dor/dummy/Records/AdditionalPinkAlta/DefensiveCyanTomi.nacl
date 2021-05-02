@@ -1,0 +1,119 @@
+dummy.AdditionalPinkAlta DefensiveCyanTomi {
+  UnitedSilverFrederique = 246
+  ComingCoffeeDoretta = 582
+  NewPurpleBetteanne = 809
+  BurningAmaranthCourtney = {
+    ConcernedSapphireDeanna = 557
+    DisgustedCopperCaril = 693
+    OverallLavenderBrett = "What do you do on a remote island? Try and find the TV island it belongs to."
+    DifficultLavenderHildegarde = 21
+  }
+  SparklingTurquoiseDrusi = "Why didnt the skeleton cross the road? Because he had no guts."
+  ProposedCoffeeCacilie = {
+    ElectronicGoldBabb = "Did you know that protons have mass? I didn't even know they were catholic."
+  }
+  StrongGreenMaurizia = true
+  FaintGoldXylia = 780
+  FuzzyScarletNesta = file("ZanySilverInge.txt")
+  BizarreBrownDoe = [
+    {
+      FreePeachBelicia = false
+    },
+    {
+      FreePeachBelicia = true
+    },
+    {
+      FreePeachBelicia = false
+    },
+    {
+      FreePeachBelicia = true
+    },
+    {
+      FreePeachBelicia = false
+    },
+    {
+      FreePeachBelicia = false
+    },
+    {
+      FreePeachBelicia = true
+    },
+    {
+      FreePeachBelicia = false
+    },
+    {
+      FreePeachBelicia = false
+    },
+  ]
+  HungryAquaMargarete = file("FutureIndigoChad.txt")
+  AliveHarlequinRoberta = "Why was it called the dark ages? Because of all the knights. "
+  AcceptableTomatoSusanna = file("MoaningYellowHyacinthe.txt")
+  CurvedApricotRonnie = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  HolySapphireCassy = "Did you know that protons have mass? I didn't even know they were catholic."
+  CondemnedPinkSissy = 221
+  InstantOrangeLane = file("DesirablePlumEleen.txt")
+  AlertAquamarineHayley = 750
+  JuicyWhiteDacy = {
+    LatinWhiteDaffi = "Im only familiar with 25 letters in the English language. I dont know why."
+    SubsequentTomatoSimonette = true
+    BrokenHarlequinTatum = [
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+    ]
+    UnawareChocolateHeloise = file("RainyBlackValentina.txt")
+    StrikingIndigoAnjela = 691
+    WorriedTanLib = 290
+    SoundLavenderVikky = file("IndependentTealGeorgeanna.txt")
+    SteepCopperCherilyn = "Why didnt the skeleton cross the road? Because he had no guts."
+    RainyCoffeeAntonella = file("ComfortableCoffeePippa.txt")
+    InadequateLimeOralle = 535
+    WidespreadCoffeeAilene = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    ViolentCoffeeDamita = file("SuspiciousBeigeCarlene.txt")
+    WoodenBrownCoraline = "What do you call two barracuda fish?  A Pairacuda!"
+    SorryBronzeMady = "Why didnt the skeleton cross the road? Because he had no guts."
+    JointScarletLesly = false
+  }
+  PolitePinkErika = file("CommonBronzeDavine.txt")
+  SelectiveGreenLaurene = 7
+  ArtisticAmaranthAdina = [
+    true,
+    true,
+    true,
+    true,
+  ]
+  GlobalHarlequinKristine = file("DeliciousTurquoiseTaryn.txt")
+  WesternPeachMartita = file("LittleSapphireDonnamarie.txt")
+  ConvenientPeachMaitilde = false
+  AustralianBrownElisabet = {
+    CleanCoralIdalina = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  }
+  EmbarrassedOrangeTabbatha = {
+    CrazyMaroonCaterina = true
+    PetiteAzureDayna = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    BigCyanAloysia = false
+    ConcernedTomatoValencia = "What do you call two barracuda fish?  A Pairacuda!"
+    OverallChocolateLoise = file("RealCoffeeYovonnda.txt")
+    LongTurquoiseTabbatha = "My first time using an elevator was an uplifting experience. The second time let me down."
+    BlueBeigeJulietta = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    WillingBlushPandora = file("DirtyAmberCherye.txt")
+    FavourableGreenElicia = false
+    DailyBlackCharyl = true
+    GiantSalmonCorny = file("HelplessWhitePaola.txt")
+    LoudAzureDulce = "Why did the tomato blush? Because it saw the salad dressing."
+    GeneralBrownPetronille = false
+  }
+  FinalPinkRina = file("SufficientAquaSeline.txt")
+  ForthcomingPurpleKathryne = "What do you call two barracuda fish?  A Pairacuda!"
+  _parent = dummy.PurringLavenderMarietta
+}

@@ -1,0 +1,67 @@
+type dummy.MassiveCoffeeShaylynn {
+  annotations {
+    string LinguisticHarlequinClarabelle {
+    }
+    serviceid UnexpectedIvoryRayna {
+    }
+    string RepulsiveMoccasinLorena {
+    }
+    dummy.PreciousVioletAnnabelle DullBronzeCollette {
+    }
+    dummy.PreciousVioletAnnabelle QuaintTurquoiseTansy {
+    }
+    serviceid PowerfulAquaGaye {
+    }
+    dummy.PreciousVioletAnnabelle ProposedGoldAmabel {
+    }
+    boolean IsraeliPurpleJoann {
+    }
+    dummy.HotYellowMeagan PeacefulGrayElectra {
+    }
+    json CriminalIvoryMarline {
+    }
+    dummy.PromisingMagentaDemeter EnormousPinkElbertine {
+    }
+    dummy.HighSapphireAuria ElectronicOrangeIris {
+    }
+    json OccasionalRedFredra {
+    }
+    dummy.NovelApricotWallie BlankOrangeSileas {
+    }
+    dummy.KoreanTurquoiseJeannie ScatteredSalmonLiuka {
+    }
+    string NarrowFuchsiaPersis {
+    }
+    dummy.NiceBrownHoney SillyOrangeNessa {
+    }
+    serviceid EffectiveEmeraldSelene {
+    }
+    boolean SheerVioletKerrin {
+    }
+    dummy.KoreanTurquoiseJeannie BrightIvoryBendite {
+    }
+    dummy.GreatTomatoHarlene ConfusedBrownCrystal {
+    }
+    dummy.UnconsciousCoffeeStarlin NosyAquamarineRosemaria {
+    }
+  }
+  LinguisticHarlequinClarabelle = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  UnexpectedIvoryRayna = "Why did the tomato blush? Because it saw the salad dressing."
+  RepulsiveMoccasinLorena = "Why is Peter Pan always flying? Because he Neverlands."
+  DullBronzeCollette = file("TinyAquaHesther.txt")
+  QuaintTurquoiseTansy = file("PrincipalAmaranthUla.txt")
+  PowerfulAquaGaye = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  ProposedGoldAmabel = file("DisturbedIndigoAmandie.txt")
+  IsraeliPurpleJoann = false
+  PeacefulGrayElectra = file("EfficientCrimsonMadalyn.txt")
+  CriminalIvoryMarline = "To be Frank, I'd have to change my name."
+  EnormousPinkElbertine = file("OriginalCyanRobena.txt")
+  OccasionalRedFredra = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  BlankOrangeSileas = 610
+  ScatteredSalmonLiuka = file("AncientHarlequinMolly.txt")
+  NarrowFuchsiaPersis = "What creature is smarter than a talking parrot? A spelling bee."
+  SillyOrangeNessa = true
+  EffectiveEmeraldSelene = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  SheerVioletKerrin = true
+  BrightIvoryBendite = file("RomanYellowJenine.txt")
+}

@@ -1,0 +1,55 @@
+type dummy.SeriousChocolateGertrud {
+  annotations {
+    json UglyRedAnalise {
+    }
+    dummy.GrimCopperRanna BalancedLimeLynette {
+    }
+    serviceid FreshChocolateCarrie {
+    }
+    boolean GrimAquaGloria {
+    }
+    dummy.PreciousVioletAnnabelle LivelyApricotMatilde {
+    }
+    dummy.AmazingTealOlympia MiddleSalmonDulci {
+    }
+    string ConvincedCrimsonCeil {
+    }
+    string SmartCyanMeghan {
+    }
+    dummy.PerfectOrangeEmmalyn CleanYellowAigneis {
+    }
+    dummy.KoreanTurquoiseJeannie SquealingIvoryMady {
+    }
+    number HarshGoldDeb {
+    }
+    dummy.IntellectualAmethystNetty DivineLavenderDonni {
+    }
+    dummy.IntellectualAmethystNetty ProfitableBlueRona {
+    }
+    number HardTurquoiseMaisie {
+    }
+    boolean CompleteApricotNancee {
+    }
+    dummy.LongTomatoMartha EagerCrimsonDodi {
+    }
+    serviceid DistantPeachNettie {
+    }
+    number FundamentalIvoryMellisent {
+    }
+  }
+  UglyRedAnalise = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  FreshChocolateCarrie = "Why did the kid cross the playground? To get to the other slide."
+  GrimAquaGloria = false
+  LivelyApricotMatilde = file("FriendlyBrownFenelia.txt")
+  MiddleSalmonDulci = file("ObviousMagentaChristel.txt")
+  ConvincedCrimsonCeil = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  SmartCyanMeghan = "What do you call two barracuda fish?  A Pairacuda!"
+  SquealingIvoryMady = file("HuskyMaroonPauline.txt")
+  HarshGoldDeb = 572
+  DivineLavenderDonni = file("LonelyOliveLeah.txt")
+  ProfitableBlueRona = file("UnacceptableWhiteHelge.txt")
+  HardTurquoiseMaisie = 376
+  CompleteApricotNancee = false
+  DistantPeachNettie = "Slept like a log last night  woke up in the fireplace."
+  FundamentalIvoryMellisent = 231
+}

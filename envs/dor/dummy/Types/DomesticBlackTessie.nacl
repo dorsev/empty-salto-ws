@@ -1,0 +1,22 @@
+type dummy.DomesticBlackTessie {
+  annotations {
+    dummy.AmazingTealOlympia TinyScarletBambi {
+    }
+    dummy.RomanticAmberYalonda LightAmberBertie {
+    }
+    dummy.AmbitiousAmberBrigit RandomHarlequinMarnia {
+    }
+    dummy.PromisingMagentaDemeter LittleGoldKoren {
+    }
+    dummy.KoreanTurquoiseJeannie BrokenCopperFlorentia {
+    }
+  }
+  boolean FarBeigeAdi {
+  }
+  TinyScarletBambi = file("AnnoyedGreenRebeca.txt")
+  LightAmberBertie = file("ElderlyPlumClaribel.txt")
+  RandomHarlequinMarnia = file("GastricLavenderIsabelita.txt")
+  LittleGoldKoren = file("MutualChocolateGilda.txt")
+  BrokenCopperFlorentia = file("HuskyScarletNariko.txt")
+  _hidden_value = true
+}

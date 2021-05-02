@@ -1,0 +1,33 @@
+dummy.ModernOrangeKrystal RuralJadeTimmie {
+  ExtensiveCyanJade = 231
+  ProperRedHarmonie = true
+  BlankPeachFrances = [
+    file("UsualAquaEmmeline.txt"),
+    file("ValuableBeigeJaney.txt"),
+    file("LogicalWhiteCamilla.txt"),
+    file("DeliciousBlackNinnetta.txt"),
+    file("AppropriateIvoryCamilla.txt"),
+    file("ChiefLimePandora.txt"),
+    file("FunFuchsiaAvivah.txt"),
+    file("OutdoorYellowSelle.txt"),
+    file("ArchitecturalBlushLezlie.txt"),
+  ]
+  NursingCrimsonCayla = 183
+  VitalBrownErmentrude = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  StandardOliveBasia = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ManagerialWhiteAlia = "Dad Im hungry  Hi hungry Im dad"
+  StatutoryAmberAmandy = "What creature is smarter than a talking parrot? A spelling bee."
+  ValuableBrownGratiana = false
+  TremendousAmethystTheressa = 902
+  ModerateFuchsiaTrude = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  IntenseBeigeCathrin = "Im only familiar with 25 letters in the English language. I dont know why."
+  SteadyAquamarineMartynne = "Slept like a log last night  woke up in the fireplace."
+  LovelyAquamarineNola = file("NaughtyGrayBernete.txt")
+  MentalTomatoMariejeanne = 678
+  LightGoldJacklyn = false
+  OverallGoldElladine = true
+  DoubtfulIvoryRoxie = file("WealthyAmaranthJeane.txt")
+  PeacefulPeachMarjy = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  SickBlushTarra = file("NeutralChocolateValerie.txt")
+  _parent = dummy.MagicMaroonPhilippa
+}

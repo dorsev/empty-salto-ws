@@ -1,0 +1,50 @@
+type dummy.PunyAquaCelie {
+  annotations {
+    serviceid InherentWhiteTimmy {
+    }
+    number NumerousOrangeFawn {
+    }
+    json LateBlackWinifred {
+    }
+    boolean BigBeigeRegan {
+    }
+    serviceid WorthyMaroonStepha {
+    }
+    dummy.OrganisationalVioletCharmion LivelyEmeraldKissie {
+    }
+    number ManagerialOliveRoch {
+    }
+    serviceid RemarkableCrimsonDarda {
+    }
+    string TopAmberShirlene {
+    }
+    dummy.ShallowPlumJenda PrincipalGraySharia {
+    }
+    dummy.PersonalAquaCoriss ValuableBlueMyrna {
+    }
+    dummy.RomanticAmberYalonda PanickySilverRania {
+    }
+    dummy.SurvivingTanOlivia ComplicatedAmberBlancha {
+    }
+    dummy.OrganisationalVioletCharmion AutomaticCoffeeLicha {
+    }
+    boolean HappyTurquoiseRosamund {
+    }
+    string SorryCyanKatti {
+    }
+  }
+  InherentWhiteTimmy = "My first time using an elevator was an uplifting experience. The second time let me down."
+  NumerousOrangeFawn = 311
+  LateBlackWinifred = "Did you know that protons have mass? I didn't even know they were catholic."
+  BigBeigeRegan = true
+  WorthyMaroonStepha = "Why did the kid cross the playground? To get to the other slide."
+  LivelyEmeraldKissie = true
+  ManagerialOliveRoch = 817
+  RemarkableCrimsonDarda = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  TopAmberShirlene = "Why is Peter Pan always flying? Because he Neverlands."
+  PrincipalGraySharia = true
+  PanickySilverRania = file("MeltedYellowMartie.txt")
+  AutomaticCoffeeLicha = true
+  HappyTurquoiseRosamund = true
+  SorryCyanKatti = "Why was it called the dark ages? Because of all the knights. "
+}

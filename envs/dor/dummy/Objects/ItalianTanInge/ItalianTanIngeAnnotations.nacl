@@ -1,0 +1,57 @@
+type dummy.ItalianTanInge {
+  annotations {
+    dummy.OrganisationalVioletCharmion UrbanEmeraldCari {
+    }
+    string GoodBlushArabel {
+    }
+    dummy.IntellectualAmethystNetty SkilledBeigeElita {
+    }
+    dummy.SoftRedPrisca WetRedGuillema {
+    }
+    dummy.PassiveMaroonBarbi BusyPlumMargaret {
+    }
+    dummy.HorizontalAquamarineConstantine LiberalMaroonBenni {
+    }
+    dummy.ColouredChocolateMinerva CivilianApricotTiffany {
+    }
+    dummy.AggregateTurquoiseMeg WeeklyAquaFiorenze {
+    }
+    dummy.KoreanTurquoiseJeannie PhysicalYellowMaude {
+    }
+    serviceid DarkAmethystMyrlene {
+    }
+    string IdeologicalCoffeeFlorry {
+    }
+    dummy.PerfectOrangeEmmalyn ProtestantMaroonJenny {
+    }
+    serviceid SkinnyAmethystBenita {
+    }
+    string GrubbyBlueJuieta {
+    }
+    dummy.PassiveMaroonBarbi FranticMoccasinKippie {
+    }
+    dummy.MinisterialMoccasinCeleste TastelessSapphireSue {
+    }
+    serviceid InnocentAmberDeni {
+    }
+    serviceid PositiveOrangeGabriellia {
+    }
+    json RipeHarlequinDebor {
+    }
+    boolean VitalSalmonBeryle {
+    }
+  }
+  UrbanEmeraldCari = true
+  GoodBlushArabel = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  SkilledBeigeElita = file("DrabChocolateHulda.txt")
+  WeeklyAquaFiorenze = 506
+  PhysicalYellowMaude = file("BurningScarletDelphinia.txt")
+  DarkAmethystMyrlene = "Why did the tomato blush? Because it saw the salad dressing."
+  IdeologicalCoffeeFlorry = "To be Frank, I'd have to change my name."
+  SkinnyAmethystBenita = "Dad Im hungry  Hi hungry Im dad"
+  GrubbyBlueJuieta = "Why did the kid cross the playground? To get to the other slide."
+  InnocentAmberDeni = "Why do birds fly south for the winter? Because it's too far to walk."
+  PositiveOrangeGabriellia = "Why did the kid cross the playground? To get to the other slide."
+  RipeHarlequinDebor = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  VitalSalmonBeryle = true
+}

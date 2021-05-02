@@ -1,0 +1,22 @@
+type dummy.ElatedTomatoAgna {
+  annotations {
+    dummy.LesserOliveAndie SadSapphireIbby {
+    }
+    dummy.AmazingTealOlympia ConvenientPlumMarilyn {
+    }
+    dummy.JapaneseCoralRodina EnormousScarletMerilee {
+    }
+    dummy.ArrogantSapphireDaphna EnergeticCopperSaudra {
+    }
+    string TallPurpleLeonora {
+    }
+  }
+  string OddGreenJennifer {
+  }
+  SadSapphireIbby = file("AverageAquamarineCosetta.txt")
+  ConvenientPlumMarilyn = file("FavouriteTealCara.txt")
+  EnormousScarletMerilee = true
+  EnergeticCopperSaudra = true
+  TallPurpleLeonora = "To be Frank, I'd have to change my name."
+  _hidden_value = true
+}

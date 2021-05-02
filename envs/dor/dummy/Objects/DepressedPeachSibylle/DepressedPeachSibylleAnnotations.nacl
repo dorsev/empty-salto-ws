@@ -1,0 +1,61 @@
+type dummy.DepressedPeachSibylle {
+  annotations {
+    dummy.AmbitiousAmberBrigit ExperimentalTurquoiseMira {
+    }
+    boolean WeeklyBeigeJeane {
+    }
+    dummy.WrittenFuchsiaBeverly HarshBlueLurette {
+    }
+    boolean RegulatoryLavenderClerissa {
+    }
+    serviceid InnocentAmaranthJonie {
+    }
+    string MelodicAmethystJeannine {
+    }
+    dummy.IntellectualAmethystNetty StrangeAmethystNatala {
+    }
+    dummy.PreciousVioletAnnabelle SurprisedLimeKippy {
+    }
+    dummy.OrganisationalVioletCharmion DeepAmberSherill {
+    }
+    number HilariousBrownMinny {
+    }
+    boolean MoaningYellowAmity {
+    }
+    string ThoughtlessPurpleWinni {
+    }
+    string OpenAmethystGunilla {
+    }
+    string ClassicalSalmonWandie {
+    }
+    number ShinyCrimsonAngela {
+    }
+    dummy.JapaneseCoralRodina BrainyTurquoiseNadeen {
+    }
+    serviceid ExcitedCyanGilligan {
+    }
+    number ClumsyGoldMegan {
+    }
+    json ShortChocolateJilleen {
+    }
+  }
+  ExperimentalTurquoiseMira = file("ApplicableMaroonMarget.txt")
+  WeeklyBeigeJeane = true
+  HarshBlueLurette = 611
+  RegulatoryLavenderClerissa = true
+  InnocentAmaranthJonie = "Slept like a log last night  woke up in the fireplace."
+  MelodicAmethystJeannine = "Why do birds fly south for the winter? Because it's too far to walk."
+  StrangeAmethystNatala = file("BigHarlequinKandace.txt")
+  SurprisedLimeKippy = file("TallApricotAntonella.txt")
+  DeepAmberSherill = true
+  HilariousBrownMinny = 879
+  MoaningYellowAmity = false
+  ThoughtlessPurpleWinni = "Why do birds fly south for the winter? Because it's too far to walk."
+  OpenAmethystGunilla = "Im only familiar with 25 letters in the English language. I dont know why."
+  ClassicalSalmonWandie = "Dad Im hungry  Hi hungry Im dad"
+  ShinyCrimsonAngela = 691
+  BrainyTurquoiseNadeen = true
+  ExcitedCyanGilligan = "Why did the tomato blush? Because it saw the salad dressing."
+  ClumsyGoldMegan = 302
+  ShortChocolateJilleen = "What creature is smarter than a talking parrot? A spelling bee."
+}

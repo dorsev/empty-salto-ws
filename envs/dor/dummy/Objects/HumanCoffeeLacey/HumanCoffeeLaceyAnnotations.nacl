@@ -1,0 +1,64 @@
+type dummy.HumanCoffeeLacey {
+  annotations {
+    dummy.PreciousVioletAnnabelle DistinctIndigoBarbette {
+    }
+    json AbundantCyanAnnabal {
+    }
+    number EmptyJadeAnnabal {
+    }
+    serviceid PowerfulSalmonMathilde {
+    }
+    dummy.OrganisationalVioletCharmion CoolOrangeMichaela {
+    }
+    dummy.WrittenAzureLizabeth WeakBrownLavina {
+    }
+    boolean SweetGoldKalinda {
+    }
+    dummy.AmazingTealOlympia MaleMaroonJobyna {
+    }
+    dummy.RomanticAmberYalonda UnacceptablePinkLinnet {
+    }
+    serviceid GrotesqueVioletClareta {
+    }
+    dummy.RomanticAmberYalonda ShockedAmethystCherise {
+    }
+    boolean ForthcomingRedStefanie {
+    }
+    serviceid NotableAquamarineJerrie {
+    }
+    dummy.ControlledJadeHadria OralGoldBuffy {
+    }
+    serviceid SupportingGrayPepita {
+    }
+    number CheerfulTurquoiseValli {
+    }
+    serviceid ParticularGrayPansy {
+    }
+    dummy.AmbitiousAmberBrigit QuickGreenWindy {
+    }
+    number ClinicalPurpleDahlia {
+    }
+    string InterimAquaMonika {
+    }
+  }
+  DistinctIndigoBarbette = file("DevelopedGreenAmelia.txt")
+  AbundantCyanAnnabal = "Why did the tomato blush? Because it saw the salad dressing."
+  EmptyJadeAnnabal = 328
+  PowerfulSalmonMathilde = "Why did the tomato blush? Because it saw the salad dressing."
+  CoolOrangeMichaela = true
+  WeakBrownLavina = false
+  SweetGoldKalinda = false
+  MaleMaroonJobyna = file("ComparativeChocolateGwyneth.txt")
+  UnacceptablePinkLinnet = file("RomanAmberKanya.txt")
+  GrotesqueVioletClareta = "A steak pun is a rare medium well done."
+  ShockedAmethystCherise = file("ResidentialScarletBobbye.txt")
+  ForthcomingRedStefanie = false
+  NotableAquamarineJerrie = "Whoever invented the knock-knock joke should get a no bell prize."
+  OralGoldBuffy = file("AwfulPinkPaige.txt")
+  SupportingGrayPepita = "Did you know that protons have mass? I didn't even know they were catholic."
+  CheerfulTurquoiseValli = 511
+  ParticularGrayPansy = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  QuickGreenWindy = file("RedChocolateAtalanta.txt")
+  ClinicalPurpleDahlia = 396
+  InterimAquaMonika = "Did you hear the joke about the wandering nun? She was a roman catholic."
+}

@@ -1,0 +1,29 @@
+type dummy.HollowIvoryAlie {
+  annotations {
+    dummy.PuzzledPurpleBlinni ComprehensiveIvorySaraann {
+    }
+    dummy.DEFAULT RichAquaSheila {
+    }
+    dummy.ParticularPurpleOfilia InstantTanAshely {
+    }
+    string HungryTealAurelia {
+    }
+  }
+  dummy.NovelApricotWallie BloodyCyanCaye {
+    NeutralJadeRoseann = "A steak pun is a rare medium well done."
+    SoftMagentaKris = "Why is Peter Pan always flying? Because he Neverlands."
+    DeterminedTomatoViolante = true
+    IntermediateEmeraldJanine = false
+    CorporateAquamarineMary = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    InterimCoralEtti = "Did you know that protons have mass? I didn't even know they were catholic."
+    SmoothMaroonOlenka = 834
+    PeacefulAmaranthRicca = file("FuzzyBlackGusty.txt")
+    LightGreenHestia = file("UsualBlackKristi.txt")
+  }
+  RichAquaSheila = {
+    legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  }
+  InstantTanAshely = false
+  HungryTealAurelia = "Why is Peter Pan always flying? Because he Neverlands."
+  _hidden_value = true
+}

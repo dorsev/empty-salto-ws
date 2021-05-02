@@ -1,0 +1,28 @@
+type dummy.TenseAquaCandra {
+  annotations {
+    dummy.AmazingTealOlympia ObjectiveGrayErin {
+    }
+    serviceid ExclusiveAquaKaron {
+    }
+    boolean ProudMoccasinKaty {
+    }
+    dummy.NiceBrownHoney UnevenVioletJoceline {
+    }
+    string ZanyMaroonArliene {
+    }
+  }
+  dummy.GreatTomatoHarlene WorthwhilePlumSimonette {
+    MarineTurquoiseValerie = true
+    AbundantBronzeBrinna = "Did you know that protons have mass? I didn't even know they were catholic."
+    ExplicitYellowGilli = true
+    HealthyCoffeeMerrili = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    NoisyScarletAlyse = file("OtherGrayBettye.txt")
+    StickyAquamarineMargalit = "My first time using an elevator was an uplifting experience. The second time let me down."
+  }
+  ObjectiveGrayErin = file("ScrawnyAmaranthLeonie.txt")
+  ExclusiveAquaKaron = "Why was it called the dark ages? Because of all the knights. "
+  ProudMoccasinKaty = true
+  UnevenVioletJoceline = false
+  ZanyMaroonArliene = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  _hidden_value = true
+}

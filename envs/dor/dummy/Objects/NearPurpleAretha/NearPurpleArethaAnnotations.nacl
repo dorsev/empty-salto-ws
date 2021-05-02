@@ -1,0 +1,62 @@
+type dummy.NearPurpleAretha {
+  annotations {
+    dummy.OrganisationalVioletCharmion UnableHarlequinArlyne {
+    }
+    number ChubbyGoldBenedetta {
+    }
+    dummy.ParentalBronzeLisette CrucialCoffeeMaris {
+    }
+    dummy.HotYellowMeagan MagnificentCoffeeMichel {
+    }
+    dummy.SurvivingTanOlivia DecisiveMaroonJenica {
+    }
+    string FriendlyBlushGermana {
+    }
+    json BetterAquaMelony {
+    }
+    string VisitingCrimsonJanifer {
+    }
+    serviceid TanOrangeBlondell {
+    }
+    number FixedGoldPenny {
+    }
+    number PossibleFuchsiaLinea {
+    }
+    dummy.SurvivingTanOlivia IrrelevantOliveAlaine {
+    }
+    dummy.AmbitiousAmberBrigit FoolishAmaranthCristin {
+    }
+    dummy.AcceptedAquamarineAlmira VaryingTomatoBrittany {
+    }
+    dummy.DEFAULT RealisticRedMorganne {
+    }
+    dummy.IntellectualAmethystNetty AwareChocolateNikoletta {
+    }
+    dummy.ArrogantSapphireDaphna LiableAmaranthViolante {
+    }
+    json DistinguishedRedPet {
+    }
+    number IntenseAmberJeanine {
+    }
+    serviceid MinisterialJadeAveline {
+    }
+  }
+  UnableHarlequinArlyne = false
+  ChubbyGoldBenedetta = 53
+  MagnificentCoffeeMichel = file("LightPlumNatassia.txt")
+  FriendlyBlushGermana = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  BetterAquaMelony = "What did one nut say as he chased another nut?  I'm a cashew!"
+  VisitingCrimsonJanifer = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  TanOrangeBlondell = "Slept like a log last night  woke up in the fireplace."
+  FixedGoldPenny = 44
+  PossibleFuchsiaLinea = 72
+  FoolishAmaranthCristin = file("UpsetCrimsonRochell.txt")
+  RealisticRedMorganne = {
+    legit = "Why did the kid cross the playground? To get to the other slide."
+  }
+  AwareChocolateNikoletta = file("DarkYellowMeghan.txt")
+  LiableAmaranthViolante = true
+  DistinguishedRedPet = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  IntenseAmberJeanine = 803
+  MinisterialJadeAveline = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+}

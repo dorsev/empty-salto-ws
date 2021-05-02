@@ -1,0 +1,25 @@
+type dummy.RigidBeigeTeddy {
+  annotations {
+    json BreakablePeachChloette {
+    }
+    number CompetitiveGreenMellicent {
+    }
+    dummy.AmazingTealOlympia TerribleScarletErnesta {
+    }
+    string EverydayEmeraldVinita {
+    }
+    serviceid LivingGoldMaye {
+    }
+    boolean GracefulRedAlicia {
+    }
+  }
+  string CarefulBlushBertina {
+  }
+  BreakablePeachChloette = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  CompetitiveGreenMellicent = 778
+  TerribleScarletErnesta = file("ElatedMoccasinPersis.txt")
+  EverydayEmeraldVinita = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  LivingGoldMaye = "Did you know that protons have mass? I didn't even know they were catholic."
+  GracefulRedAlicia = true
+  _hidden_value = true
+}

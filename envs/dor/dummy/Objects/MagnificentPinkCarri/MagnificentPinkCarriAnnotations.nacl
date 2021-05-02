@@ -1,0 +1,63 @@
+type dummy.MagnificentPinkCarri {
+  annotations {
+    serviceid SourSilverPhilipa {
+    }
+    number BeautifulPinkRebe {
+    }
+    dummy.AmazingTealOlympia NuclearJadeBeryle {
+    }
+    serviceid WeakBlushMaitilde {
+    }
+    dummy.NiceBrownHoney StandardHarlequinFlori {
+    }
+    json IntimateCyanAtlante {
+    }
+    json GreatCoffeeMarylinda {
+    }
+    serviceid DefiniteMaroonGoldie {
+    }
+    dummy.AnnoyedBlushBinni ParticularAquaJazmin {
+    }
+    serviceid StraightforwardPurpleJocelyne {
+    }
+    dummy.AmazingTealOlympia MysteriousTealHildagard {
+    }
+    string TheoreticalIndigoDaffi {
+    }
+    dummy.LargePurpleMaryrose SharpMaroonLiza {
+    }
+    json ClassicalPinkNadya {
+    }
+    number SillyCoffeeStacy {
+    }
+    dummy.ColouredChocolateMinerva ToryTurquoiseEllie {
+    }
+    dummy.ClosedCoralShayna RunningChocolateStefanie {
+    }
+    dummy.LargePurpleMaryrose UselessBlueEustacia {
+    }
+    dummy.IndependentPinkCatha SilentMoccasinAurelea {
+    }
+    string CompulsoryGreenJillane {
+    }
+  }
+  SourSilverPhilipa = "Slept like a log last night  woke up in the fireplace."
+  BeautifulPinkRebe = 444
+  NuclearJadeBeryle = file("DevotedGreenAlix.txt")
+  WeakBlushMaitilde = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  StandardHarlequinFlori = true
+  IntimateCyanAtlante = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  GreatCoffeeMarylinda = "Why do birds fly south for the winter? Because it's too far to walk."
+  DefiniteMaroonGoldie = "Slept like a log last night  woke up in the fireplace."
+  ParticularAquaJazmin = file("PrivateSapphireArdelle.txt")
+  StraightforwardPurpleJocelyne = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  MysteriousTealHildagard = file("SillyBlueBebe.txt")
+  TheoreticalIndigoDaffi = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  SharpMaroonLiza = 689
+  ClassicalPinkNadya = "Slept like a log last night  woke up in the fireplace."
+  SillyCoffeeStacy = 61
+  RunningChocolateStefanie = 717
+  UselessBlueEustacia = 587
+  SilentMoccasinAurelea = true
+  CompulsoryGreenJillane = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+}

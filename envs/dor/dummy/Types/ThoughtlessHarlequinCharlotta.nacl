@@ -1,0 +1,23 @@
+type dummy.ThoughtlessHarlequinCharlotta {
+  annotations {
+    serviceid BottomCrimsonMargaretta {
+    }
+    boolean BrainyBlushNan {
+    }
+    json MaximumYellowVeronica {
+    }
+    number EmbarrassingMoccasinGeraldine {
+    }
+  }
+  dummy.RomanticAmberYalonda HollowBrownAnica {
+    BiologicalEmeraldAaren = false
+    GoldenWhiteKarin = false
+    NeutralPinkDolores = false
+    FuzzyAquaJenilee = 731
+  }
+  BottomCrimsonMargaretta = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  BrainyBlushNan = false
+  MaximumYellowVeronica = "What did one nut say as he chased another nut?  I'm a cashew!"
+  EmbarrassingMoccasinGeraldine = 344
+  _hidden_value = true
+}

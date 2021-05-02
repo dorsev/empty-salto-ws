@@ -1,0 +1,28 @@
+type dummy.TerritorialTealCelestine {
+  annotations {
+    json CircularOliveShanon {
+    }
+    dummy.ParticularPurpleOfilia NarrowTealCindie {
+    }
+    json BottomWhiteAshia {
+    }
+    dummy.KoreanTurquoiseJeannie GothicWhiteRickie {
+    }
+    string TopCrimsonTracy {
+    }
+    number AsianBlueHarriett {
+    }
+    serviceid PuzzledBlackKalli {
+    }
+  }
+  string ShyCoffeeLorraine {
+  }
+  CircularOliveShanon = "What do you do on a remote island? Try and find the TV island it belongs to."
+  NarrowTealCindie = true
+  BottomWhiteAshia = "Why is Peter Pan always flying? Because he Neverlands."
+  GothicWhiteRickie = file("ModeratePlumMarie.txt")
+  TopCrimsonTracy = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  AsianBlueHarriett = 96
+  PuzzledBlackKalli = "Im only familiar with 25 letters in the English language. I dont know why."
+  _hidden_value = true
+}

@@ -1,0 +1,69 @@
+type dummy.CertainMagentaKorie {
+  annotations {
+    serviceid DustyBeigeDawn {
+    }
+    string PresentHarlequinImelda {
+    }
+    json PopularGrayRenate {
+    }
+    dummy.PreciousVioletAnnabelle OkScarletQuintilla {
+    }
+    number ModerateCyanLeesa {
+    }
+    dummy.StatisticalLimeMalvina NoisyMoccasinStoddard {
+    }
+    dummy.JapaneseCoralRodina EthicalRedNadean {
+    }
+    dummy.AmbitiousAmberBrigit SadLimeEleen {
+    }
+    dummy.ParentalBronzeLisette ScornfulChocolateCharyl {
+    }
+    dummy.NuclearAquamarineMaurise MinisterialGrayElinore {
+    }
+    dummy.OverwhelmingAmberGrazia KindIndigoGilemette {
+    }
+    json EnergeticSalmonNeysa {
+    }
+    number NervousScarletBibby {
+    }
+    string UglyAquamarineVilhelmina {
+    }
+    dummy.NoisyMagentaJobey SkinnySapphireAlvira {
+    }
+    boolean FaintAquaJo {
+    }
+    dummy.RapidBlueJacquenette RetailTomatoVivienne {
+    }
+    dummy.IntellectualAmethystNetty InstitutionalVioletRuby {
+    }
+    dummy.AmazingTealOlympia UniqueOrangeNicki {
+    }
+    dummy.IntegratedMoccasinClarissa SensitiveAmethystAbigale {
+    }
+    number DeliciousBronzeChristye {
+    }
+    dummy.ZanyMagentaCatrina HeadHarlequinJosie {
+    }
+  }
+  DustyBeigeDawn = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  PresentHarlequinImelda = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  PopularGrayRenate = "What do you call two barracuda fish?  A Pairacuda!"
+  OkScarletQuintilla = file("DearBlueLee.txt")
+  ModerateCyanLeesa = 698
+  EthicalRedNadean = false
+  SadLimeEleen = file("CautiousYellowKissee.txt")
+  EnergeticSalmonNeysa = "Whoever invented the knock-knock joke should get a no bell prize."
+  NervousScarletBibby = 749
+  UglyAquamarineVilhelmina = "Slept like a log last night  woke up in the fireplace."
+  SkinnySapphireAlvira = 129
+  FaintAquaJo = false
+  InstitutionalVioletRuby = file("CuddlyVioletCaroline.txt")
+  UniqueOrangeNicki = file("ProbableCopperShae.txt")
+  SensitiveAmethystAbigale = 204
+  DeliciousBronzeChristye = 764
+  HeadHarlequinJosie = {
+    ApplicableOliveRobbie = false
+    DisturbedPlumLetti = "Dad Im hungry  Hi hungry Im dad"
+    SolidGoldJocelin = true
+  }
+}

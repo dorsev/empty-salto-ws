@@ -1,0 +1,64 @@
+type dummy.NeutralHarlequinEssy {
+  annotations {
+    dummy.ParticularPurpleOfilia EthicalCoffeeJo {
+    }
+    dummy.IndependentPinkCatha AddedAmberNeysa {
+    }
+    dummy.AmazingTealOlympia TechnicalEmeraldRaye {
+    }
+    json OrdinaryScarletAlana {
+    }
+    string OpenChocolateCathleen {
+    }
+    number VeryEmeraldPatrice {
+    }
+    boolean DangerousIndigoCarol {
+    }
+    serviceid FastJadeGwenny {
+    }
+    dummy.MaleOrangeJunie TrickyTanHelenka {
+    }
+    dummy.NovelApricotWallie OpenEmeraldWaneta {
+    }
+    json EverydayAmberCathlene {
+    }
+    dummy.IndependentPinkCatha KindPeachAlessandra {
+    }
+    dummy.NiceBrownHoney CertainPinkRiannon {
+    }
+    dummy.IndependentPinkCatha FamousYellowSteffi {
+    }
+    dummy.AmazingTealOlympia SunnyRoseJeri {
+    }
+    boolean HilariousJadeCollete {
+    }
+    number ClumsyRedBryn {
+    }
+    string BurningBeigeArabella {
+    }
+    dummy.InherentCrimsonKamilah EmotionalAmethystPortia {
+    }
+    serviceid JewishBlushDanni {
+    }
+  }
+  EthicalCoffeeJo = true
+  AddedAmberNeysa = true
+  TechnicalEmeraldRaye = file("SquareAmberCarlee.txt")
+  OrdinaryScarletAlana = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  OpenChocolateCathleen = "How come the stadium got hot after the game? Because all of the fans left."
+  VeryEmeraldPatrice = 307
+  DangerousIndigoCarol = true
+  FastJadeGwenny = "Why didnt the skeleton cross the road? Because he had no guts."
+  TrickyTanHelenka = true
+  OpenEmeraldWaneta = 70
+  EverydayAmberCathlene = "Why do birds fly south for the winter? Because it's too far to walk."
+  KindPeachAlessandra = false
+  CertainPinkRiannon = false
+  FamousYellowSteffi = false
+  SunnyRoseJeri = file("ChemicalMagentaMarijo.txt")
+  HilariousJadeCollete = true
+  ClumsyRedBryn = 456
+  BurningBeigeArabella = "Why was it called the dark ages? Because of all the knights. "
+  EmotionalAmethystPortia = false
+  JewishBlushDanni = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+}

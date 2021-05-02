@@ -1,0 +1,24 @@
+type dummy.ReligiousPurpleGabriellia {
+  annotations {
+    string ApplicableSalmonWinne {
+    }
+    string HugeYellowBenetta {
+    }
+    dummy.DesirableOrangeElla WillingTanKirsteni {
+    }
+    dummy.AmazingTealOlympia HealthyFuchsiaIbby {
+    }
+    dummy.ParticularPurpleOfilia HonestGoldTarrah {
+    }
+    number ZanyJadeAuria {
+    }
+  }
+  serviceid TeenageRoseIrene {
+  }
+  ApplicableSalmonWinne = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  HugeYellowBenetta = "To be Frank, I'd have to change my name."
+  HealthyFuchsiaIbby = file("FollowingLimeBreena.txt")
+  HonestGoldTarrah = true
+  ZanyJadeAuria = 974
+  _hidden_value = true
+}

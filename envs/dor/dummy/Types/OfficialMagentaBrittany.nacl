@@ -1,0 +1,50 @@
+type dummy.OfficialMagentaBrittany {
+  annotations {
+    string FrenchCyanClarey {
+    }
+    string GorgeousAzureStacy {
+    }
+    dummy.ConfusedBlushMair GiantChocolateHinda {
+    }
+    dummy.KoreanTurquoiseJeannie SubjectiveVioletMarji {
+    }
+    json DefiniteCyanBertha {
+    }
+  }
+  dummy.MalePurpleAdella FluffySilverVyky {
+    PreferredSalmonLynnea = "Why was it called the dark ages? Because of all the knights. "
+    ScaredAquaDina = 829
+    MoralPurpleNorma = "Dad Im hungry  Hi hungry Im dad"
+    UrgentEmeraldAriadne = 798
+    SteadyAmethystPrudi = "Dad Im hungry  Hi hungry Im dad"
+    DullSapphireMeredith = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    RealisticOliveMarinna = 8
+    TroubledIndigoWinnie = "To be Frank, I'd have to change my name."
+    CollectiveTanMissy = "Why was it called the dark ages? Because of all the knights. "
+  }
+  dummy.IndependentPinkCatha UniqueLavenderNichol {
+    NiceHarlequinStefania = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    MagnificentCoffeeMerola = "My first time using an elevator was an uplifting experience. The second time let me down."
+    SubsequentBlackCharin = "What do you call two barracuda fish?  A Pairacuda!"
+    SpareTomatoJeanie = 346
+    ObviousTomatoJen = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    PresentGoldBriney = "Dad Im hungry  Hi hungry Im dad"
+    TopBlueMelita = "Dad Im hungry  Hi hungry Im dad"
+    ToughAmaranthBren = true
+    OccasionalBlueCourtenay = 5
+    IndianOrangeFilippa = true
+    QuietLimeCristen = 939
+    GrievingLavenderTera = 212
+    NoisyPlumIrena = true
+    FrozenBlushJean = {
+      legit = "Im only familiar with 25 letters in the English language. I dont know why."
+    }
+    VeryBrownGaby = "To be Frank, I'd have to change my name."
+    ExcitingPurpleJoli = "Whoever invented the knock-knock joke should get a no bell prize."
+  }
+  FrenchCyanClarey = "What did one nut say as he chased another nut?  I'm a cashew!"
+  GorgeousAzureStacy = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  SubjectiveVioletMarji = file("SurroundingGreenTrina.txt")
+  DefiniteCyanBertha = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  _hidden_value = true
+}

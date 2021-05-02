@@ -1,0 +1,25 @@
+type dummy.MistyBlueEvaleen {
+  annotations {
+    string NationalVioletGwenette {
+    }
+    number InternationalYellowMaybelle {
+    }
+    boolean LooseIndigoAbby {
+    }
+    json ManualTurquoiseCorabel {
+    }
+    dummy.SmartCoralPam PremierAmberMerna {
+    }
+  }
+  dummy.MobileAmberGrissel CommercialGoldPetronella {
+    RussianCoffeeDorothea = "What creature is smarter than a talking parrot? A spelling bee."
+    MeaningfulGreenCassie = 122
+    TastelessLavenderReba = false
+    SillyApricotAmber = "Whoever invented the knock-knock joke should get a no bell prize."
+  }
+  NationalVioletGwenette = "Why didnt the skeleton cross the road? Because he had no guts."
+  InternationalYellowMaybelle = 257
+  LooseIndigoAbby = false
+  ManualTurquoiseCorabel = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _hidden_value = true
+}

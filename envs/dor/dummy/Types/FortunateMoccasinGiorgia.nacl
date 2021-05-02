@@ -1,0 +1,28 @@
+type dummy.FortunateMoccasinGiorgia {
+  annotations {
+    dummy.IndependentPinkCatha EducationalChocolateDrucill {
+    }
+    dummy.GastricPinkAngy ShallowGrayCordy {
+    }
+    dummy.PreciousVioletAnnabelle SquareGreenCherianne {
+    }
+    number GloriousAmaranthOlive {
+    }
+    dummy.KoreanTurquoiseJeannie StaleLavenderBobine {
+    }
+    dummy.DEFAULT ContinuousBronzeDorita {
+    }
+  }
+  string LittleTealTerra {
+  }
+  boolean HilariousAzureAnnamarie {
+  }
+  EducationalChocolateDrucill = false
+  SquareGreenCherianne = file("CommercialPurpleDebbie.txt")
+  GloriousAmaranthOlive = 348
+  StaleLavenderBobine = file("LovelyGoldKristel.txt")
+  ContinuousBronzeDorita = {
+    legit = "Why was it called the dark ages? Because of all the knights. "
+  }
+  _hidden_value = true
+}
