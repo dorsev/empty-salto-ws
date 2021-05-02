@@ -1,4 +1,5 @@
 envs {
+<<<<<<< HEAD
   envsCloud = [
     {
       uuid = "fdcf4847-fcef-432f-a68f-e84be3ea9c13"
@@ -7,6 +8,12 @@ envs {
     {
       uuid = "db9dd165-0416-45de-98e5-6c76b689b89c"
       folderName = "dor"
+=======
+  envs = [
+    {
+      uuid = "9c8b985c-1a38-4f5f-a526-b583ccd71c1b"
+      folderName = "TomerEnv"
+>>>>>>> remotes/origin/b1
     },
   ]
 }

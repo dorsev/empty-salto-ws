@@ -1,5 +1,10 @@
 workspace {
+<<<<<<< HEAD
   uid = "4027a08b-7a39-4f53-a395-c9a45a9f3b1a"
   name = "cup"
+=======
+  uid = "ebbe9039-2b1f-401a-9c74-6e1d24840629"
+  name = "empty"
+>>>>>>> remotes/origin/b1
   staleStateThresholdMinutes = undefined
 }
