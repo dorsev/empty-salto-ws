@@ -1,8 +1,8 @@
 envs {
-  envs = [
+  envsCloud = [
     {
-      uuid = "9c8b985c-1a38-4f5f-a526-b583ccd71c1b"
-      folderName = "TomerEnv"
+      uuid = "45a45312-fc25-404b-8999-72c7066325ed"
+      folderName = "asd"
     },
   ]
 }
